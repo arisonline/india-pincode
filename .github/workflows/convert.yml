@@ -3,25 +3,28 @@ name: Convert CSV to JSON
 on:
   workflow_dispatch:
 
-  jobs:
-    convert:
-        runs-on: ubuntu-latest
-            steps:
-                  - uses: actions/checkout@v4
+jobs:
+  convert:
+    runs-on: ubuntu-latest
 
-                        - uses: actions/setup-node@v4
-                                with:
-                                          node-version: 20
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-                                                - name: Run conversion
-                                                        run: |
-                                                                  node scripts/convert.js
-                                                                            node scripts/split.js
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
 
-                                                                                  - name: Commit result
-                                                                                          run: |
-                                                                                                    git config user.name "github-actions"
-                                                                                                              git config user.email "actions@github.com"
-                                                                                                                        git add data/*.json
-                                                                                                                                  git commit -m "Auto convert CSV to JSON"
-                                                                                                                                            git push
+      - name: Run conversion scripts
+        run: |
+          node scripts/convert.js
+          node scripts/split.js
+
+      - name: Commit generated files
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data/*.json
+          git commit -m "Auto convert CSV to JSON" || echo "Nothing to commit"
+          git push
