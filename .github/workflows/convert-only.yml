@@ -1,4 +1,4 @@
-name: Convert CSV to JSON (Test Only)
+name: Convert CSV to JSON
 
 on:
   workflow_dispatch:
@@ -17,7 +17,12 @@ jobs:
           node-version: "20"
 
       - name: Convert CSV
+        run: node scripts/convert.js
+
+      - name: Commit JSON safely
         run: |
-          node scripts/convert.js
-          echo "---- FILES IN data/ ----"
-          ls -lh data
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data/pincodes.json
+          git diff --cached --quiet || git commit -m "Convert CSV to JSON"
+          git push
