@@ -18,7 +18,7 @@ jobs:
 
       - name: Split JSON
         run: |
-          node scripts/split-by-state.js
+          node scripts/split.js
           ls -lh data
 
       - name: Commit state files
