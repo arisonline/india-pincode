@@ -1,0 +1,23 @@
+name: Convert CSV to JSON (Test Only)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Convert CSV
+        run: |
+          node scripts/convert.js
+          echo "---- FILES IN data/ ----"
+          ls -lh data
