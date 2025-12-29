@@ -1,65 +1,62 @@
+let stateMap = null;
+
+async function loadStateMap() {
+  if (!stateMap) {
+    const res = await fetch("data/state-map.json");
+    stateMap = await res.json();
+  }
+  return stateMap;
+}
+
 async function searchPincode() {
   const pin = document.getElementById("pin").value.trim();
   const resultDiv = document.getElementById("result");
-
   resultDiv.innerHTML = "";
 
-  // basic validation
   if (!/^\d{6}$/.test(pin)) {
     resultDiv.innerHTML = "❌ Enter a valid 6-digit pincode";
     return;
   }
 
-  // 🔹 We don't know the state yet
-  // So we search ALL state files (one by one)
-  const states = [
-    "Assam",
-    "Delhi",
-    "West_Bengal",
-    "Telangana",
-    "Tamil_Nadu",
-    "Uttar_Pradesh"
-    // 👉 later we will auto-generate this list
-  ];
+  const map = await loadStateMap();
+  const prefix = pin.substring(0, 2);
+  const state = map[prefix];
 
-  let found = [];
-
-  for (const state of states) {
-    try {
-      const res = await fetch(`data/${state}.json`);
-      if (!res.ok) continue;
-
-      const data = await res.json();
-      const matches = data.filter(r => r.pincode === pin);
-
-      if (matches.length) {
-        found = found.concat(matches);
-      }
-    } catch (e) {
-      // ignore missing files
-    }
-  }
-
-  if (!found.length) {
-    resultDiv.innerHTML = "❌ Pincode not found";
+  if (!state) {
+    resultDiv.innerHTML = "❌ State not found for this pincode";
     return;
   }
 
-  // show results
-  found.forEach(r => {
-    const div = document.createElement("div");
-    div.style.border = "1px solid #ddd";
-    div.style.padding = "8px";
-    div.style.margin = "6px 0";
+  try {
+    const res = await fetch(`data/${state}.json`);
+    if (!res.ok) throw new Error("State file missing");
 
-    div.innerHTML = `
-      <b>${r.office}</b><br>
-      District: ${r.district}<br>
-      State: ${r.state}<br>
-      Circle: ${r.circle}<br>
-      Region: ${r.region}
-    `;
+    const data = await res.json();
+    const matches = data.filter(r => r.pincode === pin);
 
-    resultDiv.appendChild(div);
-  });
-        }
+    if (!matches.length) {
+      resultDiv.innerHTML = "❌ Pincode not found";
+      return;
+    }
+
+    matches.forEach(r => {
+      const div = document.createElement("div");
+      div.style.border = "1px solid #ddd";
+      div.style.padding = "8px";
+      div.style.margin = "6px 0";
+
+      div.innerHTML = `
+        <b>${r.office}</b><br>
+        District: ${r.district}<br>
+        State: ${r.state}<br>
+        Circle: ${r.circle}<br>
+        Region: ${r.region}
+      `;
+
+      resultDiv.appendChild(div);
+    });
+
+  } catch (e) {
+    resultDiv.innerHTML = "❌ Data not available";
+  }
+}
