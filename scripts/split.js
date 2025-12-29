@@ -1,36 +1,39 @@
 import fs from "fs";
 
-const raw = fs.readFileSync("data/pincodes.json", "utf8");
-const data = JSON.parse(raw);
+const data = JSON.parse(
+  fs.readFileSync("data/pincodes.json", "utf8")
+);
+
+// Convert "WEST BENGAL" → "West_Bengal"
+function toTitleCaseState(state) {
+  return state
+    .toLowerCase()
+    .split(" ")
+    .map(w => w.charAt(0).toUpperCase() + w.slice(1))
+    .join("_");
+}
 
 const states = {};
 
-data.forEach(row => {
-  // Adjust these keys if your CSV uses different names
-  const state =
-    row.State ||
-    row.state ||
-    row.StateName ||
-    row.STATE;
+for (const row of data) {
+  const rawState = row.state || row.statename;
+  if (!rawState) continue;
 
-  if (!state) return;
+  const stateFile = toTitleCaseState(rawState.trim());
 
-  // Clean state name for filename
-  const safeState = state
-    .trim()
-    .replace(/\s+/g, "_")
-    .replace(/[^\w_]/g, "");
+  if (!states[stateFile]) states[stateFile] = [];
+  states[stateFile].push(row);
+}
 
-  if (!states[safeState]) states[safeState] = [];
-  states[safeState].push(row);
-});
-
-// Write state-wise JSON files
-Object.keys(states).forEach(state => {
+// Write state-wise files
+for (const state in states) {
   fs.writeFileSync(
     `data/${state}.json`,
-    JSON.stringify(states[state], null, 2)
+    JSON.stringify(states[state])
   );
-});
+}
 
-console.log("State-wise JSON created");
+// Remove large master file
+fs.unlinkSync("data/pincodes.json");
+
+console.log("State-wise JSON created (Title Case)");
