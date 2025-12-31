@@ -1,6 +1,8 @@
 const fs = require("fs");
 const path = require("path");
 
+/* ---------------- SAFE FOLDERS ---------------- */
+
 const SAFE_DIRS = new Set([
   "site",
   "data",
@@ -9,8 +11,53 @@ const SAFE_DIRS = new Set([
   "node_modules",
 ]);
 
-const root = process.cwd();
+/* ---------------- INDIAN STATES & UTs ---------------- */
+/* Folder names MUST be lowercase */
 
+const INDIAN_STATES = new Set([
+  "andhra-pradesh",
+  "arunachal-pradesh",
+  "assam",
+  "bihar",
+  "chhattisgarh",
+  "goa",
+  "gujarat",
+  "haryana",
+  "himachal-pradesh",
+  "jharkhand",
+  "karnataka",
+  "kerala",
+  "madhya-pradesh",
+  "maharashtra",
+  "manipur",
+  "meghalaya",
+  "mizoram",
+  "nagaland",
+  "odisha",
+  "punjab",
+  "rajasthan",
+  "sikkim",
+  "tamil-nadu",
+  "telangana",
+  "tripura",
+  "uttar-pradesh",
+  "uttarakhand",
+  "west-bengal",
+
+  // Union Territories
+  "andaman-nicobar-islands",
+  "chandigarh",
+  "dadra-nagar-haveli-daman-diu",
+  "delhi",
+  "jammu-kashmir",
+  "ladakh",
+  "lakshadweep",
+  "puducherry",
+]);
+
+/* ---------------- CLEANUP ROOT ---------------- */
+
+const root = process.cwd();
 const items = fs.readdirSync(root, { withFileTypes: true });
 
 for (const item of items) {
@@ -18,27 +65,25 @@ for (const item of items) {
 
   const name = item.name;
 
+  // safety checks
   if (SAFE_DIRS.has(name)) continue;
   if (name.startsWith(".")) continue;
 
-  // delete SEO-generated folders
-  const looksGenerated =
-    name === name.toLowerCase() &&
-    (name.includes("-") || /\d/.test(name));
-
-  if (looksGenerated) {
+  // ✅ delete only real state/UT folders
+  if (INDIAN_STATES.has(name)) {
     fs.rmSync(path.join(root, name), {
       recursive: true,
       force: true,
     });
-    console.log("Deleted:", name);
+    console.log(`🧹 Deleted state folder: ${name}`);
   }
 }
 
-// delete old root index.html
-if (fs.existsSync("index.html")) {
-  fs.rmSync("index.html", { force: true });
-  console.log("Deleted root index.html");
+/* delete root index.html if exists */
+const rootIndex = path.join(root, "index.html");
+if (fs.existsSync(rootIndex)) {
+  fs.rmSync(rootIndex, { force: true });
+  console.log("🧹 Deleted root index.html");
 }
 
-console.log("Cleanup done");
+console.log("✅ Root state cleanup completed");
