@@ -2,7 +2,7 @@ import fs from "fs";
 import path from "path";
 
 const dataDir = "data";
-const outDir = "public";
+const outDir = "site";
 
 /* 🔥 CLEAN public folder (overwrite, no duplicates) */
 if (fs.existsSync(outDir)) {
