@@ -16,63 +16,73 @@ function slugify(text = "") {
     .replace(/[^a-z0-9-]/g, "");
 }
 
-/* ---------------- READ DATA FILES ---------------- */
-
-let dataFiles = [];
-if (fs.existsSync(DATA_DIR)) {
-  dataFiles = fs.readdirSync(DATA_DIR).filter(f => f.endsWith(".json"));
-}
-
-/* ---------------- COLLECT STATE SLUGS ---------------- */
+/* ---------------- STEP 1: READ STATE SLUGS FROM DATA ---------------- */
 
 const stateSlugs = new Set();
 
-for (const file of dataFiles) {
-  try {
-    const rows = JSON.parse(
-      fs.readFileSync(path.join(DATA_DIR, file), "utf8")
-    );
+if (fs.existsSync(DATA_DIR)) {
+  const dataFiles = fs
+    .readdirSync(DATA_DIR)
+    .filter(f => f.endsWith(".json"));
 
-    if (Array.isArray(rows)) {
-      for (const r of rows) {
-        if (r && r.state) {
-          stateSlugs.add(slugify(r.state));
+  for (const file of dataFiles) {
+    try {
+      const rows = JSON.parse(
+        fs.readFileSync(path.join(DATA_DIR, file), "utf8")
+      );
+
+      if (Array.isArray(rows)) {
+        for (const r of rows) {
+          if (r && r.state) {
+            stateSlugs.add(slugify(r.state));
+          }
         }
       }
+    } catch {
+      // ignore bad JSON
     }
-  } catch {
-    // ignore bad JSON
   }
 }
 
-/* ---------------- DELETE ROOT STATE FOLDERS ONLY ---------------- */
+/* ---------------- STEP 2: SCAN ROOT FOLDERS ---------------- */
 
-for (const state of stateSlugs) {
-  // SAFETY: never touch site/
-  if (state === SITE_DIR) continue;
+const rootItems = fs.readdirSync(process.cwd(), { withFileTypes: true });
 
-  const rootPath = path.join(process.cwd(), state);
+for (const item of rootItems) {
+  if (!item.isDirectory()) continue;
 
-  if (fs.existsSync(rootPath) && fs.statSync(rootPath).isDirectory()) {
-    fs.rmSync(rootPath, { recursive: true, force: true });
-    console.log("🧹 Deleted root folder:", state);
+  const folderName = item.name;
+
+  // 🔒 SAFETY RULES
+  if (folderName === SITE_DIR) continue;
+  if (folderName.startsWith(".")) continue;
+  if (folderName === "data") continue;
+  if (folderName === "scripts") continue;
+  if (folderName === "node_modules") continue;
+
+  // ✅ Delete only if folder matches a state slug
+  if (stateSlugs.has(folderName)) {
+    fs.rmSync(path.join(process.cwd(), folderName), {
+      recursive: true,
+      force: true,
+    });
+    console.log(`🧹 Deleted root state folder: ${folderName}/`);
   }
 }
 
-/* delete old root index.html if exists */
+/* ---------------- STEP 3: DELETE OLD ROOT index.html ---------------- */
+
 const rootIndex = path.join(process.cwd(), "index.html");
 if (fs.existsSync(rootIndex)) {
   fs.rmSync(rootIndex, { force: true });
-  console.log("🧹 Deleted root index.html");
+  console.log("🧹 Deleted old root index.html");
 }
 
-/* ---------------- ENSURE site/ EXISTS ---------------- */
+/* ---------------- STEP 4: ENSURE site/ EXISTS ---------------- */
 
-if (!fs.existsSync(SITE_DIR)) {
-  fs.mkdirSync(SITE_DIR, { recursive: true });
-}
+fs.mkdirSync(SITE_DIR, { recursive: true });
 
-/* ---------------- HOMEPAGE ---------------- */
+/* ---------------- STEP 5: HOMEPAGE ---------------- */
 
 fs.writeFileSync(
   path.join(SITE_DIR, "index.html"),
@@ -89,35 +99,40 @@ fs.writeFileSync(
 </html>`
 );
 
-/* ---------------- GENERATE PINCODE PAGES ---------------- */
+/* ---------------- STEP 6: GENERATE PINCODE PAGES ---------------- */
 
-for (const file of dataFiles) {
-  let rows = [];
-  try {
-    rows = JSON.parse(
-      fs.readFileSync(path.join(DATA_DIR, file), "utf8")
-    );
-  } catch {
-    continue;
-  }
+if (fs.existsSync(DATA_DIR)) {
+  const dataFiles = fs
+    .readdirSync(DATA_DIR)
+    .filter(f => f.endsWith(".json"));
 
-  if (!Array.isArray(rows)) continue;
-
-  for (const r of rows) {
+  for (const file of dataFiles) {
+    let rows = [];
     try {
-      if (!r || !r.pincode || !r.office || !r.state) continue;
+      rows = JSON.parse(
+        fs.readFileSync(path.join(DATA_DIR, file), "utf8")
+      );
+    } catch {
+      continue;
+    }
 
-      const state = slugify(r.state);
-      const district = slugify(r.district || "unknown-district");
-      const office = slugify(r.office);
-      const pin = String(r.pincode);
+    if (!Array.isArray(rows)) continue;
 
-      const dir = path.join(SITE_DIR, state, district, office, pin);
-      fs.mkdirSync(dir, { recursive: true });
+    for (const r of rows) {
+      try {
+        if (!r || !r.pincode || !r.office || !r.state) continue;
 
-      fs.writeFileSync(
-        path.join(dir, "index.html"),
-        `<!DOCTYPE html>
+        const state = slugify(r.state);
+        const district = slugify(r.district || "unknown-district");
+        const office = slugify(r.office);
+        const pin = String(r.pincode);
+
+        const dir = path.join(SITE_DIR, state, district, office, pin);
+        fs.mkdirSync(dir, { recursive: true });
+
+        fs.writeFileSync(
+          path.join(dir, "index.html"),
+          `<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -134,11 +149,12 @@ for (const file of dataFiles) {
 </ul>
 </body>
 </html>`
-      );
-    } catch {
-      // skip bad row
+        );
+      } catch {
+        // skip broken row
+      }
     }
   }
 }
 
-console.log("✅ Build finished successfully");
+console.log("✅ Root state folders detected & cleaned correctly");
