@@ -1,4 +1,4 @@
-name: Generate SEO Pages
+name: Generate & Deploy Site
 
 on:
   workflow_dispatch:
@@ -6,28 +6,30 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: "20"
 
-      - name: Generate pages
-        run: |
-          node scripts/generate-pages.js
-          echo "Pages generated"
+      - name: Generate site
+        run: node scripts/generate-pages.js
 
-      - name: Commit pages
+      # GitHub Pages needs root, so copy site → root
+      - name: Prepare root for GitHub Pages
+        run: |
+          shopt -s extglob
+          rm -rf !(site|data|scripts|.github)
+          cp -r site/* .
+
+      - name: Commit website
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add public
-          git diff --cached --quiet || git commit -m "Generate SEO pincode pages"
+          git add .
+          git diff --cached --quiet || git commit -m "Deploy generated site"
           git push
