@@ -6,30 +6,37 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 30   # ⏱️ prevent timeout
+
     permissions:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
           node-version: "20"
 
       - name: Generate site
         run: node scripts/generate-pages.js
 
-      # GitHub Pages needs root, so copy site → root
+      # GitHub Pages needs files in root
       - name: Prepare root for GitHub Pages
         run: |
           shopt -s extglob
-          rm -rf !(site|data|scripts|.github)
+          rm -rf !(site|data|scripts|.github|.gitignore)
           cp -r site/* .
 
-      - name: Commit website
+      - name: Commit (optimized, no git add .)
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add .
+
+          # Add only top-level generated items
+          git add index.html */ || true
+
           git diff --cached --quiet || git commit -m "Deploy generated site"
           git push
