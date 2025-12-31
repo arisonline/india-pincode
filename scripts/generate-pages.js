@@ -4,64 +4,41 @@ import path from "path";
 const dataDir = "data";
 const outDir = "public";
 
-/**
- * Clean post office name ONLY for URL
- * Example:
- * "Sindrani S.O" → "sindrani"
- * "Nataberia B.O" → "nataberia"
- */
-function cleanOfficeForUrl(name) {
-  return name
-    .toLowerCase()
-    .replace(/\b(b\.?o\.?|s\.?o\.?|h\.?o\.?)\b/g, "") // remove BO, SO, HO
-    .replace(/\./g, "")                               // remove dots
-    .trim()
-    .replace(/\s+/g, "-")                             // spaces → hyphen
-    .replace(/[^a-z0-9-]/g, "");                      // safe chars only
-}
-
-/**
- * General slug for state / district
- */
 function slugify(text) {
   return text
     .toLowerCase()
     .trim()
+    .replace(/\b(b\.?o\.?|s\.?o\.?|h\.?o\.?)\b/g, "")
     .replace(/\./g, "")
     .replace(/\s+/g, "-")
     .replace(/[^a-z0-9-]/g, "");
 }
 
-function pageTemplate(d) {
-  return `<!DOCTYPE html>
-<html lang="en">
+function ensureIndex(dir, title, linksHtml) {
+  const file = path.join(dir, "index.html");
+  if (fs.existsSync(file)) return;
+
+  fs.writeFileSync(
+    file,
+    `<!DOCTYPE html>
+<html>
 <head>
   <meta charset="utf-8">
-  <title>${d.office}, ${d.district}, ${d.state} – Pincode ${d.pincode}</title>
-  <meta name="description" content="Pincode ${d.pincode} of ${d.office}, ${d.district}, ${d.state}. Official India Post details.">
+  <title>${title}</title>
   <meta name="robots" content="index, follow">
 </head>
 <body>
-
-<h1>${d.office}</h1>
-
+<h1>${title}</h1>
 <ul>
-  <li><b>Pincode:</b> ${d.pincode}</li>
-  <li><b>Post Office:</b> ${d.office}</li>
-  <li><b>District:</b> ${d.district}</li>
-  <li><b>State:</b> ${d.state}</li>
-  <li><b>Circle:</b> ${d.circle}</li>
-  <li><b>Region:</b> ${d.region}</li>
+${linksHtml}
 </ul>
-
-<hr>
-<p>Data Source: Department of Posts, Government of India (data.gov.in)</p>
-
 </body>
-</html>`;
+</html>`
+  );
 }
 
-// Read all state JSON files
+const stateMap = {};
+
 const files = fs.readdirSync(dataDir).filter(f =>
   f.endsWith(".json") && !f.startsWith("state-map")
 );
@@ -76,10 +53,10 @@ for (const file of files) {
 
     const stateSlug = slugify(r.state);
     const districtSlug = slugify(r.district);
-    const officeSlug = cleanOfficeForUrl(r.office);
+    const officeSlug = slugify(r.office);
     const pin = r.pincode;
 
-    const dirPath = path.join(
+    const pinDir = path.join(
       outDir,
       stateSlug,
       districtSlug,
@@ -87,13 +64,59 @@ for (const file of files) {
       pin
     );
 
-    fs.mkdirSync(dirPath, { recursive: true });
+    fs.mkdirSync(pinDir, { recursive: true });
 
+    // Pincode page
     fs.writeFileSync(
-      path.join(dirPath, "index.html"),
-      pageTemplate(r)
+      path.join(pinDir, "index.html"),
+      `<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>${r.office}, ${r.district}, ${r.state} – ${r.pincode}</title>
+</head>
+<body>
+<h1>${r.office}</h1>
+<p><b>Pincode:</b> ${r.pincode}</p>
+<p><b>District:</b> ${r.district}</p>
+<p><b>State:</b> ${r.state}</p>
+</body>
+</html>`
+    );
+
+    // Track structure
+    stateMap[stateSlug] ??= {};
+    stateMap[stateSlug][districtSlug] ??= new Set();
+    stateMap[stateSlug][districtSlug].add(officeSlug);
+  }
+}
+
+/* Create index pages */
+for (const state in stateMap) {
+  const stateDir = path.join(outDir, state);
+  const districts = stateMap[state];
+
+  let districtLinks = "";
+  for (const district in districts) {
+    districtLinks += `<li><a href="./${district}/">${district.replace(/-/g, " ")}</a></li>`;
+  }
+
+  ensureIndex(stateDir, `${state.replace(/-/g, " ")} Pincode List`, districtLinks);
+
+  for (const district in districts) {
+    const districtDir = path.join(stateDir, district);
+    let officeLinks = "";
+
+    for (const office of districts[district]) {
+      officeLinks += `<li><a href="./${office}/">${office.replace(/-/g, " ")}</a></li>`;
+    }
+
+    ensureIndex(
+      districtDir,
+      `${district.replace(/-/g, " ")} Post Offices`,
+      officeLinks
     );
   }
 }
 
-console.log("✅ SEO pages generated with clean post office URLs");
+console.log("✅ All index pages generated");
