@@ -18,11 +18,10 @@ for (const item of items) {
 
   const name = item.name;
 
-  // never delete safe folders
   if (SAFE_DIRS.has(name)) continue;
   if (name.startsWith(".")) continue;
 
-  // delete only SEO-generated folders
+  // delete SEO-generated folders
   const looksGenerated =
     name === name.toLowerCase() &&
     (name.includes("-") || /\d/.test(name));
@@ -32,15 +31,14 @@ for (const item of items) {
       recursive: true,
       force: true,
     });
-    console.log(`🧹 Deleted root folder: ${name}`);
+    console.log("Deleted:", name);
   }
 }
 
 // delete old root index.html
-const rootIndex = path.join(root, "index.html");
-if (fs.existsSync(rootIndex)) {
-  fs.rmSync(rootIndex, { force: true });
-  console.log("🧹 Deleted root index.html");
+if (fs.existsSync("index.html")) {
+  fs.rmSync("index.html", { force: true });
+  console.log("Deleted root index.html");
 }
 
-console.log("✅ Root cleanup completed");
+console.log("Cleanup done");
