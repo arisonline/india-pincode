@@ -1,4 +1,4 @@
-name: Cleanup Root Before Cloudflare
+name: Cleanup Root Folders
 
 on:
   workflow_dispatch:
@@ -16,14 +16,14 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Cleanup root folders
+      - name: Run cleanup
         run: node scripts/cleanup-root.js
 
-      - name: Commit cleanup
+      - name: Commit deletion
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
           git add -A
-          git diff --cached --quiet || git commit -m "Auto cleanup old root state folders"
+          git diff --cached --quiet || git commit -m "Auto delete old root state folders"
           git push
