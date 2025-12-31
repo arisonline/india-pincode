@@ -1,0 +1,28 @@
+name: Generate 3-digit State Map
+
+on:
+  workflow_dispatch:
+
+jobs:
+  map:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate state map
+        run: |
+          node scripts/generate-state-map.js
+          ls -lh data
+
+      - name: Commit state map
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data/state-map-3digit.json
+          git diff --cached --quiet || git commit -m "Auto generate 3-digit state map"
+          git push
