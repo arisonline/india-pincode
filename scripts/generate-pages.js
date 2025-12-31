@@ -2,13 +2,17 @@ import fs from "fs";
 import path from "path";
 
 const dataDir = "data";
-const outDir = "site";
+const siteDir = "site";
+const publicDir = "public";
 
-/* 🔥 CLEAN public folder (overwrite, no duplicates) */
-if (fs.existsSync(outDir)) {
-  fs.rmSync(outDir, { recursive: true, force: true });
+/* 🔥 CLEAN OLD FOLDERS (SAFE) */
+if (fs.existsSync(publicDir)) {
+  fs.rmSync(publicDir, { recursive: true, force: true });
 }
-fs.mkdirSync(outDir);
+if (fs.existsSync(siteDir)) {
+  fs.rmSync(siteDir, { recursive: true, force: true });
+}
+fs.mkdirSync(siteDir);
 
 /* ---------- HELPERS ---------- */
 
@@ -32,11 +36,8 @@ function slugify(text) {
 }
 
 function writeIndex(dir, title, links) {
-  const file = path.join(dir, "index.html");
-  if (fs.existsSync(file)) return;
-
   fs.writeFileSync(
-    file,
+    path.join(dir, "index.html"),
     `<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -54,9 +55,27 @@ ${links}
   );
 }
 
-/* ---------- MAIN LOGIC ---------- */
+/* ---------- HOMEPAGE ---------- */
 
-const tree = {}; // state -> district -> offices(set)
+fs.writeFileSync(
+  path.join(siteDir, "index.html"),
+  `<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>India Pincode Directory</title>
+  <meta name="description" content="Search Indian pincodes by state, district and post office.">
+</head>
+<body>
+<h1>India Pincode Directory</h1>
+<p>Browse states, districts, post offices and pincodes.</p>
+</body>
+</html>`
+);
+
+/* ---------- MAIN GENERATION ---------- */
+
+const tree = {}; // state → district → offices
 
 const files = fs.readdirSync(dataDir).filter(
   f => f.endsWith(".json") && !f.startsWith("state-map")
@@ -75,50 +94,40 @@ for (const file of files) {
     const office = cleanOfficeForUrl(r.office);
     const pin = r.pincode;
 
-    const pinDir = path.join(outDir, state, district, office, pin);
+    const pinDir = path.join(siteDir, state, district, office, pin);
     fs.mkdirSync(pinDir, { recursive: true });
 
-    /* Pincode page */
     fs.writeFileSync(
       path.join(pinDir, "index.html"),
       `<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>${r.office}, ${r.district}, ${r.state} – Pincode ${r.pincode}</title>
-  <meta name="description" content="Pincode ${r.pincode} of ${r.office}, ${r.district}, ${r.state}. Official India Post details.">
+  <title>${r.office}, ${r.district}, ${r.state} – ${r.pincode}</title>
 </head>
 <body>
-
 <h1>${r.office}</h1>
-
 <ul>
   <li><b>Pincode:</b> ${r.pincode}</li>
-  <li><b>Post Office:</b> ${r.office}</li>
   <li><b>District:</b> ${r.district}</li>
   <li><b>State:</b> ${r.state}</li>
   <li><b>Circle:</b> ${r.circle}</li>
   <li><b>Region:</b> ${r.region}</li>
 </ul>
-
-<hr>
-<p>Data Source: Department of Posts, Government of India (data.gov.in)</p>
-
 </body>
 </html>`
     );
 
-    /* Track structure */
     tree[state] ??= {};
     tree[state][district] ??= new Set();
     tree[state][district].add(office);
   }
 }
 
-/* ---------- CREATE INDEX PAGES ---------- */
+/* ---------- INDEX PAGES ---------- */
 
 for (const state in tree) {
-  const stateDir = path.join(outDir, state);
+  const stateDir = path.join(siteDir, state);
   let districtLinks = "";
 
   for (const district in tree[state]) {
@@ -147,4 +156,4 @@ for (const state in tree) {
   }
 }
 
-console.log("✅ All pages generated cleanly (public overwritten)");
+console.log("✅ site/ generated, public/ removed");
