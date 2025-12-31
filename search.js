@@ -2,18 +2,10 @@ let stateMap = null;
 
 async function loadStateMap() {
   if (!stateMap) {
-    const res = await fetch("data/state-map.json");
+    const res = await fetch("data/state-map-3digit.json");
     stateMap = await res.json();
   }
   return stateMap;
-}
-
-function normalizeStateFile(state) {
-  return state
-    .toLowerCase()
-    .split("_")
-    .map(w => w.charAt(0).toUpperCase() + w.slice(1))
-    .join("_");
 }
 
 async function searchPincode() {
@@ -27,15 +19,13 @@ async function searchPincode() {
   }
 
   const map = await loadStateMap();
-  const prefix = pin.substring(0, 2);
-  const rawState = map[prefix];
+  const prefix3 = pin.substring(0, 3);
+  const state = map[prefix3];
 
   let found = [];
 
-  // 🔹 FAST PATH (state based)
-  if (rawState) {
-    const state = normalizeStateFile(rawState);
-
+  // FAST PATH (accurate)
+  if (state) {
     try {
       const res = await fetch(`data/${state}.json`);
       if (res.ok) {
@@ -45,15 +35,11 @@ async function searchPincode() {
     } catch {}
   }
 
-  // 🔹 FALLBACK PATH (rare but accurate)
+  // SAFETY FALLBACK (rare, but 100%)
   if (!found.length) {
-    const states = await fetch("data/state-map.json").then(r => r.json());
-    const uniqueStates = [...new Set(Object.values(states))];
-
-    for (const s of uniqueStates) {
-      const file = normalizeStateFile(s);
+    for (const s of Object.values(map)) {
       try {
-        const res = await fetch(`data/${file}.json`);
+        const res = await fetch(`data/${s}.json`);
         if (!res.ok) continue;
         const data = await res.json();
         const matches = data.filter(r => r.pincode === pin);
