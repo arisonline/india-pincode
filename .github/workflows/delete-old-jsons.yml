@@ -1,0 +1,25 @@
+name: Delete Old State JSON Files
+
+on:
+  workflow_dispatch:
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Delete old state JSON files
+        run: node scripts/delete-old-jsons.js
+
+      - name: Commit deletions
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data
+          git commit -m "Delete old state JSON files" || true
+          git push
