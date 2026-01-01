@@ -1,52 +1,39 @@
 const fs = require("fs");
-const path = require("path");
 
-const dataDir = "data";
-
-const files = fs.readdirSync(dataDir).filter(f => f.endsWith(".json"));
-
-if (files.length === 0) {
-  console.log("No JSON files found in data/");
-  process.exit(0);
+const STATE = process.argv[2]; // example: West_Bengal
+if (!STATE) {
+  console.error("State name required");
+  process.exit(1);
 }
 
-for (const file of files) {
-  const stateSlug = file
-    .replace(".json", "")
-    .toLowerCase()
-    .replace(/_/g, "-");
+const inputFile = `data/${STATE}.json`;
+const outputFile = `kv-${STATE.toLowerCase().replace(/_/g, "-")}.json`;
 
-  const raw = JSON.parse(
-    fs.readFileSync(path.join(dataDir, file), "utf8")
-  );
+const raw = JSON.parse(fs.readFileSync(inputFile, "utf8"));
 
-  const map = {};
+const map = {};
 
-  for (const r of raw) {
-    const pin = r.pincode;
-    if (!pin) continue;
+for (const r of raw) {
+  if (!r.pincode || !r.office) continue;
 
-    if (!map[pin]) {
-      map[pin] = {
-        state: r.state,
-        district: r.district,
-        offices: []
-      };
-    }
+  const pin = String(r.pincode);
 
-    const officeName = r.office.trim();
-    const typeMatch = officeName.match(/\b(b\.o|s\.o|h\.o|bo|so|ho)\b/i);
-
-    map[pin].offices.push({
-      name: officeName,
-      type: typeMatch ? typeMatch[0].replace(/\./g, "").toUpperCase() : ""
-    });
+  if (!map[pin]) {
+    map[pin] = {
+      state: r.state,
+      district: r.district,
+      offices: []
+    };
   }
 
-  const outFile = `kv-${stateSlug}.json`;
-  fs.writeFileSync(outFile, JSON.stringify(map, null, 2));
+  const officeName = r.office.trim();
+  const typeMatch = officeName.match(/\b(B\.O|S\.O|H\.O|BO|SO|HO)\b/i);
 
-  console.log("Created:", outFile);
+  map[pin].offices.push({
+    name: officeName,
+    type: typeMatch ? typeMatch[0].replace(/\./g, "").toUpperCase() : ""
+  });
 }
 
-console.log("All states processed");
+fs.writeFileSync(outputFile, JSON.stringify(map, null, 2));
+console.log("Created:", outputFile);
