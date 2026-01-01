@@ -1,0 +1,29 @@
+name: Upload Pincode Data to KV
+
+on:
+  workflow_dispatch:
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Prepare KV data
+        run: node scripts/prepare-kv.js
+
+      - name: Upload to Cloudflare KV
+        run: |
+          npm install -g wrangler jq
+          for key in $(jq -r 'keys[]' kv-upload.json); do
+            value=$(jq -c ".\"$key\"" kv-upload.json)
+            wrangler kv:key put "$key" "$value" \
+              --namespace-id=${{ secrets.CF_KV_NAMESPACE_ID }} \
+              --account-id=${{ secrets.CF_ACCOUNT_ID }} \
+              --api-token=${{ secrets.CF_API_TOKEN }}
+          done
