@@ -1,0 +1,29 @@
+name: Convert CSV to KV JSON
+
+on:
+  workflow_dispatch:
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Convert CSV to JSON
+        run: node scripts/csv-to-kv.js
+
+      - name: Commit output
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add kv-from-csv.json
+          git commit -m "Convert CSV to KV-ready JSON" || true
+          git push
