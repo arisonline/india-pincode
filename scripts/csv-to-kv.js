@@ -4,10 +4,8 @@ const { parse } = require("csv-parse/sync");
 const csvFile = "data/pincode.csv";
 const outputFile = "kv-from-csv.json";
 
-// Read CSV
 const csvData = fs.readFileSync(csvFile, "utf8");
 
-// Parse CSV
 const records = parse(csvData, {
   columns: true,
   skip_empty_lines: true
@@ -15,7 +13,6 @@ const records = parse(csvData, {
 
 const map = {};
 
-// Group by pincode
 for (const r of records) {
   const pin = String(r.pincode || "").trim();
   if (!pin) continue;
@@ -28,12 +25,18 @@ for (const r of records) {
     };
   }
 
+  // Push FULL office data (as-is)
   map[pin].offices.push({
-    name: r.officename?.trim(),
-    type: r.officetype?.trim()
+    officename: r.officename?.trim(),
+    officetype: r.officetype?.trim(),
+    delivery: r.delivery?.trim(),
+    divisionname: r.divisionname?.trim(),
+    regionname: r.regionname?.trim(),
+    circlename: r.circlename?.trim(),
+    latitude: r.latitude,
+    longitude: r.longitude
   });
 }
 
-// Save JSON
 fs.writeFileSync(outputFile, JSON.stringify(map, null, 2));
 console.log("Created:", outputFile);
