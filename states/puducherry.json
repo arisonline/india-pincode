@@ -1,0 +1,1042 @@
+{
+  "605001": {
+    "state": "PUDUCHERRY",
+    "district": "PONDICHERRY",
+    "offices": [
+      {
+        "officename": "Pondicherry HO",
+        "officetype": "HO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.9344722",
+        "longitude": "79.8350556"
+      },
+      {
+        "officename": "Pondicherry Bazaar SO",
+        "officetype": "PO",
+        "delivery": "Non Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      }
+    ]
+  },
+  "605002": {
+    "state": "PUDUCHERRY",
+    "district": "PONDICHERRY",
+    "offices": [
+      {
+        "officename": "Sri Aurobindo Ashram SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.9458611",
+        "longitude": "79.8346111"
+      }
+    ]
+  },
+  "605003": {
+    "state": "PUDUCHERRY",
+    "district": "PONDICHERRY",
+    "offices": [
+      {
+        "officename": "Muthialpet SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.9568056",
+        "longitude": "79.8351944"
+      }
+    ]
+  },
+  "605004": {
+    "state": "PUDUCHERRY",
+    "district": "PONDICHERRY",
+    "offices": [
+      {
+        "officename": "Mudaliarpet SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.9212222",
+        "longitude": "79.8150556"
+      },
+      {
+        "officename": "Pondicherry Courts SO",
+        "officetype": "PO",
+        "delivery": "Non Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.9200000",
+        "longitude": "79.8100000"
+      },
+      {
+        "officename": "Mouroungapakkam BO",
+        "officetype": "BO",
+        "delivery": "Non Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.9051240",
+        "longitude": "79.8086620"
+      },
+      {
+        "officename": "Thengaithittu BO",
+        "officetype": "BO",
+        "delivery": "Non Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.9116880",
+        "longitude": "79.8176590"
+      }
+    ]
+  },
+  "605005": {
+    "state": "PUDUCHERRY",
+    "district": "PONDICHERRY",
+    "offices": [
+      {
+        "officename": "Nellithope SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.9293056",
+        "longitude": "79.8116667"
+      }
+    ]
+  },
+  "605006": {
+    "state": "PUDUCHERRY",
+    "district": "PONDICHERRY",
+    "offices": [
+      {
+        "officename": "Dhanvantri Nagar SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.9497500",
+        "longitude": "79.7995556"
+      }
+    ]
+  },
+  "605007": {
+    "state": "PUDUCHERRY",
+    "district": "PONDICHERRY",
+    "offices": [
+      {
+        "officename": "Nallavadu BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.8545540",
+        "longitude": "79.8114640"
+      },
+      {
+        "officename": "Veerampattinam BO",
+        "officetype": "BO",
+        "delivery": "Non Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.8900000",
+        "longitude": "79.8268730"
+      },
+      {
+        "officename": "Abishegapakkam BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.8673070",
+        "longitude": "79.7750320"
+      },
+      {
+        "officename": "Poornankuppam BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.8727990",
+        "longitude": "79.8100630"
+      },
+      {
+        "officename": "Thimmappanaickenpalayam BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.8400000",
+        "longitude": "79.7700000"
+      },
+      {
+        "officename": "Ariyankuppam SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.8951667",
+        "longitude": "79.8115278"
+      },
+      {
+        "officename": "Karikkalampakkam BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.8593040",
+        "longitude": "79.7484000"
+      },
+      {
+        "officename": "Mathalapattu BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.8500000",
+        "longitude": "79.7900000"
+      },
+      {
+        "officename": "Singirikoil BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.8704270",
+        "longitude": "79.7834410"
+      }
+    ]
+  },
+  "605008": {
+    "state": "PUDUCHERRY",
+    "district": "PONDICHERRY",
+    "offices": [
+      {
+        "officename": "Lawspet SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.9542222",
+        "longitude": "79.8210000"
+      }
+    ]
+  },
+  "605009": {
+    "state": "PUDUCHERRY",
+    "district": "PONDICHERRY",
+    "offices": [
+      {
+        "officename": "Mouttoupalayam BO",
+        "officetype": "BO",
+        "delivery": "Non Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.9400000",
+        "longitude": "79.7900000"
+      },
+      {
+        "officename": "Moutrepalayam BO",
+        "officetype": "BO",
+        "delivery": "Non Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.9400000",
+        "longitude": "79.7700000"
+      },
+      {
+        "officename": "Thattanchavady SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.9470556",
+        "longitude": "79.8057500"
+      },
+      {
+        "officename": "Vimacoundanpalayam BO",
+        "officetype": "BO",
+        "delivery": "Non Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.9400000",
+        "longitude": "79.8000000"
+      }
+    ]
+  },
+  "605010": {
+    "state": "PUDUCHERRY",
+    "district": "PONDICHERRY",
+    "offices": [
+      {
+        "officename": "Olugarai BO",
+        "officetype": "BO",
+        "delivery": "Non Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.9400000",
+        "longitude": "79.7800000"
+      },
+      {
+        "officename": "Reddiarpalayam SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.9312778",
+        "longitude": "79.7859722"
+      }
+    ]
+  },
+  "605011": {
+    "state": "PUDUCHERRY",
+    "district": "PONDICHERRY",
+    "offices": [
+      {
+        "officename": "Venkata Nagar SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.9402500",
+        "longitude": "79.8252500"
+      }
+    ]
+  },
+  "605013": {
+    "state": "PUDUCHERRY",
+    "district": "PONDICHERRY",
+    "offices": [
+      {
+        "officename": "SaramPy SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.9388611",
+        "longitude": "79.8145278"
+      }
+    ]
+  },
+  "605102": {
+    "state": "PUDUCHERRY",
+    "district": "PONDICHERRY",
+    "offices": [
+      {
+        "officename": "Ariyur BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.9100000",
+        "longitude": "79.7000000"
+      },
+      {
+        "officename": "Chinnababusamudram BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.9300000",
+        "longitude": "79.6900000"
+      },
+      {
+        "officename": "Pallithennal BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.9000000",
+        "longitude": "79.7200000"
+      },
+      {
+        "officename": "Kandamangalam SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.9151111",
+        "longitude": "79.6873333"
+      },
+      {
+        "officename": "Periyababusamudram BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.9400000",
+        "longitude": "79.6800000"
+      },
+      {
+        "officename": "Thiruvandarkoil BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.9200000",
+        "longitude": "79.6600000"
+      }
+    ]
+  },
+  "605107": {
+    "state": "PUDUCHERRY",
+    "district": "PONDICHERRY",
+    "offices": [
+      {
+        "officename": "Thirubuvanai BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.9300000",
+        "longitude": "79.6400000"
+      },
+      {
+        "officename": "Puranasingapalayam BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.9500000",
+        "longitude": "79.6300000"
+      },
+      {
+        "officename": "VMathur BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.9700000",
+        "longitude": "79.6100000"
+      },
+      {
+        "officename": "Pallineliyanur SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.9136667",
+        "longitude": "79.6345833"
+      },
+      {
+        "officename": "Madagadipet BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.9200000",
+        "longitude": "79.6300000"
+      },
+      {
+        "officename": "Palayam BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.9000000",
+        "longitude": "79.6500000"
+      },
+      {
+        "officename": "Kumulam BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.9500000",
+        "longitude": "79.6200000"
+      },
+      {
+        "officename": "Lingareddipalayam BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.9200000",
+        "longitude": "79.6300000"
+      }
+    ]
+  },
+  "605110": {
+    "state": "PUDUCHERRY",
+    "district": "PONDICHERRY",
+    "offices": [
+      {
+        "officename": "Arumparthapuram BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.9200000",
+        "longitude": "79.7700000"
+      },
+      {
+        "officename": "Mangalam BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.8900000",
+        "longitude": "79.7200000"
+      },
+      {
+        "officename": "Sulthanpet BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.9200000",
+        "longitude": "79.7600000"
+      },
+      {
+        "officename": "Korkadu BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.8900000",
+        "longitude": "79.7400000"
+      },
+      {
+        "officename": "Villiyanur SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.9155278",
+        "longitude": "79.7534722"
+      },
+      {
+        "officename": "Odiampattu BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.9100000",
+        "longitude": "79.7800000"
+      },
+      {
+        "officename": "Kilinjikuppam BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.9000000",
+        "longitude": "79.7700000"
+      }
+    ]
+  },
+  "607402": {
+    "state": "PUDUCHERRY",
+    "district": "PONDICHERRY",
+    "offices": [
+      {
+        "officename": "Seliyamedu BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.8273030",
+        "longitude": "79.7582130"
+      },
+      {
+        "officename": "Bahoor SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.8092778",
+        "longitude": "79.7379722"
+      },
+      {
+        "officename": "Thookkanambakkam BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.8418710",
+        "longitude": "79.7041890"
+      },
+      {
+        "officename": "Courouvinatham BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.7954490",
+        "longitude": "79.7329770"
+      },
+      {
+        "officename": "Manamedu BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.8100000",
+        "longitude": "79.6800000"
+      },
+      {
+        "officename": "Manapet BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.8002880",
+        "longitude": "79.7890460"
+      }
+    ]
+  },
+  "609601": {
+    "state": "PUDUCHERRY",
+    "district": "KARAIKAL",
+    "offices": [
+      {
+        "officename": "Ambagarathur S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Nagapattinam Division",
+        "regionname": "Central Region Trichirapalli",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "10.9600000",
+        "longitude": "79.7300000"
+      },
+      {
+        "officename": "Nallambal B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Nagapattinam Division",
+        "regionname": "Central Region Trichirapalli",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "10.9300000",
+        "longitude": "79.7600000"
+      },
+      {
+        "officename": "Seithur B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Nagapattinam Division",
+        "regionname": "Central Region Trichirapalli",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "10.9600000",
+        "longitude": "79.7400000"
+      }
+    ]
+  },
+  "609602": {
+    "state": "PUDUCHERRY",
+    "district": "KARAIKAL",
+    "offices": [
+      {
+        "officename": "Karaikal S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Nagapattinam Division",
+        "regionname": "Central Region Trichirapalli",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "10.9239167",
+        "longitude": "79.8310278"
+      },
+      {
+        "officename": "Karaikal South S.O",
+        "officetype": "PO",
+        "delivery": "Non Delivery",
+        "divisionname": "Nagapattinam Division",
+        "regionname": "Central Region Trichirapalli",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "10.9200000",
+        "longitude": "79.8300000"
+      },
+      {
+        "officename": "Dharmapuram B.O",
+        "officetype": "BO",
+        "delivery": "Non Delivery",
+        "divisionname": "Nagapattinam Division",
+        "regionname": "Central Region Trichirapalli",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.1",
+        "longitude": "79.680000000000007"
+      },
+      {
+        "officename": "Karaikal Bazaar S.O",
+        "officetype": "PO",
+        "delivery": "Non Delivery",
+        "divisionname": "Nagapattinam Division",
+        "regionname": "Central Region Trichirapalli",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "10.9300000",
+        "longitude": "79.8300000"
+      },
+      {
+        "officename": "Madagadi B.O",
+        "officetype": "BO",
+        "delivery": "Non Delivery",
+        "divisionname": "Nagapattinam Division",
+        "regionname": "Central Region Trichirapalli",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.91",
+        "longitude": "79.640000000000001"
+      }
+    ]
+  },
+  "609603": {
+    "state": "PUDUCHERRY",
+    "district": "KARAIKAL",
+    "offices": [
+      {
+        "officename": "Nallathur B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Nagapattinam Division",
+        "regionname": "Central Region Trichirapalli",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.0000000",
+        "longitude": "79.7700000"
+      },
+      {
+        "officename": "Tirukottaram B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Nagapattinam Division",
+        "regionname": "Central Region Trichirapalli",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "10.9700000",
+        "longitude": "79.7700000"
+      },
+      {
+        "officename": "Nedungadu S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Nagapattinam Division",
+        "regionname": "Central Region Trichirapalli",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "10.5800000",
+        "longitude": "79.4600000"
+      },
+      {
+        "officename": "Melakasakudi B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Nagapattinam Division",
+        "regionname": "Central Region Trichirapalli",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "10.9600000",
+        "longitude": "79.7800000"
+      },
+      {
+        "officename": "Kurumbagaram B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Nagapattinam Division",
+        "regionname": "Central Region Trichirapalli",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "10.9800000",
+        "longitude": "79.7700000"
+      },
+      {
+        "officename": "Velangudi B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Nagapattinam Division",
+        "regionname": "Central Region Trichirapalli",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "10.7100000",
+        "longitude": "79.8100000"
+      }
+    ]
+  },
+  "609604": {
+    "state": "PUDUCHERRY",
+    "district": "KARAIKAL",
+    "offices": [
+      {
+        "officename": "Neravy S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Nagapattinam Division",
+        "regionname": "Central Region Trichirapalli",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "10.8900000",
+        "longitude": "79.8200000"
+      },
+      {
+        "officename": "Alathur B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Nagapattinam Division",
+        "regionname": "Central Region Trichirapalli",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "10.8900000",
+        "longitude": "79.7800000"
+      },
+      {
+        "officename": "Akkaraivattam B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Nagapattinam Division",
+        "regionname": "Central Region Trichirapalli",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "10.9000000",
+        "longitude": "79.8400000"
+      }
+    ]
+  },
+  "609605": {
+    "state": "PUDUCHERRY",
+    "district": "KARAIKAL",
+    "offices": [
+      {
+        "officename": "Karaikoilpathu B.O",
+        "officetype": "BO",
+        "delivery": "Non Delivery",
+        "divisionname": "Nagapattinam Division",
+        "regionname": "Central Region Trichirapalli",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "10.9400000",
+        "longitude": "79.8400000"
+      },
+      {
+        "officename": "Karaikalmedu B.O",
+        "officetype": "BO",
+        "delivery": "Non Delivery",
+        "divisionname": "Nagapattinam Division",
+        "regionname": "Central Region Trichirapalli",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "10.9400000",
+        "longitude": "79.8500000"
+      },
+      {
+        "officename": "Thalatheru S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Nagapattinam Division",
+        "regionname": "Central Region Trichirapalli",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "10.5600000",
+        "longitude": "79.4900000"
+      }
+    ]
+  },
+  "609606": {
+    "state": "PUDUCHERRY",
+    "district": "KARAIKAL",
+    "offices": [
+      {
+        "officename": "T.R.Pattinam South B.O",
+        "officetype": "BO",
+        "delivery": "Non Delivery",
+        "divisionname": "Nagapattinam Division",
+        "regionname": "Central Region Trichirapalli",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "10.8700000",
+        "longitude": "79.8300000"
+      },
+      {
+        "officename": "Tirumalairayanpattinam S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Nagapattinam Division",
+        "regionname": "Central Region Trichirapalli",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "10.5200000",
+        "longitude": "79.4900000"
+      }
+    ]
+  },
+  "609607": {
+    "state": "PUDUCHERRY",
+    "district": "KARAIKAL",
+    "offices": [
+      {
+        "officename": "Vizhithiyur B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Nagapattinam Division",
+        "regionname": "Central Region Trichirapalli",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "10.9100000",
+        "longitude": "79.7700000"
+      },
+      {
+        "officename": "Sellur B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Nagapattinam Division",
+        "regionname": "Central Region Trichirapalli",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "10.9300000",
+        "longitude": "79.7700000"
+      },
+      {
+        "officename": "Karukkangudi B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Nagapattinam Division",
+        "regionname": "Central Region Trichirapalli",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "10.9500000",
+        "longitude": "79.7700000"
+      },
+      {
+        "officename": "Surakudi B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Nagapattinam Division",
+        "regionname": "Central Region Trichirapalli",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "10.9300000",
+        "longitude": "79.7700000"
+      },
+      {
+        "officename": "Tirunallar S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Nagapattinam Division",
+        "regionname": "Central Region Trichirapalli",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "10.9300000",
+        "longitude": "79.7900000"
+      }
+    ]
+  },
+  "609609": {
+    "state": "PUDUCHERRY",
+    "district": "KARAIKAL",
+    "offices": [
+      {
+        "officename": "Kottuchery S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Nagapattinam Division",
+        "regionname": "Central Region Trichirapalli",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "10.9600000",
+        "longitude": "79.8300000"
+      },
+      {
+        "officename": "Tiruvettakudi B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Nagapattinam Division",
+        "regionname": "Central Region Trichirapalli",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "10.9800000",
+        "longitude": "79.8400000"
+      },
+      {
+        "officename": "Varichikudi B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Nagapattinam Division",
+        "regionname": "Central Region Trichirapalli",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "10.9900000",
+        "longitude": "79.8200000"
+      }
+    ]
+  },
+  "673310": {
+    "state": "PUDUCHERRY",
+    "district": "MAHE",
+    "offices": [
+      {
+        "officename": "Naluthara BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Vadakara Division",
+        "regionname": "Calicut Region",
+        "circlename": "Kerala Circle",
+        "latitude": "11.6900000",
+        "longitude": "75.5300000"
+      },
+      {
+        "officename": "Pallur BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Vadakara Division",
+        "regionname": "Calicut Region",
+        "circlename": "Kerala Circle",
+        "latitude": "11.7400000",
+        "longitude": "75.5400000"
+      },
+      {
+        "officename": "Mahe SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Vadakara Division",
+        "regionname": "Calicut Region",
+        "circlename": "Kerala Circle",
+        "latitude": "11.6988219",
+        "longitude": "75.5466845"
+      },
+      {
+        "officename": "Pandakkal BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Vadakara Division",
+        "regionname": "Calicut Region",
+        "circlename": "Kerala Circle",
+        "latitude": "11.7600000",
+        "longitude": "75.5400000"
+      }
+    ]
+  }
+}

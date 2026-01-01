@@ -1,0 +1,690 @@
+{
+  "160001": {
+    "state": "CHANDIGARH",
+    "district": "CHANDIGARH",
+    "offices": [
+      {
+        "officename": "Vidhansadan SO",
+        "officetype": "PO",
+        "delivery": "Non Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.7602777",
+        "longitude": "76.8024722"
+      },
+      {
+        "officename": "Khuda Ali Sher",
+        "officetype": "BO",
+        "delivery": "Non Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.74",
+        "longitude": "76.78"
+      },
+      {
+        "officename": "High Court SO Chandigarh",
+        "officetype": "PO",
+        "delivery": "Non Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.7573000",
+        "longitude": "76.8066000"
+      },
+      {
+        "officename": "Kaimbwala B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "25.699999999999999",
+        "longitude": "94.099999999999994"
+      },
+      {
+        "officename": "New Sectt Chandigarh SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.7333",
+        "longitude": "76.7794"
+      }
+    ]
+  },
+  "160002": {
+    "state": "CHANDIGARH",
+    "district": "CHANDIGARH",
+    "offices": [
+      {
+        "officename": "Ind Area Chandigarh SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.6903611",
+        "longitude": "76.7942222"
+      },
+      {
+        "officename": "Hallomajra BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.6920510",
+        "longitude": "76.6984100"
+      },
+      {
+        "officename": "Ram Darbar SO",
+        "officetype": "PO",
+        "delivery": "Non Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.6923611",
+        "longitude": "76.7909167"
+      }
+    ]
+  },
+  "160003": {
+    "state": "CHANDIGARH",
+    "district": "CHANDIGARH",
+    "offices": [
+      {
+        "officename": "Aerodrome SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.6765278",
+        "longitude": "76.7947778"
+      },
+      {
+        "officename": "Behlana BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.6920510",
+        "longitude": "76.6984100"
+      },
+      {
+        "officename": "Raipur Khurd",
+        "officetype": "BO",
+        "delivery": "Non Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      }
+    ]
+  },
+  "160004": {
+    "state": "CHANDIGARH",
+    "district": "CHANDIGARH",
+    "offices": [
+      {
+        "officename": "Airforce Highground SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.6473056",
+        "longitude": "76.7890278"
+      }
+    ]
+  },
+  "160006": {
+    "state": "CHANDIGARH",
+    "district": "CHANDIGARH",
+    "offices": [
+      {
+        "officename": "NDC Chandigarh",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.7420",
+        "longitude": "76.7834"
+      }
+    ]
+  },
+  "160009": {
+    "state": "CHANDIGARH",
+    "district": "CHANDIGARH",
+    "offices": [
+      {
+        "officename": "Sector 9 Chandigarh SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.7479167",
+        "longitude": "76.7928333"
+      },
+      {
+        "officename": "Sector 8Chandgarh SO",
+        "officetype": "PO",
+        "delivery": "Non Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.7406944",
+        "longitude": "76.7972500"
+      }
+    ]
+  },
+  "160011": {
+    "state": "CHANDIGARH",
+    "district": "CHANDIGARH",
+    "offices": [
+      {
+        "officename": "Sector 11 Chandigarh SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.7599167",
+        "longitude": "76.7838889"
+      },
+      {
+        "officename": "Sector 10 Chandigarh SO",
+        "officetype": "PO",
+        "delivery": "Non Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.7535278",
+        "longitude": "76.7876111"
+      }
+    ]
+  },
+  "160012": {
+    "state": "CHANDIGARH",
+    "district": "CHANDIGARH",
+    "offices": [
+      {
+        "officename": "Engg College SO",
+        "officetype": "PO",
+        "delivery": "Non Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.7665555",
+        "longitude": "76.7836111"
+      },
+      {
+        "officename": "Sector 12 Chandigarh SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.7420833",
+        "longitude": "76.7833611"
+      }
+    ]
+  },
+  "160014": {
+    "state": "CHANDIGARH",
+    "district": "CHANDIGARH",
+    "offices": [
+      {
+        "officename": "Tira BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.692050999999999",
+        "longitude": "76.698409999999996"
+      },
+      {
+        "officename": "Dadu Majra Colony SO",
+        "officetype": "PO",
+        "delivery": "Non Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.7545277",
+        "longitude": "76.7390000"
+      },
+      {
+        "officename": "Sector 14 Chandigarh SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.7576944",
+        "longitude": "76.7686111"
+      },
+      {
+        "officename": "Behlolpur BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.692050999999999",
+        "longitude": "76.698409999999996"
+      },
+      {
+        "officename": "Dhanas BO",
+        "officetype": "BO",
+        "delivery": "Non Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.692050999999999",
+        "longitude": "76.698409999999996"
+      }
+    ]
+  },
+  "160015": {
+    "state": "CHANDIGARH",
+    "district": "CHANDIGARH",
+    "offices": [
+      {
+        "officename": "Sector 15 Chandigarh SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.7518611",
+        "longitude": "76.7744722"
+      },
+      {
+        "officename": "Sector 16 Chandigarh SO",
+        "officetype": "PO",
+        "delivery": "Non Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.7472778",
+        "longitude": "76.7753611"
+      }
+    ]
+  },
+  "160017": {
+    "state": "CHANDIGARH",
+    "district": "CHANDIGARH",
+    "offices": [
+      {
+        "officename": "Chandigarh GPO",
+        "officetype": "HO",
+        "delivery": "Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.7423305",
+        "longitude": "76.7833278"
+      }
+    ]
+  },
+  "160018": {
+    "state": "CHANDIGARH",
+    "district": "CHANDIGARH",
+    "offices": [
+      {
+        "officename": "Sector 18 Chandigarh SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.7354722",
+        "longitude": "76.7874444"
+      }
+    ]
+  },
+  "160019": {
+    "state": "CHANDIGARH",
+    "district": "CHANDIGARH",
+    "offices": [
+      {
+        "officename": "Raj Bhawan SO Chandigarh",
+        "officetype": "PO",
+        "delivery": "Non Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.7389000",
+        "longitude": "76.8106000"
+      },
+      {
+        "officename": "Sector 19 Chandigarh SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.7263611",
+        "longitude": "76.7961944"
+      },
+      {
+        "officename": "Sector 26 Chandigarh SO",
+        "officetype": "PO",
+        "delivery": "Non Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.7237500",
+        "longitude": "76.8103056"
+      },
+      {
+        "officename": "Sector 27ChandigarhSO",
+        "officetype": "PO",
+        "delivery": "Non Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.7226700",
+        "longitude": "76.7982500"
+      }
+    ]
+  },
+  "160020": {
+    "state": "CHANDIGARH",
+    "district": "CHANDIGARH",
+    "offices": [
+      {
+        "officename": "Sector 20 Chandigarh SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.7420833",
+        "longitude": "76.7833611"
+      }
+    ]
+  },
+  "160022": {
+    "state": "CHANDIGARH",
+    "district": "CHANDIGARH",
+    "offices": [
+      {
+        "officename": "Sector 35 Chandigarh SO",
+        "officetype": "PO",
+        "delivery": "Non Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.7247778",
+        "longitude": "76.7592222"
+      },
+      {
+        "officename": "Sector 21 Chandigarh SO",
+        "officetype": "PO",
+        "delivery": "Non Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.7248056",
+        "longitude": "76.7795556"
+      },
+      {
+        "officename": "Sector 22 Chandigarh SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.7336667",
+        "longitude": "76.7725278"
+      },
+      {
+        "officename": "Sector 34Chandigarh SO",
+        "officetype": "PO",
+        "delivery": "Non Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.7170278",
+        "longitude": "76.7669722"
+      }
+    ]
+  },
+  "160023": {
+    "state": "CHANDIGARH",
+    "district": "CHANDIGARH",
+    "offices": [
+      {
+        "officename": "Sector 23  Chandigarh SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.7396389",
+        "longitude": "76.7670278"
+      }
+    ]
+  },
+  "160025": {
+    "state": "CHANDIGARH",
+    "district": "CHANDIGARH",
+    "offices": [
+      {
+        "officename": "Maloya Colony SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.7529722",
+        "longitude": "75.7185000"
+      }
+    ]
+  },
+  "160030": {
+    "state": "CHANDIGARH",
+    "district": "CHANDIGARH",
+    "offices": [
+      {
+        "officename": "Sector 29 Chandigarh SO",
+        "officetype": "PO",
+        "delivery": "Non Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.7113611",
+        "longitude": "76.7906389"
+      },
+      {
+        "officename": "Sector 30 Chandigarh SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.7420833",
+        "longitude": "76.7833611"
+      },
+      {
+        "officename": "Sector 31 Chandigarh SO",
+        "officetype": "PO",
+        "delivery": "Non Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.7258900",
+        "longitude": "76.7578700"
+      }
+    ]
+  },
+  "160036": {
+    "state": "CHANDIGARH",
+    "district": "CHANDIGARH",
+    "offices": [
+      {
+        "officename": "Sector 40 Chandigarh SO",
+        "officetype": "PO",
+        "delivery": "Non Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.7345833",
+        "longitude": "76.7523611"
+      },
+      {
+        "officename": "Sector 36 Chandigarh SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.7044722",
+        "longitude": "76.7264167"
+      }
+    ]
+  },
+  "160043": {
+    "state": "CHANDIGARH",
+    "district": "CHANDIGARH",
+    "offices": [
+      {
+        "officename": "Sector43 Chandigarh",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.720284",
+        "longitude": "76.743564"
+      }
+    ]
+  },
+  "160047": {
+    "state": "CHANDIGARH",
+    "district": "CHANDIGARH",
+    "offices": [
+      {
+        "officename": "Burail BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.6920510",
+        "longitude": "76.6984100"
+      },
+      {
+        "officename": "Sector 47 Chandigarh SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.6963056",
+        "longitude": "76.7690278"
+      },
+      {
+        "officename": "Sector 44 Chandigarh SO",
+        "officetype": "PO",
+        "delivery": "Non Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.7141944",
+        "longitude": "75.9453611"
+      },
+      {
+        "officename": "Sector 48 Chandigarh S.O",
+        "officetype": "PO",
+        "delivery": "Non Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.69630556",
+        "longitude": "76.76902778"
+      }
+    ]
+  },
+  "160101": {
+    "state": "CHANDIGARH",
+    "district": "CHANDIGARH",
+    "offices": [
+      {
+        "officename": "Kishangarh BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.6920510",
+        "longitude": "76.6984100"
+      },
+      {
+        "officename": "Mhc Manimajra SO",
+        "officetype": "PO",
+        "delivery": "Non Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.7159722",
+        "longitude": "76.8318056"
+      },
+      {
+        "officename": "Daria BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.6920510",
+        "longitude": "76.6984100"
+      },
+      {
+        "officename": "Manimajra SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.7135833",
+        "longitude": "76.8437500"
+      }
+    ]
+  },
+  "160102": {
+    "state": "CHANDIGARH",
+    "district": "CHANDIGARH",
+    "offices": [
+      {
+        "officename": "Raipur Kalan BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.6920510",
+        "longitude": "76.6984100"
+      },
+      {
+        "officename": "Mauli Jagran SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Chandigarh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Punjab Circle",
+        "latitude": "30.6922778",
+        "longitude": "76.8096111"
+      }
+    ]
+  }
+}

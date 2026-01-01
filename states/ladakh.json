@@ -1,0 +1,1276 @@
+{
+  "194101": {
+    "state": "LADAKH",
+    "district": "LEH LADAKH",
+    "offices": [
+      {
+        "officename": "Chuchul B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "33.602951699999998",
+        "longitude": "78.656179499999993"
+      },
+      {
+        "officename": "Spituk B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.115281600000003",
+        "longitude": "77.554810000000003"
+      },
+      {
+        "officename": "Leh City S.O",
+        "officetype": "PO",
+        "delivery": "Non Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Durbuk B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "78.227999999999994",
+        "longitude": "34.020000000000003"
+      },
+      {
+        "officename": "Faing B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.183911600000002",
+        "longitude": "77.490314999999995"
+      },
+      {
+        "officename": "Horzey B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.205101599999999",
+        "longitude": "77.069992099999993"
+      },
+      {
+        "officename": "Leh H.O",
+        "officetype": "HO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.1528380",
+        "longitude": "77.5770380"
+      }
+    ]
+  },
+  "194102": {
+    "state": "LADAKH",
+    "district": "KARGIL",
+    "offices": [
+      {
+        "officename": "Matayan B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Pandrass B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Bhimbat B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.432011799999998",
+        "longitude": "75.817805000000007"
+      },
+      {
+        "officename": "Mushkoo B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.13288",
+        "longitude": "77.633560000000003"
+      },
+      {
+        "officename": "Chokiyal B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Drass S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.5535060",
+        "longitude": "76.1350430"
+      }
+    ]
+  },
+  "194103": {
+    "state": "LADAKH",
+    "district": "KARGIL",
+    "offices": [
+      {
+        "officename": "SALISKOT B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.409334999999999",
+        "longitude": "76.013078399999998"
+      },
+      {
+        "officename": "Silmoh B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.836669999999998",
+        "longitude": "76.276960000000003"
+      },
+      {
+        "officename": "Tumail B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.561095999999999",
+        "longitude": "76.203724500000007"
+      },
+      {
+        "officename": "MINJI B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.444984400000003",
+        "longitude": "76.094566099999994"
+      },
+      {
+        "officename": "TAMBIS B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.427053100000002",
+        "longitude": "76.050815799999995"
+      },
+      {
+        "officename": "Akchamal B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.555666500000001",
+        "longitude": "76.162433100000001"
+      },
+      {
+        "officename": "Chanigund B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.5967281",
+        "longitude": "76.058402299999997"
+      },
+      {
+        "officename": "Hardas B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "42.977785099999998",
+        "longitude": "83.777626999999995"
+      },
+      {
+        "officename": "Shaimshakharboo B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.836669999999998",
+        "longitude": "76.276960000000003"
+      },
+      {
+        "officename": "Tumail Colony B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "CHOSKORE B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.465581700000001",
+        "longitude": "76.123297600000001"
+      },
+      {
+        "officename": "Batalik B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.653738099999998",
+        "longitude": "76.343467799999999"
+      },
+      {
+        "officename": "Karkitchoo B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.836669999999998",
+        "longitude": "76.276960000000003"
+      },
+      {
+        "officename": "Trespone B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.422584700000002",
+        "longitude": "76.045442800000004"
+      },
+      {
+        "officename": "Garkon B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.564685799999999",
+        "longitude": "76.481727300000003"
+      },
+      {
+        "officename": "Pashkum B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.511634399999998",
+        "longitude": "76.192857000000004"
+      },
+      {
+        "officename": "Yurbaltik B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.836669999999998",
+        "longitude": "76.276960000000003"
+      },
+      {
+        "officename": "Kargil S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.5535060",
+        "longitude": "76.1350430"
+      },
+      {
+        "officename": "Thasgam B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.476598199999998",
+        "longitude": "75.934341399999994"
+      }
+    ]
+  },
+  "194104": {
+    "state": "LADAKH",
+    "district": "LEH LADAKH",
+    "offices": [
+      {
+        "officename": "STOK B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "37.799999999999997",
+        "longitude": "122.40000000000001"
+      },
+      {
+        "officename": "Saboo B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.132880499999999",
+        "longitude": "77.633565899999994"
+      },
+      {
+        "officename": "CHUCHOT YOKMA B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "33.798999999999999",
+        "longitude": "77.757000000000005"
+      },
+      {
+        "officename": "MATHOO B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "77.644999999999996",
+        "longitude": "33.996000000000002"
+      },
+      {
+        "officename": "Chuchot Gongma B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "33.799694000000002",
+        "longitude": "77.575858199999999"
+      },
+      {
+        "officename": "CHUCHOT SHAMMA B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "77.358639999999994",
+        "longitude": "33.961950000000002"
+      },
+      {
+        "officename": "Chuglamsar S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.1528380",
+        "longitude": "77.5770380"
+      }
+    ]
+  },
+  "194105": {
+    "state": "LADAKH",
+    "district": "KARGIL",
+    "offices": [
+      {
+        "officename": "Baroo S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.5535060",
+        "longitude": "76.1350430"
+      }
+    ]
+  },
+  "194106": {
+    "state": "LADAKH",
+    "district": "LEH LADAKH",
+    "offices": [
+      {
+        "officename": "Biama B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.152591399999999",
+        "longitude": "77.577048500000004"
+      },
+      {
+        "officename": "Dumkhar B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.152593400000001",
+        "longitude": "77.577046499999994"
+      },
+      {
+        "officename": "Hanoo B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.5924312",
+        "longitude": "76.763132600000006"
+      },
+      {
+        "officename": "Tia B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.341276200000003",
+        "longitude": "76.974384299999997"
+      },
+      {
+        "officename": "Khalsi S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.1528380",
+        "longitude": "77.5770380"
+      },
+      {
+        "officename": "Temisgam B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.323127700000001",
+        "longitude": "76.989499600000002"
+      },
+      {
+        "officename": "Lamayuru B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.978789999999996",
+        "longitude": "76.056269999999998"
+      },
+      {
+        "officename": "Nurla B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.302036399999999",
+        "longitude": "76.983742699999993"
+      },
+      {
+        "officename": "Skurbuchan B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.435038599999999",
+        "longitude": "76.709109999999995"
+      },
+      {
+        "officename": "Wanla B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.978789999999996",
+        "longitude": "76.056269999999998"
+      },
+      {
+        "officename": "Hemis Shukpacahan B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.978789999999996",
+        "longitude": "76.056269999999998"
+      },
+      {
+        "officename": "Takmachik B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.294141199999999",
+        "longitude": "76.771513400000003"
+      },
+      {
+        "officename": "KANJI B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "LINGSHED B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      }
+    ]
+  },
+  "194107": {
+    "state": "LADAKH",
+    "district": "LEH LADAKH",
+    "offices": [
+      {
+        "officename": "LIKIR B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.29032",
+        "longitude": "77.213211"
+      },
+      {
+        "officename": "BASGO B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.216900000000003",
+        "longitude": "77.283299999999997"
+      },
+      {
+        "officename": "Alchi B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "MARKHA B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Ney B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "SASPOL S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.35191",
+        "longitude": "77.170334"
+      },
+      {
+        "officename": "NIMOO B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      }
+    ]
+  },
+  "194109": {
+    "state": "LADAKH",
+    "district": "KARGIL",
+    "offices": [
+      {
+        "officename": "Chiktan B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.4669059",
+        "longitude": "76.511962800000006"
+      },
+      {
+        "officename": "Safi B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.2965661",
+        "longitude": "76.249248399999999"
+      },
+      {
+        "officename": "Samray B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.162640000000003",
+        "longitude": "77.671430000000001"
+      },
+      {
+        "officename": "LAMSUSANDO B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Bodhkharboo B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.255336300000003",
+        "longitude": "76.635051899999993"
+      },
+      {
+        "officename": "Shakar B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.414755100000001",
+        "longitude": "76.442788899999996"
+      },
+      {
+        "officename": "Karamba B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.162640000000003",
+        "longitude": "77.671430000000001"
+      },
+      {
+        "officename": "Lochum B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.162640000000003",
+        "longitude": "77.671430000000001"
+      },
+      {
+        "officename": "Tache B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.162640000000003",
+        "longitude": "77.671430000000001"
+      },
+      {
+        "officename": "Wakha B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.162640000000003",
+        "longitude": "77.671430000000001"
+      },
+      {
+        "officename": "KHANGRAL B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Mulbek S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.5535060",
+        "longitude": "76.1350430"
+      },
+      {
+        "officename": "Shargol B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.162640000000003",
+        "longitude": "77.671430000000001"
+      },
+      {
+        "officename": "KUKSHO B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      }
+    ]
+  },
+  "194201": {
+    "state": "LADAKH",
+    "district": "LEH LADAKH",
+    "offices": [
+      {
+        "officename": "KHAROO B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "33.919879899999998",
+        "longitude": "77.870391799999993"
+      },
+      {
+        "officename": "Shey B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "33.272910000000003",
+        "longitude": "78.429239999999993"
+      },
+      {
+        "officename": "Igoo B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "33.832323000000002",
+        "longitude": "77.865037999999998"
+      },
+      {
+        "officename": "Shara B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "33.776657999999998",
+        "longitude": "78.071551200000002"
+      },
+      {
+        "officename": "Thiksay S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.1528380",
+        "longitude": "77.5770380"
+      },
+      {
+        "officename": "Chamray B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "49.074145999999999",
+        "longitude": "1.3083100000000001"
+      },
+      {
+        "officename": "Gia Meru B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Hemis Changa B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "33.272910000000003",
+        "longitude": "78.429239999999993"
+      },
+      {
+        "officename": "Sakti B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "33.997834699999999",
+        "longitude": "77.816709599999996"
+      }
+    ]
+  },
+  "194202": {
+    "state": "LADAKH",
+    "district": "LEH LADAKH",
+    "offices": [
+      {
+        "officename": "NYOMA MUD",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "33.205916",
+        "longitude": "78.648384"
+      },
+      {
+        "officename": "Hemiya B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "KARZOK B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Kungyam B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Chumathang B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Kairy B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "46.938459999999999",
+        "longitude": "30.964417000000001"
+      }
+    ]
+  },
+  "194301": {
+    "state": "LADAKH",
+    "district": "KARGIL",
+    "offices": [
+      {
+        "officename": "Omba B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Barsoo B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Sangra B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.99447",
+        "longitude": "78.787840000000003"
+      },
+      {
+        "officename": "Tikat B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Sankoo S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.5535060",
+        "longitude": "76.1350430"
+      },
+      {
+        "officename": "Khasgam Thuina B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Lankarchey B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      }
+    ]
+  },
+  "194302": {
+    "state": "LADAKH",
+    "district": "KARGIL",
+    "offices": [
+      {
+        "officename": "Padum S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.5535060",
+        "longitude": "76.1350430"
+      },
+      {
+        "officename": "Karsha B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "33.5319456",
+        "longitude": "76.904161200000004"
+      },
+      {
+        "officename": "CHA-LUNGNAK B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "ABRAN B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Zangla B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "33.670000000000002",
+        "longitude": "76.884900000000002"
+      },
+      {
+        "officename": "AKSHOW B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      }
+    ]
+  },
+  "194303": {
+    "state": "LADAKH",
+    "district": "KARGIL",
+    "offices": [
+      {
+        "officename": "Parkachik B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.052834900000001",
+        "longitude": "76.0017304"
+      },
+      {
+        "officename": "PURTAKCHEY B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.99447",
+        "longitude": "78.787840000000003"
+      },
+      {
+        "officename": "Yuljuk B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.1568282",
+        "longitude": "75.920014899999998"
+      },
+      {
+        "officename": "Panikhar S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.5535060",
+        "longitude": "76.1350430"
+      },
+      {
+        "officename": "Namsuru B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.99447",
+        "longitude": "78.787840000000003"
+      }
+    ]
+  },
+  "194401": {
+    "state": "LADAKH",
+    "district": "LEH LADAKH",
+    "offices": [
+      {
+        "officename": "Panamik B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Terchey B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Khardong B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.402040200000002",
+        "longitude": "77.657907699999996"
+      },
+      {
+        "officename": "Turtuk B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "BOGDANG B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "TANGYAR B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Diskit S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.1528380",
+        "longitude": "77.5770380"
+      },
+      {
+        "officename": "Hunder B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "34.575283599999999",
+        "longitude": "77.498875299999995"
+      },
+      {
+        "officename": "Tiger Sumur B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "HUNDER DOK B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Kubat B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Leh Division",
+        "regionname": "Srinagar HQ Region",
+        "circlename": "Jammu Kashmir Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      }
+    ]
+  }
+}

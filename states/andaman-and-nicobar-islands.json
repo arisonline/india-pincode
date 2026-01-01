@@ -1,0 +1,1134 @@
+{
+  "744101": {
+    "state": "ANDAMAN AND NICOBAR ISLANDS",
+    "district": "SOUTH ANDAMANS",
+    "offices": [
+      {
+        "officename": "N.S.Building S.O",
+        "officetype": "PO",
+        "delivery": "Non Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Port Blair H.O",
+        "officetype": "HO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "11.66583333",
+        "longitude": "92.74111111"
+      },
+      {
+        "officename": "Marine Jetty S.O",
+        "officetype": "PO",
+        "delivery": "Non Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      }
+    ]
+  },
+  "744102": {
+    "state": "ANDAMAN AND NICOBAR ISLANDS",
+    "district": "SOUTH ANDAMANS",
+    "offices": [
+      {
+        "officename": "Haddo S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "11.6658333",
+        "longitude": "92.7411111"
+      },
+      {
+        "officename": "Radio Colony B.O",
+        "officetype": "BO",
+        "delivery": "Non Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Chatham S.O",
+        "officetype": "PO",
+        "delivery": "Non Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Delanipur S.O",
+        "officetype": "PO",
+        "delivery": "Non Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      }
+    ]
+  },
+  "744103": {
+    "state": "ANDAMAN AND NICOBAR ISLANDS",
+    "district": "SOUTH ANDAMANS",
+    "offices": [
+      {
+        "officename": "Dollygunj B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "11.960000000000001",
+        "longitude": "92.829999999999998"
+      },
+      {
+        "officename": "Ograbanj B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Minnie Bay S.O",
+        "officetype": "PO",
+        "delivery": "Non Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Brijgunj B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Guptapara B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Wandoor B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Herbertabad B.O",
+        "officetype": "BO",
+        "delivery": "Non Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Junglighat S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "11.66111111",
+        "longitude": "92.74111111"
+      },
+      {
+        "officename": "Chouldari B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Tushnabad B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      }
+    ]
+  },
+  "744104": {
+    "state": "ANDAMAN AND NICOBAR ISLANDS",
+    "district": "SOUTH ANDAMANS",
+    "offices": [
+      {
+        "officename": "Aberdeen  Bazar S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "11.6658333",
+        "longitude": "92.7411111"
+      },
+      {
+        "officename": "Shaheed Dweep BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Sitapur B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      }
+    ]
+  },
+  "744105": {
+    "state": "ANDAMAN AND NICOBAR ISLANDS",
+    "district": "SOUTH ANDAMANS",
+    "offices": [
+      {
+        "officename": "Sippighat B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Calicut B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Garacharama S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "11.6658333",
+        "longitude": "92.7411111"
+      },
+      {
+        "officename": "Beodnabad B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Bimbiton B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Humferygunj B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Rutland B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      }
+    ]
+  },
+  "744106": {
+    "state": "ANDAMAN AND NICOBAR ISLANDS",
+    "district": "SOUTH ANDAMANS",
+    "offices": [
+      {
+        "officename": "Shadipur S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "11.6658333",
+        "longitude": "92.7411111"
+      }
+    ]
+  },
+  "744107": {
+    "state": "ANDAMAN AND NICOBAR ISLANDS",
+    "district": "SOUTH ANDAMANS",
+    "offices": [
+      {
+        "officename": "Stewertgunj B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Bambooflat S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "11.7",
+        "longitude": "92.72"
+      }
+    ]
+  },
+  "744112": {
+    "state": "ANDAMAN AND NICOBAR ISLANDS",
+    "district": "SOUTH ANDAMANS",
+    "offices": [
+      {
+        "officename": "Chakargoan S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "11.37",
+        "longitude": "92.43"
+      }
+    ]
+  },
+  "744201": {
+    "state": "ANDAMAN AND NICOBAR ISLANDS",
+    "district": "NORTH AND MIDDLE ANDAMAN",
+    "offices": [
+      {
+        "officename": "Nimbudera B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Pitchernalla B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Swdeshnagar B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Betapur S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "12.615395",
+        "longitude": "92.928454"
+      }
+    ]
+  },
+  "744202": {
+    "state": "ANDAMAN AND NICOBAR ISLANDS",
+    "district": "NORTH AND MIDDLE ANDAMAN",
+    "offices": [
+      {
+        "officename": "Aerial Bay B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Swarajgram B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Kalighat B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Kishorinagar B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Sitanagar B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Hathilevel B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Laxmipur B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Navagram B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Pashimsagar B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Ramnagar B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Smith  Island B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Diglipur S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "13.245378",
+        "longitude": "92.974911"
+      }
+    ]
+  },
+  "744203": {
+    "state": "ANDAMAN AND NICOBAR ISLANDS",
+    "district": "NORTH AND MIDDLE ANDAMAN",
+    "offices": [
+      {
+        "officename": "Long Island S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "12.367702",
+        "longitude": "92.919841"
+      }
+    ]
+  },
+  "744204": {
+    "state": "ANDAMAN AND NICOBAR ISLANDS",
+    "district": "NORTH AND MIDDLE ANDAMAN",
+    "offices": [
+      {
+        "officename": "Rampur B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Tugapur B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Weby B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Mohanpur B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "12.960000000000001",
+        "longitude": "92.870000000000005"
+      },
+      {
+        "officename": "Mayabander S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "12.92361111",
+        "longitude": "92.89861111"
+      }
+    ]
+  },
+  "744205": {
+    "state": "ANDAMAN AND NICOBAR ISLANDS",
+    "district": "NORTH AND MIDDLE ANDAMAN",
+    "offices": [
+      {
+        "officename": "Nimbutala B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Rangat S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "12.50555556",
+        "longitude": "92.90944444"
+      },
+      {
+        "officename": "Parnasala B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Bakultala B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Kaushalyanagar B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Panchawati B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Sabari B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      }
+    ]
+  },
+  "744206": {
+    "state": "ANDAMAN AND NICOBAR ISLANDS",
+    "district": "SOUTH ANDAMANS",
+    "offices": [
+      {
+        "officename": "Kalatong B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Dundas Point B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Jirkatong B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "R.R Station B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Wimberlygunj S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "11.44",
+        "longitude": "92.42"
+      },
+      {
+        "officename": "Mathura B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Shoalbay B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Miletilak B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Beachdera B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      }
+    ]
+  },
+  "744207": {
+    "state": "ANDAMAN AND NICOBAR ISLANDS",
+    "district": "SOUTH ANDAMANS",
+    "offices": [
+      {
+        "officename": "Hut  Bay S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "10.59138889",
+        "longitude": "92.53833333"
+      },
+      {
+        "officename": "Netajinagar B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Vivekandapur B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Ramakrishnapur B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      }
+    ]
+  },
+  "744209": {
+    "state": "ANDAMAN AND NICOBAR ISLANDS",
+    "district": "NORTH AND MIDDLE ANDAMAN",
+    "offices": [
+      {
+        "officename": "Uttara B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Kadamtala S.O (North And Middle Andaman)",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "12.3806850",
+        "longitude": "92.8027390"
+      }
+    ]
+  },
+  "744210": {
+    "state": "ANDAMAN AND NICOBAR ISLANDS",
+    "district": "NORTH AND MIDDLE ANDAMAN",
+    "offices": [
+      {
+        "officename": "Kanchangarh B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Sankarnalla B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Oralkatcha S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "12.165934",
+        "longitude": "92.776506"
+      }
+    ]
+  },
+  "744211": {
+    "state": "ANDAMAN AND NICOBAR ISLANDS",
+    "district": "SOUTH ANDAMANS",
+    "offices": [
+      {
+        "officename": "Swaraj Dweep SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "12.040302",
+        "longitude": "92.983321"
+      },
+      {
+        "officename": "Kalapather B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "11.77",
+        "longitude": "92.879999999999995"
+      },
+      {
+        "officename": "Swaraj Dweep BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Peal Island B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      }
+    ]
+  },
+  "744301": {
+    "state": "ANDAMAN AND NICOBAR ISLANDS",
+    "district": "NICOBARS",
+    "offices": [
+      {
+        "officename": "Sawai B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Lapathy B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Mus B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Kakana B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Carnicobar S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "9.175112",
+        "longitude": "92.816118"
+      }
+    ]
+  },
+  "744302": {
+    "state": "ANDAMAN AND NICOBAR ISLANDS",
+    "district": "NICOBARS",
+    "offices": [
+      {
+        "officename": "Gandhinagar B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Pilomilo Island B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Shabnamnagar B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Kondul Island B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Little Nicobar B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Campbelbay S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "7.006427",
+        "longitude": "93.93311"
+      }
+    ]
+  },
+  "744303": {
+    "state": "ANDAMAN AND NICOBAR ISLANDS",
+    "district": "NICOBARS",
+    "offices": [
+      {
+        "officename": "Champin B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Chowra B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Trinket B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Nancowrie S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "8.0968670",
+        "longitude": "93.5175620"
+      },
+      {
+        "officename": "Teressa B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      }
+    ]
+  },
+  "744304": {
+    "state": "ANDAMAN AND NICOBAR ISLANDS",
+    "district": "NICOBARS",
+    "offices": [
+      {
+        "officename": "Mildera B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Kapanga S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "A - N Islands Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "8.000927",
+        "longitude": "93.374073"
+      }
+    ]
+  }
+}

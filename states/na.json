@@ -1,0 +1,3672 @@
+{
+  "121999": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Faridabad",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Faridabad Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Haryana Circle",
+        "latitude": "28.3917778",
+        "longitude": "77.3021389"
+      }
+    ]
+  },
+  "122998": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC DLF QE Complex",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Gurgaon Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Haryana Circle",
+        "latitude": "28.4660573344",
+        "longitude": "77.1056478085"
+      }
+    ]
+  },
+  "122999": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC GURGAON",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Gurgaon Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Haryana Circle",
+        "latitude": "28.496716",
+        "longitude": "77.08547"
+      }
+    ]
+  },
+  "132035": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Padha SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Karnal Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Haryana Circle",
+        "latitude": "29.57512",
+        "longitude": "76.77929"
+      }
+    ]
+  },
+  "134999": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Sector 15 Panchkula",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Ambala Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Haryana Circle",
+        "latitude": "30.685191",
+        "longitude": "76.8402533"
+      }
+    ]
+  },
+  "201319": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC NEPZ",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Gautam Buddha Nagar Division office",
+        "regionname": "NA",
+        "circlename": "Uttar Pradesh Circle",
+        "latitude": "28.535706",
+        "longitude": "77.396879"
+      }
+    ]
+  },
+  "201320": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Sec-1 Greater Noida",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Gautam Buddha Nagar Division office",
+        "regionname": "NA",
+        "circlename": "Uttar Pradesh Circle",
+        "latitude": "28.57419",
+        "longitude": "77.442"
+      }
+    ]
+  },
+  "222101": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Bangaondih B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sultanpur Division",
+        "regionname": "Prayagraj Regional Office",
+        "circlename": "Uttar Pradesh Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Bhelara B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sultanpur Division",
+        "regionname": "Prayagraj Regional Office",
+        "circlename": "Uttar Pradesh Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Rupaipur B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sultanpur Division",
+        "regionname": "Prayagraj Regional Office",
+        "circlename": "Uttar Pradesh Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Kalan B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sultanpur Division",
+        "regionname": "Prayagraj Regional Office",
+        "circlename": "Uttar Pradesh Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Belwai S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Sultanpur Division",
+        "regionname": "Prayagraj Regional Office",
+        "circlename": "Uttar Pradesh Circle",
+        "latitude": "26.17730556",
+        "longitude": "82.68125"
+      },
+      {
+        "officename": "Harpur B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sultanpur Division",
+        "regionname": "Prayagraj Regional Office",
+        "circlename": "Uttar Pradesh Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      }
+    ]
+  },
+  "248020": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Dehradun",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Dehradun Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Uttarakhand Circle",
+        "latitude": "30.3248",
+        "longitude": "78.0417"
+      }
+    ]
+  },
+  "273011": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC GORAKHPUR",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Gorakhpur Division",
+        "regionname": "Gorakhpur Region",
+        "circlename": "Uttar Pradesh Circle",
+        "latitude": "26.79",
+        "longitude": "83.38229"
+      }
+    ]
+  },
+  "301019": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "EXTENSION COUNTER BHIWARI I.A. POST OFFICE",
+        "officetype": "PO",
+        "delivery": "Non Delivery",
+        "divisionname": "Alwar Division",
+        "regionname": "NA",
+        "circlename": "Rajasthan Circle",
+        "latitude": "28.2093",
+        "longitude": "76.8542"
+      },
+      {
+        "officename": "Bhiwari Ind. Area. Alwar S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Alwar Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Rajasthan Circle",
+        "latitude": "28.2171667",
+        "longitude": "76.8646944"
+      },
+      {
+        "officename": "R.H.B. Bhiwari S.O",
+        "officetype": "PO",
+        "delivery": "Non Delivery",
+        "divisionname": "Alwar Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Rajasthan Circle",
+        "latitude": "28.2119167",
+        "longitude": "76.8533611"
+      },
+      {
+        "officename": "Shahdod B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Alwar Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Rajasthan Circle",
+        "latitude": "28.1989620",
+        "longitude": "76.8922730"
+      }
+    ]
+  },
+  "327603": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Naugama B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Dungarpur Division",
+        "regionname": "Ajmer Region",
+        "circlename": "Rajasthan Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Pindarama B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Dungarpur Division",
+        "regionname": "Ajmer Region",
+        "circlename": "Rajasthan Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Balawara B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Dungarpur Division",
+        "regionname": "Ajmer Region",
+        "circlename": "Rajasthan Circle",
+        "latitude": "23.4246340",
+        "longitude": "74.2810190"
+      },
+      {
+        "officename": "Bansala B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Dungarpur Division",
+        "regionname": "Ajmer Region",
+        "circlename": "Rajasthan Circle",
+        "latitude": "23.4190480",
+        "longitude": "74.2971540"
+      },
+      {
+        "officename": "Bodigama B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Dungarpur Division",
+        "regionname": "Ajmer Region",
+        "circlename": "Rajasthan Circle",
+        "latitude": "23.4797600",
+        "longitude": "74.2678170"
+      },
+      {
+        "officename": "Patan B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Dungarpur Division",
+        "regionname": "Ajmer Region",
+        "circlename": "Rajasthan Circle",
+        "latitude": "23.4865770",
+        "longitude": "74.3059550"
+      },
+      {
+        "officename": "Chhinch S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Dungarpur Division",
+        "regionname": "Ajmer Region",
+        "circlename": "Rajasthan Circle",
+        "latitude": "23.4661667",
+        "longitude": "74.3085556"
+      }
+    ]
+  },
+  "360008": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC RAJKOT",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Rajkot Division",
+        "regionname": "Rajkot Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "22.298479",
+        "longitude": "70.799963"
+      }
+    ]
+  },
+  "380010": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Ellisbridge",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Ahmedabad City Division",
+        "regionname": "Ahmedabad HQ Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "23.018508",
+        "longitude": "72.569819"
+      }
+    ]
+  },
+  "380011": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Maninagar",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Ahmedabad City Division",
+        "regionname": "Ahmedabad HQ Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "22.998855",
+        "longitude": "72.601144"
+      }
+    ]
+  },
+  "380012": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Naranpura Vistar",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Ahmedabad City Division",
+        "regionname": "Ahmedabad HQ Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "23.052198",
+        "longitude": "72.555163"
+      }
+    ]
+  },
+  "390008": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC FATEGANJ",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Vadodara West Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "22.3271018",
+        "longitude": "73.1895287"
+      }
+    ]
+  },
+  "390026": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC VADODARA",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Vadodara East Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "22.3035833",
+        "longitude": "73.1976944"
+      }
+    ]
+  },
+  "395014": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC NANPURA",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Surat Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "21.19043",
+        "longitude": "72.81306"
+      }
+    ]
+  },
+  "395015": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC SURAT",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Surat Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "21.19853",
+        "longitude": "72.8342"
+      }
+    ]
+  },
+  "400111": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Mumbai GPO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Mumbai GPO Division",
+        "regionname": "Mumbai Region",
+        "circlename": "Maharashtra Circle",
+        "latitude": "18.9391666",
+        "longitude": "72.8375555"
+      }
+    ]
+  },
+  "400113": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Delisle Road PO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Mumbai City West Division",
+        "regionname": "Mumbai Region",
+        "circlename": "Maharashtra Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      }
+    ]
+  },
+  "400114": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC DADAR HO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Mumbai City East Division",
+        "regionname": "Mumbai Region",
+        "circlename": "Maharashtra Circle",
+        "latitude": "19.0160278",
+        "longitude": "72.8458611"
+      }
+    ]
+  },
+  "400118": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Mumbai Central",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Mumbai City West Division",
+        "regionname": "Mumbai Region",
+        "circlename": "Maharashtra Circle",
+        "latitude": "18.96854498",
+        "longitude": "72.8220289"
+      }
+    ]
+  },
+  "400150": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Bandra W eCOM  Nodal Delivery Centre",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Mumbai City North Division",
+        "regionname": "Mumbai Region",
+        "circlename": "Maharashtra Circle",
+        "latitude": "19.0571566",
+        "longitude": "72.8297226"
+      }
+    ]
+  },
+  "400153": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Azad Nagar",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Mumbai City North Division",
+        "regionname": "Mumbai Region",
+        "circlename": "Maharashtra Circle",
+        "latitude": "19.128258",
+        "longitude": "72.832642"
+      }
+    ]
+  },
+  "400160": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC JOGESHWARI EAST",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Mumbai City North West Division",
+        "regionname": "Mumbai Region",
+        "circlename": "Maharashtra Circle",
+        "latitude": "19.13144444",
+        "longitude": "72.85013889"
+      }
+    ]
+  },
+  "400167": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Kandivali West",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Mumbai City North West Division",
+        "regionname": "Mumbai Region",
+        "circlename": "Maharashtra Circle",
+        "latitude": "19.204004",
+        "longitude": "72.849998"
+      }
+    ]
+  },
+  "400171": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC CHEMBUR HO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Mumbai City North East Division",
+        "regionname": "Mumbai Region",
+        "circlename": "Maharashtra Circle",
+        "latitude": "19.05688889",
+        "longitude": "72.89811111"
+      }
+    ]
+  },
+  "400183": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Tagore Nagar PO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Mumbai City North East Division",
+        "regionname": "Mumbai Region",
+        "circlename": "Maharashtra Circle",
+        "latitude": "19.11438889",
+        "longitude": "72.93977778"
+      }
+    ]
+  },
+  "400186": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Ghatkopar West PO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Mumbai City North East Division",
+        "regionname": "Mumbai Region",
+        "circlename": "Maharashtra Circle",
+        "latitude": "19.08633333",
+        "longitude": "72.90822222"
+      }
+    ]
+  },
+  "400193": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Chakala MIDC",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Mumbai City North Division",
+        "regionname": "Mumbai Region",
+        "circlename": "Maharashtra Circle",
+        "latitude": "19.658886",
+        "longitude": "72.515018556"
+      }
+    ]
+  },
+  "400201": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Kandivali EAST",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Mumbai City North West Division",
+        "regionname": "Mumbai Region",
+        "circlename": "Maharashtra Circle",
+        "latitude": "19.20819444",
+        "longitude": "72.86986111"
+      }
+    ]
+  },
+  "400609": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Thane NDC",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Thane Division",
+        "regionname": "Navi Mumbai Region",
+        "circlename": "Maharashtra Circle",
+        "latitude": "19.19918",
+        "longitude": "72.9794"
+      }
+    ]
+  },
+  "401108": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Mira Road NDC",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Palghar Division",
+        "regionname": "Navi Mumbai Region",
+        "circlename": "Maharashtra Circle",
+        "latitude": "19.27908333",
+        "longitude": "72.85672222"
+      }
+    ]
+  },
+  "403522": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Goa at Alto Porvorim",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Goa Division",
+        "regionname": "Goa-Panaji Region",
+        "circlename": "Maharashtra Circle",
+        "latitude": "15.529082",
+        "longitude": "73.827078"
+      }
+    ]
+  },
+  "411074": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Ganeshkhind",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Pune City West Division",
+        "regionname": "Pune Region",
+        "circlename": "Maharashtra Circle",
+        "latitude": "18.5544722",
+        "longitude": "73.8268889"
+      }
+    ]
+  },
+  "411075": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Shivajinagar",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Pune City West Division",
+        "regionname": "Pune Region",
+        "circlename": "Maharashtra Circle",
+        "latitude": "18.527388",
+        "longitude": "73.850553"
+      }
+    ]
+  },
+  "411076": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Parvati",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Pune City West Division",
+        "regionname": "Pune Region",
+        "circlename": "Maharashtra Circle",
+        "latitude": "18.4940278",
+        "longitude": "73.8576667"
+      }
+    ]
+  },
+  "411077": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Chinchwad East",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Pune City East Division",
+        "regionname": "Pune Region",
+        "circlename": "Maharashtra Circle",
+        "latitude": "18.6393",
+        "longitude": "73.7963"
+      }
+    ]
+  },
+  "411078": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Pimpri PF",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Pune City East Division",
+        "regionname": "Pune Region",
+        "circlename": "Maharashtra Circle",
+        "latitude": "18.6261",
+        "longitude": "73.81963"
+      }
+    ]
+  },
+  "411079": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Yerwada",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Pune City East Division",
+        "regionname": "Pune Region",
+        "circlename": "Maharashtra Circle",
+        "latitude": "18.5594",
+        "longitude": "73.8972"
+      }
+    ]
+  },
+  "411080": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Hadapsar IE",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Pune City East Division",
+        "regionname": "Pune Region",
+        "circlename": "Maharashtra Circle",
+        "latitude": "18.5079",
+        "longitude": "73.9172"
+      }
+    ]
+  },
+  "415635": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Kondye SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "RATNAGIRI DIVISION",
+        "regionname": "Goa-Panaji Region",
+        "circlename": "Maharashtra Circle",
+        "latitude": "16.86195",
+        "longitude": "73.5490049"
+      }
+    ]
+  },
+  "416549": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Konal Katta Colony BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "SINDHUDURG DIVISION",
+        "regionname": "Goa-Panaji Region",
+        "circlename": "Maharashtra Circle",
+        "latitude": "15.75805556",
+        "longitude": "74.06733333"
+      },
+      {
+        "officename": "Sateli Tarf Bhedshi SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "SINDHUDURG DIVISION",
+        "regionname": "Goa-Panaji Region",
+        "circlename": "Maharashtra Circle",
+        "latitude": "15.7303456",
+        "longitude": "74.0241125"
+      },
+      {
+        "officename": "Ghotagewadi B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "SINDHUDURG DIVISION",
+        "regionname": "Goa-Panaji Region",
+        "circlename": "Maharashtra Circle",
+        "latitude": "15.7570462",
+        "longitude": "74.0459741"
+      },
+      {
+        "officename": "Konal B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "SINDHUDURG DIVISION",
+        "regionname": "Goa-Panaji Region",
+        "circlename": "Maharashtra Circle",
+        "latitude": "15.7522243",
+        "longitude": "74.061870299999995"
+      },
+      {
+        "officename": "Ker B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "SINDHUDURG DIVISION",
+        "regionname": "Goa-Panaji Region",
+        "circlename": "Maharashtra Circle",
+        "latitude": "15.7791493",
+        "longitude": "74.0092304"
+      },
+      {
+        "officename": "Tervan Medhe B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "SINDHUDURG DIVISION",
+        "regionname": "Goa-Panaji Region",
+        "circlename": "Maharashtra Circle",
+        "latitude": "15.8162898",
+        "longitude": "74.0689251"
+      }
+    ]
+  },
+  "422014": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Nashik",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Nasik Division",
+        "regionname": "Navi Mumbai Region",
+        "circlename": "Maharashtra Circle",
+        "latitude": "19.997406",
+        "longitude": "73.784508"
+      }
+    ]
+  },
+  "431025": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Nodal Delivery Center",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Chhatrapati Sambhajinagar Division",
+        "regionname": "Regional Office Aurangabad",
+        "circlename": "Maharashtra Circle",
+        "latitude": "19.890768",
+        "longitude": "75.361271"
+      }
+    ]
+  },
+  "440038": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Nagpur GPO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Nagpur City Division",
+        "regionname": "Nagpur Region",
+        "circlename": "Maharashtra Circle",
+        "latitude": "21.1524",
+        "longitude": "79.0693"
+      }
+    ]
+  },
+  "441124": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Khapari SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Nagpur Moffusil Division",
+        "regionname": "Nagpur Region",
+        "circlename": "Maharashtra Circle",
+        "latitude": "21.0502704",
+        "longitude": "79.0578503"
+      }
+    ]
+  },
+  "452999": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NODEL DELIVERY CENTER INDORE",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Indore City Division",
+        "regionname": "Indore Region",
+        "circlename": "Madhya Pradesh Circle",
+        "latitude": "22.7078056",
+        "longitude": "75.8791667"
+      }
+    ]
+  },
+  "457111": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Shivgarh S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Ratlam Division",
+        "regionname": "Indore Region",
+        "circlename": "Madhya Pradesh Circle",
+        "latitude": "23.33",
+        "longitude": "75.03"
+      }
+    ]
+  },
+  "462034": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Neelbad S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Bhopal Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Madhya Pradesh Circle",
+        "latitude": "23.193453",
+        "longitude": "77.344433"
+      }
+    ]
+  },
+  "462057": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Nodal Delivery Centre Arera Hills Bhopal",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Bhopal Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Madhya Pradesh Circle",
+        "latitude": "23.2413611",
+        "longitude": "77.4266111"
+      }
+    ]
+  },
+  "462099": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Nodal Delivery Centre Bhopal G.P.O.",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Bhopal Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Madhya Pradesh Circle",
+        "latitude": "23.2604722",
+        "longitude": "77.3940556"
+      }
+    ]
+  },
+  "462116": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Nodal Delivery Centre Shahpura Bhopal",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Bhopal Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Madhya Pradesh Circle",
+        "latitude": "23.2010622",
+        "longitude": "77.4252362"
+      }
+    ]
+  },
+  "473106": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Fatehgarh S.O",
+        "officetype": "PO",
+        "delivery": "Non Delivery",
+        "divisionname": "Guna Division",
+        "regionname": "NA",
+        "circlename": "Madhya Pradesh Circle",
+        "latitude": "24.796905",
+        "longitude": "76.96556"
+      }
+    ]
+  },
+  "476338": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "DHODHAR S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Morena Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Madhya Pradesh Circle",
+        "latitude": "25.9443539",
+        "longitude": "76.8589642"
+      }
+    ]
+  },
+  "480442": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Jamuniya Jethu B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Chhindwara Division",
+        "regionname": "Jabalpur Region",
+        "circlename": "Madhya Pradesh Circle",
+        "latitude": "22.0929",
+        "longitude": "78.7958"
+      },
+      {
+        "officename": "Umreth",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Chhindwara Division",
+        "regionname": "Jabalpur Region",
+        "circlename": "Madhya Pradesh Circle",
+        "latitude": "22.1178",
+        "longitude": "79.33238"
+      }
+    ]
+  },
+  "482007": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Jabalpur",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Jabalpur Division",
+        "regionname": "Jabalpur Region",
+        "circlename": "Madhya Pradesh Circle",
+        "latitude": "23.161436",
+        "longitude": "79.955222"
+      }
+    ]
+  },
+  "486890": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "DUDHICHUA PROJECT",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Rewa Division",
+        "regionname": "Jabalpur Region",
+        "circlename": "Madhya Pradesh Circle",
+        "latitude": "24.182413",
+        "longitude": "82.709941"
+      },
+      {
+        "officename": "Jayant Colliery S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Rewa Division",
+        "regionname": "Jabalpur Region",
+        "circlename": "Madhya Pradesh Circle",
+        "latitude": "24.1445000",
+        "longitude": "82.6375556"
+      }
+    ]
+  },
+  "490004": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Bhilai Nagar",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Durg Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "21.18472",
+        "longitude": "81.34125"
+      }
+    ]
+  },
+  "492009": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Raipur RS B.O",
+        "officetype": "BO",
+        "delivery": "Non Delivery",
+        "divisionname": "Raipur Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "21.2571",
+        "longitude": "81.6296"
+      },
+      {
+        "officename": "Gudhiyari SO",
+        "officetype": "PO",
+        "delivery": "Non Delivery",
+        "divisionname": "Raipur Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "21.2661944",
+        "longitude": "81.6222500"
+      },
+      {
+        "officename": "Raipur Ganj SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Raipur Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "21.2378400",
+        "longitude": "81.7054200"
+      }
+    ]
+  },
+  "493101": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "OTGAN BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Raipur Division",
+        "regionname": "NA",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "21.6265",
+        "longitude": "81.7056"
+      },
+      {
+        "officename": "Tulsi BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Raipur Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "21.2378400",
+        "longitude": "81.7054200"
+      },
+      {
+        "officename": "Chakraway B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Raipur Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "21.717929999999999",
+        "longitude": "81.722631000000007"
+      },
+      {
+        "officename": "Bishrampur BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Raipur Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "21.2378400",
+        "longitude": "81.7054200"
+      },
+      {
+        "officename": "Bansankra BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Raipur Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "21.2378400",
+        "longitude": "81.7054200"
+      },
+      {
+        "officename": "Damakheda BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Raipur Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "21.2378400",
+        "longitude": "81.7054200"
+      },
+      {
+        "officename": "Chaurenga BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Raipur Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "21.2378400",
+        "longitude": "81.7054200"
+      },
+      {
+        "officename": "Kamta BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Raipur Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "21.2378400",
+        "longitude": "81.7054200"
+      },
+      {
+        "officename": "Karhul BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Raipur Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "21.2378400",
+        "longitude": "81.7054200"
+      },
+      {
+        "officename": "Simga SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Raipur Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "21.6279600",
+        "longitude": "81.7027300"
+      }
+    ]
+  },
+  "494111": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Gumodhi B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "NA",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.4633963",
+        "longitude": "81.2668056"
+      },
+      {
+        "officename": "Pariya B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "NA",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.382362",
+        "longitude": "81.382083"
+      },
+      {
+        "officename": "Kerlapenda B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "NA",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.350919",
+        "longitude": "81.272549"
+      },
+      {
+        "officename": "Duled B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "NA",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.239339",
+        "longitude": "81.128437"
+      },
+      {
+        "officename": "Chhotekedwal B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "NA",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.117695",
+        "longitude": "81.244868"
+      },
+      {
+        "officename": "Badesatti B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.4094",
+        "longitude": "81.5071"
+      },
+      {
+        "officename": "Sonakuknar B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.5326",
+        "longitude": "81.5926"
+      },
+      {
+        "officename": "Urmapal B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.5880",
+        "longitude": "81.8057"
+      },
+      {
+        "officename": "Ganjenar B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.390999999999998",
+        "longitude": "81.659000000000006"
+      },
+      {
+        "officename": "Chhote Gadam B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "NA",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.688494",
+        "longitude": "81.641839"
+      },
+      {
+        "officename": "Chhote Lakhapal B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "NA",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.673335",
+        "longitude": "81.739541"
+      },
+      {
+        "officename": "Puspalli B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "NA",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.3717178",
+        "longitude": "81.679515"
+      },
+      {
+        "officename": "Peddabedkel B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "NA",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.155211",
+        "longitude": "81.507072"
+      },
+      {
+        "officename": "Burkapal B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "NA",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.286639",
+        "longitude": "81.21514"
+      },
+      {
+        "officename": "Jhapra B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.1282",
+        "longitude": "81.7776"
+      },
+      {
+        "officename": "Kanjipani B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.5505",
+        "longitude": "81.7182"
+      },
+      {
+        "officename": "Kondre",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.550144",
+        "longitude": "81.468643999999998"
+      },
+      {
+        "officename": "Jangampal B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "NA",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.670502",
+        "longitude": "81.692011"
+      },
+      {
+        "officename": "Tongpal B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "NA",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.677974",
+        "longitude": "81.674693"
+      },
+      {
+        "officename": "Mankapal B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "NA",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.5671495",
+        "longitude": "81.474827"
+      },
+      {
+        "officename": "Fulbagadi B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "NA",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.383293",
+        "longitude": "81.552646"
+      },
+      {
+        "officename": "Rajamunda B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "NA",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.466778",
+        "longitude": "81.718627"
+      },
+      {
+        "officename": "Gorgunda B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "NA",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.201432",
+        "longitude": "81.439436"
+      },
+      {
+        "officename": "Korrapad B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "NA",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.19944",
+        "longitude": "81.372214"
+      },
+      {
+        "officename": "Tetrai B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "NA",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.084541",
+        "longitude": "81.441658"
+      },
+      {
+        "officename": "Gadiras B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.505700000000001",
+        "longitude": "81.555000000000007"
+      },
+      {
+        "officename": "Kodripal B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.5507",
+        "longitude": "81.8530"
+      },
+      {
+        "officename": "Pondum B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.8902",
+        "longitude": "81.4554"
+      },
+      {
+        "officename": "Rokel B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.5765",
+        "longitude": "81.7304"
+      },
+      {
+        "officename": "Chingawaram B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.58",
+        "longitude": "81.53"
+      },
+      {
+        "officename": "Chichorguda B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "NA",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.432099",
+        "longitude": "81.630771"
+      },
+      {
+        "officename": "Sukma S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.390961",
+        "longitude": "81.662323"
+      },
+      {
+        "officename": "Tarlagudaa B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "NA",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.486216",
+        "longitude": "81.218318"
+      },
+      {
+        "officename": "Surpanguda B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "NA",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.401336",
+        "longitude": "81.090891"
+      },
+      {
+        "officename": "Kamaram B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "NA",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.448652",
+        "longitude": "81.18925"
+      },
+      {
+        "officename": "Almagunda B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "NA",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.198278",
+        "longitude": "81.138731"
+      },
+      {
+        "officename": "Jeerampal B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.4672",
+        "longitude": "81.5660"
+      },
+      {
+        "officename": "Korra B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.30",
+        "longitude": "81.60"
+      },
+      {
+        "officename": "Pakela B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.5211",
+        "longitude": "81.7555"
+      },
+      {
+        "officename": "Ramaram B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.3126",
+        "longitude": "81.6201"
+      },
+      {
+        "officename": "Murrepal B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.4984",
+        "longitude": "81.684799999999996"
+      },
+      {
+        "officename": "Adhikariras B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.3809",
+        "longitude": "81.661299999999997"
+      },
+      {
+        "officename": "Gondpalli BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "NA",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.453189",
+        "longitude": "81.482305"
+      },
+      {
+        "officename": "Pordem B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "NA",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.550231",
+        "longitude": "81.469112"
+      },
+      {
+        "officename": "Bhimapuram (misiguda) B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "NA",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.397601",
+        "longitude": "81.185815"
+      },
+      {
+        "officename": "Puwarti B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "NA",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.416155",
+        "longitude": "81.016135"
+      },
+      {
+        "officename": "Alampalli B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "NA",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.416801",
+        "longitude": "81282380"
+      },
+      {
+        "officename": "Samsetti B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "NA",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.294445",
+        "longitude": "81.481297"
+      },
+      {
+        "officename": "Upampali B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "NA",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.313186",
+        "longitude": "81.450237"
+      },
+      {
+        "officename": "Punpalli B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "NA",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.251981",
+        "longitude": "81.464126"
+      },
+      {
+        "officename": "Burdi B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.450299999999999",
+        "longitude": "81.820700000000002"
+      },
+      {
+        "officename": "Chhindgarh B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.5245",
+        "longitude": "81.7547"
+      },
+      {
+        "officename": "Talnar B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.5900",
+        "longitude": "81.8772"
+      },
+      {
+        "officename": "Murtonda B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.43",
+        "longitude": "81.65"
+      },
+      {
+        "officename": "Gongla B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.378",
+        "longitude": "81.597999999999999"
+      },
+      {
+        "officename": "Maroki B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "NA",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.640211",
+        "longitude": "81.494887"
+      },
+      {
+        "officename": "Gudara B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Bastar Division",
+        "regionname": "NA",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "18.568184",
+        "longitude": "81.813405"
+      }
+    ]
+  },
+  "495002": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Bilaspur",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Bilaspur Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Chattisgarh Circle",
+        "latitude": "22.086649",
+        "longitude": "82.144576"
+      }
+    ]
+  },
+  "500119": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Narsingi SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Hyderabad GPO Division",
+        "regionname": "Hyderabad City Region",
+        "circlename": "Telangana Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      }
+    ]
+  },
+  "500901": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC HYDERABAD GPO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Hyderabad GPO Division",
+        "regionname": "Hyderabad City Region",
+        "circlename": "Telangana Circle",
+        "latitude": "17.38788",
+        "longitude": "78.47661"
+      }
+    ]
+  },
+  "500903": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Secunderabad",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Secunderabad Division",
+        "regionname": "Hyderabad City Region",
+        "circlename": "Telangana Circle",
+        "latitude": "17.441183",
+        "longitude": "78.495368"
+      }
+    ]
+  },
+  "500915": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Trimulgherry",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Secunderabad Division",
+        "regionname": "Hyderabad City Region",
+        "circlename": "Telangana Circle",
+        "latitude": "17.478341",
+        "longitude": "78.51469"
+      }
+    ]
+  },
+  "500918": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Sanathnagar",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Hyderabad City Division",
+        "regionname": "Hyderabad City Region",
+        "circlename": "Telangana Circle",
+        "latitude": "78.44747222",
+        "longitude": "17.45655556"
+      }
+    ]
+  },
+  "500920": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Padmaraonagar",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Secunderabad Division",
+        "regionname": "Hyderabad City Region",
+        "circlename": "Telangana Circle",
+        "latitude": "17.4227027",
+        "longitude": "78.5056033"
+      }
+    ]
+  },
+  "500927": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Barkatpura",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Hyderabad South East Division",
+        "regionname": "Hyderabad City Region",
+        "circlename": "Telangana Circle",
+        "latitude": "17.395",
+        "longitude": "78.494"
+      }
+    ]
+  },
+  "500930": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Rajendranagar",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Hyderabad South East Division",
+        "regionname": "Hyderabad City Region",
+        "circlename": "Telangana Circle",
+        "latitude": "17.324",
+        "longitude": "78.4"
+      }
+    ]
+  },
+  "500931": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Ibrahim Bagh Lines",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Hyderabad City Division",
+        "regionname": "Hyderabad City Region",
+        "circlename": "Telangana Circle",
+        "latitude": "78.66083333",
+        "longitude": "17.5355"
+      }
+    ]
+  },
+  "500934": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Banjarahills",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Hyderabad City Division",
+        "regionname": "Hyderabad City Region",
+        "circlename": "Telangana Circle",
+        "latitude": "78.43588889",
+        "longitude": "17.41722222"
+      }
+    ]
+  },
+  "500939": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Uppal",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Hyderabad South East Division",
+        "regionname": "Hyderabad City Region",
+        "circlename": "Telangana Circle",
+        "latitude": "17.402",
+        "longitude": "78.561"
+      }
+    ]
+  },
+  "500955": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC IDA Jeedimetla",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Secunderabad Division",
+        "regionname": "Hyderabad City Region",
+        "circlename": "Telangana Circle",
+        "latitude": "17.520803",
+        "longitude": "78.4444832"
+      }
+    ]
+  },
+  "500958": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Kanchanbagh",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Hyderabad South East Division",
+        "regionname": "Hyderabad City Region",
+        "circlename": "Telangana Circle",
+        "latitude": "17.335",
+        "longitude": "78.501"
+      }
+    ]
+  },
+  "500962": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC ECIL",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Secunderabad Division",
+        "regionname": "Hyderabad City Region",
+        "circlename": "Telangana Circle",
+        "latitude": "17.465763",
+        "longitude": "78.570671"
+      }
+    ]
+  },
+  "500970": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Vanasthalipuram",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Hyderabad South East Division",
+        "regionname": "Hyderabad City Region",
+        "circlename": "Telangana Circle",
+        "latitude": "17.336",
+        "longitude": "78.569"
+      }
+    ]
+  },
+  "500972": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Kukatpally",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Secunderabad Division",
+        "regionname": "Hyderabad City Region",
+        "circlename": "Telangana Circle",
+        "latitude": "17.4924462",
+        "longitude": "78.3966143"
+      }
+    ]
+  },
+  "500984": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Kothaguda",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Hyderabad City Division",
+        "regionname": "Hyderabad City Region",
+        "circlename": "Telangana Circle",
+        "latitude": "78.5118889",
+        "longitude": "17.4739167"
+      }
+    ]
+  },
+  "500989": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Chitrapuri Colony",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Hyderabad City Division",
+        "regionname": "Hyderabad City Region",
+        "circlename": "Telangana Circle",
+        "latitude": "78.3705889",
+        "longitude": "17.4156429"
+      }
+    ]
+  },
+  "502932": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Ramachandrapuram NDC",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Sangareddy Division",
+        "regionname": "Hyderabad City Region",
+        "circlename": "Telangana Circle",
+        "latitude": "17.49966",
+        "longitude": "78.298189"
+      }
+    ]
+  },
+  "504300": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "BEJJUR SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Adilabad Division",
+        "regionname": "Hyderabad Region",
+        "circlename": "Telangana Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      }
+    ]
+  },
+  "504314": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "GADIGUDA SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Adilabad Division",
+        "regionname": "Hyderabad Region",
+        "circlename": "Telangana Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      }
+    ]
+  },
+  "506313": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Katrial B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Warangal Division",
+        "regionname": "Hyderabad Region",
+        "circlename": "Telangana Circle",
+        "latitude": "17.804134",
+        "longitude": "79.579141"
+      },
+      {
+        "officename": "KOTHAPALLE",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Warangal Division",
+        "regionname": "Hyderabad Region",
+        "circlename": "Telangana Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Liabarthy B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Warangal Division",
+        "regionname": "Hyderabad Region",
+        "circlename": "Telangana Circle",
+        "latitude": "17.748587",
+        "longitude": "79.628861"
+      },
+      {
+        "officename": "Sagaram B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Warangal Division",
+        "regionname": "Hyderabad Region",
+        "circlename": "Telangana Circle",
+        "latitude": "17.796047",
+        "longitude": "79.501515"
+      },
+      {
+        "officename": "DONGACHINTHATHANDA",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Warangal Division",
+        "regionname": "Hyderabad Region",
+        "circlename": "Telangana Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Bandouthapur B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Warangal Division",
+        "regionname": "Hyderabad Region",
+        "circlename": "Telangana Circle",
+        "latitude": "17.786184",
+        "longitude": "79.521437"
+      },
+      {
+        "officename": "Kakkiralapalli B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Warangal Division",
+        "regionname": "Hyderabad Region",
+        "circlename": "Telangana Circle",
+        "latitude": "17.827474",
+        "longitude": "79.565721"
+      },
+      {
+        "officename": "Nandanam B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Warangal Division",
+        "regionname": "Hyderabad Region",
+        "circlename": "Telangana Circle",
+        "latitude": "17.810523",
+        "longitude": "79.536574"
+      },
+      {
+        "officename": "Yellanda B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Warangal Division",
+        "regionname": "Hyderabad Region",
+        "circlename": "Telangana Circle",
+        "latitude": "17.79412",
+        "longitude": "79.589377"
+      },
+      {
+        "officename": "Wardhannapet S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Warangal Division",
+        "regionname": "Hyderabad Region",
+        "circlename": "Telangana Circle",
+        "latitude": "17.774356",
+        "longitude": "79.571654"
+      },
+      {
+        "officename": "Kothur B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Warangal Division",
+        "regionname": "Hyderabad Region",
+        "circlename": "Telangana Circle",
+        "latitude": "17.73854",
+        "longitude": "79.665515"
+      },
+      {
+        "officename": "Reddipalem B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Warangal Division",
+        "regionname": "Hyderabad Region",
+        "circlename": "Telangana Circle",
+        "latitude": "17.78957",
+        "longitude": "79.53827"
+      },
+      {
+        "officename": "BANDAMPALLY",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Warangal Division",
+        "regionname": "Hyderabad Region",
+        "circlename": "Telangana Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      }
+    ]
+  },
+  "517510": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Nodal Delivery Center Tirupati",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Tirupati Division",
+        "regionname": "Kurnool Region",
+        "circlename": "Andhra Pradesh Circle",
+        "latitude": "13.3757",
+        "longitude": "79.25213"
+      }
+    ]
+  },
+  "521250": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "ALINAKHIPALEM",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Vijayawada Division",
+        "regionname": "Vijayawada Region",
+        "circlename": "Andhra Pradesh Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Aminapuram B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Vijayawada Division",
+        "regionname": "Vijayawada Region",
+        "circlename": "Andhra Pradesh Circle",
+        "latitude": "16.3082840",
+        "longitude": "80.8467020"
+      },
+      {
+        "officename": "Choragudi B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Vijayawada Division",
+        "regionname": "Vijayawada Region",
+        "circlename": "Andhra Pradesh Circle",
+        "latitude": "16.2424150",
+        "longitude": "80.8747280"
+      },
+      {
+        "officename": "Penumatcha B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Vijayawada Division",
+        "regionname": "Vijayawada Region",
+        "circlename": "Andhra Pradesh Circle",
+        "latitude": "16.2457110",
+        "longitude": "80.8830970"
+      },
+      {
+        "officename": "Agniparru B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Vijayawada Division",
+        "regionname": "Vijayawada Region",
+        "circlename": "Andhra Pradesh Circle",
+        "latitude": "16.2702780",
+        "longitude": "80.8844920"
+      },
+      {
+        "officename": "Virankilock S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Vijayawada Division",
+        "regionname": "Vijayawada Region",
+        "circlename": "Andhra Pradesh Circle",
+        "latitude": "16.2933611",
+        "longitude": "80.8670556"
+      },
+      {
+        "officename": "Krishnapuram B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Vijayawada Division",
+        "regionname": "Vijayawada Region",
+        "circlename": "Andhra Pradesh Circle",
+        "latitude": "16.2558470",
+        "longitude": "80.8683770"
+      },
+      {
+        "officename": "Pamidimukkala B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Vijayawada Division",
+        "regionname": "Vijayawada Region",
+        "circlename": "Andhra Pradesh Circle",
+        "latitude": "16.2798310",
+        "longitude": "80.8665020"
+      }
+    ]
+  },
+  "523261": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Kolalapudi B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Prakasam Division",
+        "regionname": "Vijayawada Region",
+        "circlename": "Andhra Pradesh Circle",
+        "latitude": "15.8899250",
+        "longitude": "80.1045800"
+      },
+      {
+        "officename": "Bollapalli B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Prakasam Division",
+        "regionname": "Vijayawada Region",
+        "circlename": "Andhra Pradesh Circle",
+        "latitude": "15.8780240",
+        "longitude": "80.0864270"
+      },
+      {
+        "officename": "Baitamanjuluru B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Prakasam Division",
+        "regionname": "Vijayawada Region",
+        "circlename": "Andhra Pradesh Circle",
+        "latitude": "15.8631660",
+        "longitude": "80.0551590"
+      },
+      {
+        "officename": "Kondamanjulur B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Prakasam Division",
+        "regionname": "Vijayawada Region",
+        "circlename": "Andhra Pradesh Circle",
+        "latitude": "15.8691670",
+        "longitude": "80.0873280"
+      },
+      {
+        "officename": "Kondamuru B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Prakasam Division",
+        "regionname": "Vijayawada Region",
+        "circlename": "Andhra Pradesh Circle",
+        "latitude": "15.8294250",
+        "longitude": "80.0620600"
+      },
+      {
+        "officename": "Reningavaram B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Prakasam Division",
+        "regionname": "Vijayawada Region",
+        "circlename": "Andhra Pradesh Circle",
+        "latitude": "15.8080050",
+        "longitude": "80.0395200"
+      },
+      {
+        "officename": "Muppavaram S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Prakasam Division",
+        "regionname": "Vijayawada Region",
+        "circlename": "Andhra Pradesh Circle",
+        "latitude": "15.8477222",
+        "longitude": "80.0521111"
+      }
+    ]
+  },
+  "532184": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Srikakulam",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Srikakulam Division",
+        "regionname": "Visakhapatnam Region",
+        "circlename": "Andhra Pradesh Circle",
+        "latitude": "18.4064937",
+        "longitude": "83.8993952"
+      }
+    ]
+  },
+  "583203": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Kallahalli Rajapura B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Ballari Division",
+        "regionname": "North Karnataka Region",
+        "circlename": "Karnataka Circle",
+        "latitude": "15.2625709",
+        "longitude": "76.3839167"
+      },
+      {
+        "officename": "Hosapete N C C S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Ballari Division",
+        "regionname": "North Karnataka Region",
+        "circlename": "Karnataka Circle",
+        "latitude": "15.2625709",
+        "longitude": "76.3839167"
+      }
+    ]
+  },
+  "583221": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Hampi Power House B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Ballari Division",
+        "regionname": "North Karnataka Region",
+        "circlename": "Karnataka Circle",
+        "latitude": "15.3101099",
+        "longitude": "76.4947268"
+      },
+      {
+        "officename": "Venkatapura B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Ballari Division",
+        "regionname": "North Karnataka Region",
+        "circlename": "Karnataka Circle",
+        "latitude": "15.3305687",
+        "longitude": "76.5151716"
+      },
+      {
+        "officename": "Kamalapura S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Ballari Division",
+        "regionname": "North Karnataka Region",
+        "circlename": "Karnataka Circle",
+        "latitude": "15.3032186",
+        "longitude": "76.4737222"
+      }
+    ]
+  },
+  "590100": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "PNDC Belagavi HO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Belagavi Division",
+        "regionname": "North Karnataka Region",
+        "circlename": "Karnataka Circle",
+        "latitude": "15.8522738",
+        "longitude": "74.5106681"
+      }
+    ]
+  },
+  "600200": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Greams Road NDC",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Chennai City Central Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "13.059531",
+        "longitude": "80.254681"
+      }
+    ]
+  },
+  "600201": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Stthomasmount HO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Chennai City South Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "13.0015278",
+        "longitude": "80.1973333"
+      }
+    ]
+  },
+  "600202": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "TTTI Taramani NDC",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Chennai City South Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "12.98866667",
+        "longitude": "80.25788889"
+      }
+    ]
+  },
+  "605012": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Pondicherry NDC",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Pondicherry Division",
+        "regionname": "Chennai City Region",
+        "circlename": "Tamilnadu Circle",
+        "latitude": "11.9346019",
+        "longitude": "79.8332691"
+      }
+    ]
+  },
+  "676510": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Poovanchina BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Tirur Division",
+        "regionname": "Calicut Region",
+        "circlename": "Kerala Circle",
+        "latitude": "10.961519",
+        "longitude": "76.007872"
+      },
+      {
+        "officename": "Randathani SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Tirur Division",
+        "regionname": "Calicut Region",
+        "circlename": "Kerala Circle",
+        "latitude": "10.9619321",
+        "longitude": "76.0075808"
+      },
+      {
+        "officename": "Cherushola BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Tirur Division",
+        "regionname": "Calicut Region",
+        "circlename": "Kerala Circle",
+        "latitude": "10.9742785",
+        "longitude": "75.9925195"
+      }
+    ]
+  },
+  "682053": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Edapally",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Ernakulam Division",
+        "regionname": "Kochi Region",
+        "circlename": "Kerala Circle",
+        "latitude": "10.01907",
+        "longitude": "76.30454"
+      }
+    ]
+  },
+  "683051": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Nodal Delivery Centre Aluva",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Alwaye Division",
+        "regionname": "Kochi Region",
+        "circlename": "Kerala Circle",
+        "latitude": "10.0923639",
+        "longitude": "76.3235239"
+      }
+    ]
+  },
+  "688051": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Nodal Delivery Centre Alappuzha",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Alleppey Division",
+        "regionname": "Kochi Region",
+        "circlename": "Kerala Circle",
+        "latitude": "9.496734",
+        "longitude": "76.336001"
+      }
+    ]
+  },
+  "688523": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "PONNITTUSSERY",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Alleppey Division",
+        "regionname": "Kochi Region",
+        "circlename": "Kerala Circle",
+        "latitude": "9.601079",
+        "longitude": "76.33471"
+      },
+      {
+        "officename": "Sethulekshmipuram SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Alleppey Division",
+        "regionname": "Kochi Region",
+        "circlename": "Kerala Circle",
+        "latitude": "9.6140800",
+        "longitude": "76.3187700"
+      },
+      {
+        "officename": "Mararikulam North BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Alleppey Division",
+        "regionname": "Kochi Region",
+        "circlename": "Kerala Circle",
+        "latitude": "9.5990000",
+        "longitude": "76.3120000"
+      }
+    ]
+  },
+  "691051": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC KOLLAM",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Quilon Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Kerala Circle",
+        "latitude": "8.8870219000000006",
+        "longitude": "76.590039599999997"
+      }
+    ]
+  },
+  "712291": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Rishra",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Hooghly South Division",
+        "regionname": "South Bengal Region",
+        "circlename": "West Bengal Circle",
+        "latitude": "22.7221827",
+        "longitude": "88.3536356"
+      }
+    ]
+  },
+  "733139": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Fulbari S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Dakshin Dinajpur Division",
+        "regionname": "North Bengal Region",
+        "circlename": "West Bengal Circle",
+        "latitude": "25.3644441",
+        "longitude": "88.603976"
+      }
+    ]
+  },
+  "734010": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "TUMBAJOTE",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Darjeeling Division",
+        "regionname": "North Bengal Region",
+        "circlename": "West Bengal Circle",
+        "latitude": "26.7166",
+        "longitude": "88.3833"
+      },
+      {
+        "officename": "Matigara SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Darjeeling Division",
+        "regionname": "North Bengal Region",
+        "circlename": "West Bengal Circle",
+        "latitude": "26.7196389",
+        "longitude": "88.3856944"
+      },
+      {
+        "officename": "Nemai BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Darjeeling Division",
+        "regionname": "North Bengal Region",
+        "circlename": "West Bengal Circle",
+        "latitude": "26.7083868",
+        "longitude": "88.4268691"
+      }
+    ]
+  },
+  "734091": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Siliguri",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Darjeeling Division",
+        "regionname": "North Bengal Region",
+        "circlename": "West Bengal Circle",
+        "latitude": "26.73",
+        "longitude": "88.4"
+      }
+    ]
+  },
+  "736209": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Natabari S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Cooch Behar Division",
+        "regionname": "North Bengal Region",
+        "circlename": "West Bengal Circle",
+        "latitude": "26.387458",
+        "longitude": "89.593697"
+      }
+    ]
+  },
+  "781041": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "NDC Guwahati",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Guwahati Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Assam Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      }
+    ]
+  },
+  "794116": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "HALLIDAYGANJ SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Meghalaya Division",
+        "regionname": "Shillong HQ Region",
+        "circlename": "North Eastern Circle",
+        "latitude": "25.7307359884",
+        "longitude": "89.8968546857"
+      }
+    ]
+  },
+  "795160": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Tousem SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Manipur Division",
+        "regionname": "North East - II Region",
+        "circlename": "North Eastern Circle",
+        "latitude": "25.01496",
+        "longitude": "93.37617"
+      }
+    ]
+  },
+  "799012": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Durgabari",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Agartala Division",
+        "regionname": "North East - I Region",
+        "circlename": "North Eastern Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Salbagan S.O",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Agartala Division",
+        "regionname": "North East - I Region",
+        "circlename": "North Eastern Circle",
+        "latitude": "23.888027",
+        "longitude": "91.292465"
+      },
+      {
+        "officename": "Gandhigram B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Agartala Division",
+        "regionname": "North East - I Region",
+        "circlename": "North Eastern Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      }
+    ]
+  },
+  "800033": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "PATNA GPO NDC",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Patna GPO Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Bihar Circle",
+        "latitude": "25.611219",
+        "longitude": "85.130692"
+      }
+    ]
+  },
+  "800036": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Bairia SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "PATNA SAHIB DIVISION",
+        "regionname": "DivReportingCircle",
+        "circlename": "Bihar Circle",
+        "latitude": "25.65",
+        "longitude": "85.12"
+      }
+    ]
+  },
+  "804454": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Tineri BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "PATNA SAHIB DIVISION",
+        "regionname": "DivReportingCircle",
+        "circlename": "Bihar Circle",
+        "latitude": "25.31242",
+        "longitude": "85.02873"
+      },
+      {
+        "officename": "Jamalpur BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "PATNA SAHIB DIVISION",
+        "regionname": "DivReportingCircle",
+        "circlename": "Bihar Circle",
+        "latitude": "25.309672",
+        "longitude": "85.021352"
+      }
+    ]
+  },
+  "805142": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "MESKAUR SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Nawadha Division",
+        "regionname": "East Region Bhagalpur",
+        "circlename": "Bihar Circle",
+        "latitude": "24.850889",
+        "longitude": "85.244107"
+      }
+    ]
+  },
+  "811315": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Karma BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Munger Division",
+        "regionname": "East Region Bhagalpur",
+        "circlename": "Bihar Circle",
+        "latitude": "24.9562561",
+        "longitude": "86.0530136"
+      },
+      {
+        "officename": "M Nagar BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Munger Division",
+        "regionname": "East Region Bhagalpur",
+        "circlename": "Bihar Circle",
+        "latitude": "25.0215938",
+        "longitude": "86.0616357"
+      },
+      {
+        "officename": "Sikandra SO Jamui",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Munger Division",
+        "regionname": "East Region Bhagalpur",
+        "circlename": "Bihar Circle",
+        "latitude": "24.9288056",
+        "longitude": "86.2261944"
+      },
+      {
+        "officename": "B Bahadurpur BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Munger Division",
+        "regionname": "East Region Bhagalpur",
+        "circlename": "Bihar Circle",
+        "latitude": "24.908235",
+        "longitude": "86.040213"
+      },
+      {
+        "officename": "Belchhi BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Munger Division",
+        "regionname": "East Region Bhagalpur",
+        "circlename": "Bihar Circle",
+        "latitude": "25.0152868",
+        "longitude": "85.9637594"
+      },
+      {
+        "officename": "Kumar BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Munger Division",
+        "regionname": "East Region Bhagalpur",
+        "circlename": "Bihar Circle",
+        "latitude": "24.9583206",
+        "longitude": "86.0038127"
+      },
+      {
+        "officename": "Manjosh BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Munger Division",
+        "regionname": "East Region Bhagalpur",
+        "circlename": "Bihar Circle",
+        "latitude": "24.966311",
+        "longitude": "86.100679"
+      },
+      {
+        "officename": "Noma BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Munger Division",
+        "regionname": "East Region Bhagalpur",
+        "circlename": "Bihar Circle",
+        "latitude": "25.0416898",
+        "longitude": "86.0014913"
+      },
+      {
+        "officename": "Sijhauri BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Munger Division",
+        "regionname": "East Region Bhagalpur",
+        "circlename": "Bihar Circle",
+        "latitude": "24.956561",
+        "longitude": "86.717565"
+      },
+      {
+        "officename": "Akauni BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Munger Division",
+        "regionname": "East Region Bhagalpur",
+        "circlename": "Bihar Circle",
+        "latitude": "25.099233999999999",
+        "longitude": "86.036161000000007"
+      },
+      {
+        "officename": "Lohanda B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Munger Division",
+        "regionname": "East Region Bhagalpur",
+        "circlename": "Bihar Circle",
+        "latitude": "24.973872",
+        "longitude": "86.032961999999998"
+      },
+      {
+        "officename": "Khardih BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Munger Division",
+        "regionname": "East Region Bhagalpur",
+        "circlename": "Bihar Circle",
+        "latitude": "25.0200869",
+        "longitude": "85.9347915"
+      },
+      {
+        "officename": "Lachhuar BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Munger Division",
+        "regionname": "East Region Bhagalpur",
+        "circlename": "Bihar Circle",
+        "latitude": "24.9163173",
+        "longitude": "86.014535"
+      },
+      {
+        "officename": "Mathurapur BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Munger Division",
+        "regionname": "East Region Bhagalpur",
+        "circlename": "Bihar Circle",
+        "latitude": "24.9068537",
+        "longitude": "85.9820923"
+      },
+      {
+        "officename": "Pirhinda BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Munger Division",
+        "regionname": "East Region Bhagalpur",
+        "circlename": "Bihar Circle",
+        "latitude": "24.9761877",
+        "longitude": "86.0172667"
+      },
+      {
+        "officename": "Rabai BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Munger Division",
+        "regionname": "East Region Bhagalpur",
+        "circlename": "Bihar Circle",
+        "latitude": "24.9287325",
+        "longitude": "85.9799291"
+      },
+      {
+        "officename": "Sawal Bigha BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Munger Division",
+        "regionname": "East Region Bhagalpur",
+        "circlename": "Bihar Circle",
+        "latitude": "24.923318",
+        "longitude": "86.0298236"
+      },
+      {
+        "officename": "Tal Saharsa BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Munger Division",
+        "regionname": "East Region Bhagalpur",
+        "circlename": "Bihar Circle",
+        "latitude": "24.929768",
+        "longitude": "86.0598697"
+      },
+      {
+        "officename": "Tarhari BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Munger Division",
+        "regionname": "East Region Bhagalpur",
+        "circlename": "Bihar Circle",
+        "latitude": "25.0178146",
+        "longitude": "85.9864401"
+      },
+      {
+        "officename": "Dhira BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Munger Division",
+        "regionname": "East Region Bhagalpur",
+        "circlename": "Bihar Circle",
+        "latitude": "25.167361",
+        "longitude": "86.098825"
+      },
+      {
+        "officename": "Ghonghsa BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Munger Division",
+        "regionname": "East Region Bhagalpur",
+        "circlename": "Bihar Circle",
+        "latitude": "24.9847653",
+        "longitude": "86.0397087"
+      },
+      {
+        "officename": "Matashi BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Munger Division",
+        "regionname": "East Region Bhagalpur",
+        "circlename": "Bihar Circle",
+        "latitude": "24.9945812",
+        "longitude": "85.9984028"
+      },
+      {
+        "officename": "Patambar BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Munger Division",
+        "regionname": "East Region Bhagalpur",
+        "circlename": "Bihar Circle",
+        "latitude": "24.9198427",
+        "longitude": "86.0652703"
+      },
+      {
+        "officename": "Sarsa Bichwe BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Munger Division",
+        "regionname": "East Region Bhagalpur",
+        "circlename": "Bihar Circle",
+        "latitude": "24.929768",
+        "longitude": "86.0598697"
+      },
+      {
+        "officename": "Bhulo B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Munger Division",
+        "regionname": "East Region Bhagalpur",
+        "circlename": "Bihar Circle",
+        "latitude": "24.983418",
+        "longitude": "85.840829999999997"
+      }
+    ]
+  },
+  "825405": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Pindarkon",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Hazaribagh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Jharkhand Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Barhi SO Hazaribag",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Hazaribagh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Jharkhand Circle",
+        "latitude": "23.9926667",
+        "longitude": "85.3660000"
+      },
+      {
+        "officename": "Deochanda BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Hazaribagh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Jharkhand Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "khodahar BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Hazaribagh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Jharkhand Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "MALKOLA BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Hazaribagh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Jharkhand Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "DAPOK BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Hazaribagh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Jharkhand Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Gouriakarma BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Hazaribagh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Jharkhand Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "karso BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Hazaribagh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Jharkhand Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "KEDARUT B.O",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Hazaribagh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Jharkhand Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Kewal BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Hazaribagh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Jharkhand Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Padaria BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Hazaribagh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Jharkhand Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Rasoiyadhamna BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Hazaribagh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Jharkhand Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "konra BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Hazaribagh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Jharkhand Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Ranichuhan BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Hazaribagh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Jharkhand Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Jhurjhuri BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Hazaribagh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Jharkhand Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Nagarbarsot BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Hazaribagh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Jharkhand Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      },
+      {
+        "officename": "Dulmaha  BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Hazaribagh Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "Jharkhand Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      }
+    ]
+  },
+  "855115": {
+    "state": "NA",
+    "district": "NA",
+    "offices": [
+      {
+        "officename": "Dohar B.O.",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Divisional Office Katihar",
+        "regionname": "East Region Bhagalpur",
+        "circlename": "Bihar Circle",
+        "latitude": "26.2257",
+        "longitude": "87.7767"
+      },
+      {
+        "officename": "Haldikhora BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Divisional Office Katihar",
+        "regionname": "East Region Bhagalpur",
+        "circlename": "Bihar Circle",
+        "latitude": "25.7812000",
+        "longitude": "87.4651000"
+      },
+      {
+        "officename": "Shishabari BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Divisional Office Katihar",
+        "regionname": "East Region Bhagalpur",
+        "circlename": "Bihar Circle",
+        "latitude": "25.7812000",
+        "longitude": "87.4651000"
+      },
+      {
+        "officename": "Sontha SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Divisional Office Katihar",
+        "regionname": "East Region Bhagalpur",
+        "circlename": "Bihar Circle",
+        "latitude": "25.7812000",
+        "longitude": "87.4651000"
+      },
+      {
+        "officename": "Dhanpatganj BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Divisional Office Katihar",
+        "regionname": "East Region Bhagalpur",
+        "circlename": "Bihar Circle",
+        "latitude": "25.7812000",
+        "longitude": "87.4651000"
+      },
+      {
+        "officename": "Dogharia BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Divisional Office Katihar",
+        "regionname": "East Region Bhagalpur",
+        "circlename": "Bihar Circle",
+        "latitude": "25.7812000",
+        "longitude": "87.4651000"
+      },
+      {
+        "officename": "MAUDHA BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Divisional Office Katihar",
+        "regionname": "East Region Bhagalpur",
+        "circlename": "Bihar Circle",
+        "latitude": "25.7812000",
+        "longitude": "87.4651000"
+      },
+      {
+        "officename": "Angarhat BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Divisional Office Katihar",
+        "regionname": "East Region Bhagalpur",
+        "circlename": "Bihar Circle",
+        "latitude": "25.7812000",
+        "longitude": "87.4651000"
+      },
+      {
+        "officename": "Kochadhaman BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Divisional Office Katihar",
+        "regionname": "East Region Bhagalpur",
+        "circlename": "Bihar Circle",
+        "latitude": "25.7812000",
+        "longitude": "87.4651000"
+      },
+      {
+        "officename": "Mirpur BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Divisional Office Katihar",
+        "regionname": "East Region Bhagalpur",
+        "circlename": "Bihar Circle",
+        "latitude": "25.7812000",
+        "longitude": "87.4651000"
+      },
+      {
+        "officename": "Singhari BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Divisional Office Katihar",
+        "regionname": "East Region Bhagalpur",
+        "circlename": "Bihar Circle",
+        "latitude": "25.7812000",
+        "longitude": "87.4651000"
+      }
+    ]
+  }
+}

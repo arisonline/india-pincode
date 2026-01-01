@@ -1,0 +1,2236 @@
+{
+  "737101": {
+    "state": "SIKKIM",
+    "district": "EAST DISTRICT",
+    "offices": [
+      {
+        "officename": "Sichey Gaon SO",
+        "officetype": "PO",
+        "delivery": "Non Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3300000",
+        "longitude": "88.6000000"
+      },
+      {
+        "officename": "Gangtok HO",
+        "officetype": "HO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3322500",
+        "longitude": "88.6140278"
+      }
+    ]
+  },
+  "737102": {
+    "state": "SIKKIM",
+    "district": "EAST DISTRICT",
+    "offices": [
+      {
+        "officename": "Dhajey BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5300000",
+        "longitude": "88.5100000"
+      },
+      {
+        "officename": "Lingdum BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3300000",
+        "longitude": "88.5700000"
+      },
+      {
+        "officename": "Kyanglasha BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5300000",
+        "longitude": "88.5100000"
+      },
+      {
+        "officename": "Pabyiok BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5300000",
+        "longitude": "88.5100000"
+      },
+      {
+        "officename": "SMUSikkim Manipal University",
+        "officetype": "PO",
+        "delivery": "Non Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3322500",
+        "longitude": "88.6140278"
+      },
+      {
+        "officename": "Sherathang BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3700000",
+        "longitude": "88.8100000"
+      },
+      {
+        "officename": "Deorali SO",
+        "officetype": "PO",
+        "delivery": "Non Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3100000",
+        "longitude": "88.6000000"
+      },
+      {
+        "officename": "Samdur BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2900000",
+        "longitude": "88.5900000"
+      },
+      {
+        "officename": "Kupup BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3400000",
+        "longitude": "88.8400000"
+      },
+      {
+        "officename": "Tadong SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.7306273",
+        "longitude": "88.6337840"
+      }
+    ]
+  },
+  "737103": {
+    "state": "SIKKIM",
+    "district": "EAST DISTRICT",
+    "offices": [
+      {
+        "officename": "Bhusuk BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3500000",
+        "longitude": "88.6700000"
+      },
+      {
+        "officename": "Bojoghari BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3700000",
+        "longitude": "88.6100000"
+      },
+      {
+        "officename": "Lingdok BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3800000",
+        "longitude": "88.5700000"
+      },
+      {
+        "officename": "Rajbhawan SO East Sikkim",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3398330",
+        "longitude": "88.6550490"
+      },
+      {
+        "officename": "Luing BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3600000",
+        "longitude": "88.5900000"
+      },
+      {
+        "officename": "Penlong BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3700000",
+        "longitude": "88.6200000"
+      },
+      {
+        "officename": "Chongey BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3400000",
+        "longitude": "88.6500000"
+      },
+      {
+        "officename": "Tashiling SO",
+        "officetype": "PO",
+        "delivery": "Non Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3400000",
+        "longitude": "88.6400000"
+      }
+    ]
+  },
+  "737106": {
+    "state": "SIKKIM",
+    "district": "Pakyong",
+    "offices": [
+      {
+        "officename": "Karthok BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.1600000",
+        "longitude": "88.1700000"
+      },
+      {
+        "officename": "Linkey BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2300000",
+        "longitude": "88.6500000"
+      },
+      {
+        "officename": "Pacheykhani BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2100000",
+        "longitude": "88.6000000"
+      },
+      {
+        "officename": "Bering BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2200000",
+        "longitude": "88.6600000"
+      },
+      {
+        "officename": "Changayshanti BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5300000",
+        "longitude": "88.5100000"
+      },
+      {
+        "officename": "Pakyong SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3398330",
+        "longitude": "88.6550490"
+      },
+      {
+        "officename": "Namcheybong BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5300000",
+        "longitude": "88.5100000"
+      },
+      {
+        "officename": "Tshalamthang BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2100000",
+        "longitude": "88.4700000"
+      },
+      {
+        "officename": "Pachey Sansung BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5300000",
+        "longitude": "88.5100000"
+      },
+      {
+        "officename": "Parkha BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2400000",
+        "longitude": "88.6600000"
+      }
+    ]
+  },
+  "737107": {
+    "state": "SIKKIM",
+    "district": "EAST DISTRICT",
+    "offices": [
+      {
+        "officename": "Lumlingthyang BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5300000",
+        "longitude": "88.5100000"
+      },
+      {
+        "officename": "Dikchu SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3398330",
+        "longitude": "88.6550490"
+      },
+      {
+        "officename": "Gor BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.4300000",
+        "longitude": "88.4900000"
+      },
+      {
+        "officename": "Raley Khesey BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5300000",
+        "longitude": "88.5100000"
+      },
+      {
+        "officename": "Samdong BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3500000",
+        "longitude": "88.4900000"
+      },
+      {
+        "officename": "Rakdong BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3800000",
+        "longitude": "88.5200000"
+      }
+    ]
+  },
+  "737111": {
+    "state": "SIKKIM",
+    "district": "WEST DISTRICT",
+    "offices": [
+      {
+        "officename": "Arithang BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3300000",
+        "longitude": "88.6100000"
+      },
+      {
+        "officename": "Bhaluthang BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3100000",
+        "longitude": "88.2500000"
+      },
+      {
+        "officename": "Chingthang BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2500000",
+        "longitude": "88.2700000"
+      },
+      {
+        "officename": "Gerathang BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3500000",
+        "longitude": "88.2400000"
+      },
+      {
+        "officename": "Yangthang BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2800000",
+        "longitude": "88.2300000"
+      },
+      {
+        "officename": "Legship BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2700000",
+        "longitude": "88.2700000"
+      },
+      {
+        "officename": "Lingchom BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5300000",
+        "longitude": "88.5100000"
+      },
+      {
+        "officename": "Tashiding BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3000000",
+        "longitude": "88.2900000"
+      },
+      {
+        "officename": "Yangtey BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2900000",
+        "longitude": "88.2700000"
+      },
+      {
+        "officename": "Gayzing SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.7306273",
+        "longitude": "88.5337840"
+      },
+      {
+        "officename": "Karjee BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5300000",
+        "longitude": "88.5100000"
+      },
+      {
+        "officename": "Rangship BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2800000",
+        "longitude": "88.2800000"
+      },
+      {
+        "officename": "Rinchenpong BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2400000",
+        "longitude": "88.2700000"
+      },
+      {
+        "officename": "Sinek BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5300000",
+        "longitude": "88.5100000"
+      }
+    ]
+  },
+  "737113": {
+    "state": "SIKKIM",
+    "district": "WEST DISTRICT",
+    "offices": [
+      {
+        "officename": "Khechuperi BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3400000",
+        "longitude": "88.1800000"
+      },
+      {
+        "officename": "Namphu BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5300000",
+        "longitude": "88.5100000"
+      },
+      {
+        "officename": "Radhu Khandu BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5300000",
+        "longitude": "88.5100000"
+      },
+      {
+        "officename": "Uttarey BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2600000",
+        "longitude": "88.0900000"
+      },
+      {
+        "officename": "Yuksom BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3700000",
+        "longitude": "88.2200000"
+      },
+      {
+        "officename": "Pelling SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3383850",
+        "longitude": "88.1635250"
+      },
+      {
+        "officename": "Bermiok BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2500000",
+        "longitude": "88.2300000"
+      },
+      {
+        "officename": "Darap BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3000000",
+        "longitude": "88.1800000"
+      },
+      {
+        "officename": "Kaluk BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2300000",
+        "longitude": "88.2500000"
+      },
+      {
+        "officename": "Mechi Aching BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.530000000000001",
+        "longitude": "88.510000000000005"
+      },
+      {
+        "officename": "Singrangpung",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.338384999999999",
+        "longitude": "88.163525000000007"
+      },
+      {
+        "officename": "Dentam BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2500000",
+        "longitude": "88.1300000"
+      },
+      {
+        "officename": "Thingling BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5300000",
+        "longitude": "88.5100000"
+      },
+      {
+        "officename": "Hee Gaon BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2500000",
+        "longitude": "88.1900000"
+      },
+      {
+        "officename": "Karmatar BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2900000",
+        "longitude": "88.0900000"
+      },
+      {
+        "officename": "Rimbi BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3100000",
+        "longitude": "88.1800000"
+      }
+    ]
+  },
+  "737116": {
+    "state": "SIKKIM",
+    "district": "NORTH DISTRICT",
+    "offices": [
+      {
+        "officename": "Sakyong-Pentong",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.516666699999998",
+        "longitude": "88.533333299999995"
+      },
+      {
+        "officename": "Lingdem BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5400000",
+        "longitude": "88.4500000"
+      },
+      {
+        "officename": "Lower Dzongu BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5000000",
+        "longitude": "88.4300000"
+      },
+      {
+        "officename": "Namok BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.4400000",
+        "longitude": "88.5300000"
+      },
+      {
+        "officename": "Tingchim BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5300000",
+        "longitude": "88.5100000"
+      },
+      {
+        "officename": "Tingvong BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5500000",
+        "longitude": "88.4700000"
+      },
+      {
+        "officename": "Phensong BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.4100000",
+        "longitude": "88.6000000"
+      },
+      {
+        "officename": "Lingthem BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5200000",
+        "longitude": "88.5000000"
+      },
+      {
+        "officename": "Manul BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5100000",
+        "longitude": "88.5800000"
+      },
+      {
+        "officename": "Phamtam BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.8200000",
+        "longitude": "88.5500000"
+      },
+      {
+        "officename": "Phudong BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.4000000",
+        "longitude": "88.5700000"
+      },
+      {
+        "officename": "Men Rong Rong BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5300000",
+        "longitude": "88.5100000"
+      },
+      {
+        "officename": "Ramthang BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.4100000",
+        "longitude": "88.5400000"
+      },
+      {
+        "officename": "Singhik BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5100000",
+        "longitude": "88.5500000"
+      },
+      {
+        "officename": "Kabi BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.4000000",
+        "longitude": "88.6100000"
+      },
+      {
+        "officename": "Mangan SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5166667",
+        "longitude": "88.5333333"
+      },
+      {
+        "officename": "Rangrang BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.4700000",
+        "longitude": "88.5200000"
+      },
+      {
+        "officename": "Sangkalan BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5300000",
+        "longitude": "88.5100000"
+      }
+    ]
+  },
+  "737120": {
+    "state": "SIKKIM",
+    "district": "NORTH DISTRICT",
+    "offices": [
+      {
+        "officename": "Shipgyare BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5300000",
+        "longitude": "88.5100000"
+      },
+      {
+        "officename": "Lachen BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.7100000",
+        "longitude": "88.5500000"
+      },
+      {
+        "officename": "Lachung BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.6800000",
+        "longitude": "88.7400000"
+      },
+      {
+        "officename": "Chungthang SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5184494",
+        "longitude": "88.5371958"
+      },
+      {
+        "officename": "Naga BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5300000",
+        "longitude": "88.6200000"
+      }
+    ]
+  },
+  "737121": {
+    "state": "SIKKIM",
+    "district": "WEST DISTRICT",
+    "offices": [
+      {
+        "officename": "Budang BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.27",
+        "longitude": "88.469999999999999"
+      },
+      {
+        "officename": "Majitar BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.18",
+        "longitude": "88.489999999999995"
+      },
+      {
+        "officename": "Pipalay BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.149999999999999",
+        "longitude": "88.280000000000001"
+      },
+      {
+        "officename": "Sanganath BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.530000000000001",
+        "longitude": "88.510000000000005"
+      },
+      {
+        "officename": "Sri Badam BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.199999999999999",
+        "longitude": "88.200000000000003"
+      },
+      {
+        "officename": "Suldung BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.530000000000001",
+        "longitude": "88.510000000000005"
+      },
+      {
+        "officename": "Buriakhop BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.170000000000002",
+        "longitude": "88.150000000000006"
+      },
+      {
+        "officename": "Chakung BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.149999999999999",
+        "longitude": "88.239999999999995"
+      },
+      {
+        "officename": "Okharey BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.140000000000001",
+        "longitude": "88.099999999999994"
+      },
+      {
+        "officename": "Soreng BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.16",
+        "longitude": "88.189999999999998"
+      },
+      {
+        "officename": "Tharpu BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.140000000000001",
+        "longitude": "88.189999999999998"
+      },
+      {
+        "officename": "Chumbong BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.129999999999999",
+        "longitude": "88.230000000000004"
+      },
+      {
+        "officename": "Malbasey BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.129999999999999",
+        "longitude": "88.209999999999994"
+      },
+      {
+        "officename": "Reshi BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.18",
+        "longitude": "88.650000000000006"
+      },
+      {
+        "officename": "Timburbong BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.170000000000002",
+        "longitude": "88.189999999999998"
+      },
+      {
+        "officename": "Zoom BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.140000000000001",
+        "longitude": "88.260000000000005"
+      },
+      {
+        "officename": "Arubotay BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.530000000000001",
+        "longitude": "88.510000000000005"
+      },
+      {
+        "officename": "Sanchabarey Daramdim BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.129999999999999",
+        "longitude": "88.159999999999997"
+      },
+      {
+        "officename": "Sombaria BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.140000000000001",
+        "longitude": "88.140000000000001"
+      },
+      {
+        "officename": "Takuthang BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.190000000000001",
+        "longitude": "88.280000000000001"
+      },
+      {
+        "officename": "Tikpur BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.129999999999999",
+        "longitude": "88.109999999999999"
+      },
+      {
+        "officename": "Naya Bazar SO West Sikkim",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3383850",
+        "longitude": "88.1635250"
+      }
+    ]
+  },
+  "737126": {
+    "state": "SIKKIM",
+    "district": "SOUTH DISTRICT",
+    "offices": [
+      {
+        "officename": "Mic Khola BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.530000000000001",
+        "longitude": "88.510000000000005"
+      },
+      {
+        "officename": "Pabong BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.199999999999999",
+        "longitude": "88.359999999999999"
+      },
+      {
+        "officename": "Namchi SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.1665460",
+        "longitude": "88.3606890"
+      },
+      {
+        "officename": "Kitam BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.120000000000001",
+        "longitude": "88.349999999999994"
+      },
+      {
+        "officename": "Maniram BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.149999999999999",
+        "longitude": "88.400000000000006"
+      },
+      {
+        "officename": "Perbing BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.170000000000002",
+        "longitude": "88.400000000000006"
+      },
+      {
+        "officename": "Phalidara BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.16",
+        "longitude": "88.379999999999995"
+      },
+      {
+        "officename": "Singhithang BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.530000000000001",
+        "longitude": "88.510000000000005"
+      },
+      {
+        "officename": "Sorok BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.120000000000001",
+        "longitude": "88.340000000000003"
+      },
+      {
+        "officename": "Wok BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.32",
+        "longitude": "88.609999999999999"
+      },
+      {
+        "officename": "Assangthang BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.140000000000001",
+        "longitude": "88.329999999999998"
+      },
+      {
+        "officename": "Poklok BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.16",
+        "longitude": "88.319999999999993"
+      },
+      {
+        "officename": "Shalghari BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.129999999999999",
+        "longitude": "88.280000000000001"
+      },
+      {
+        "officename": "Nandugaon BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.16",
+        "longitude": "88.299999999999997"
+      },
+      {
+        "officename": "Rong BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.109999999999999",
+        "longitude": "88.359999999999999"
+      },
+      {
+        "officename": "Damthang BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.23",
+        "longitude": "88.379999999999995"
+      }
+    ]
+  },
+  "737128": {
+    "state": "SIKKIM",
+    "district": "SOUTH DISTRICT",
+    "offices": [
+      {
+        "officename": "Rateypani BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.1300000",
+        "longitude": "88.4300000"
+      },
+      {
+        "officename": "Sadam BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.1100000",
+        "longitude": "88.4200000"
+      },
+      {
+        "officename": "Melli Bazar SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.1244020",
+        "longitude": "88.4121750"
+      },
+      {
+        "officename": "Manpur BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.1100000",
+        "longitude": "88.3700000"
+      },
+      {
+        "officename": "Sumbuk BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.0900000",
+        "longitude": "88.3800000"
+      },
+      {
+        "officename": "Lungchuk BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3900000",
+        "longitude": "88.6000000"
+      },
+      {
+        "officename": "Melli Dara BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.1000000",
+        "longitude": "88.4200000"
+      },
+      {
+        "officename": "Payiong BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5300000",
+        "longitude": "88.5100000"
+      },
+      {
+        "officename": "Kerabari BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.0800000",
+        "longitude": "88.4300000"
+      },
+      {
+        "officename": "Turuk BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.1000000",
+        "longitude": "88.4000000"
+      }
+    ]
+  },
+  "737131": {
+    "state": "SIKKIM",
+    "district": "Pakyong",
+    "offices": [
+      {
+        "officename": "Chujachen BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2000000",
+        "longitude": "88.7000000"
+      },
+      {
+        "officename": "Latuk BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2800000",
+        "longitude": "88.7000000"
+      },
+      {
+        "officename": "Rangli Bazar SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3398330",
+        "longitude": "88.6550490"
+      },
+      {
+        "officename": "Dalapchand BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.1900000",
+        "longitude": "88.6700000"
+      },
+      {
+        "officename": "North Regu BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5300000",
+        "longitude": "88.5100000"
+      },
+      {
+        "officename": "South Regu BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5300000",
+        "longitude": "88.5100000"
+      },
+      {
+        "officename": "Phadamchen BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2300000",
+        "longitude": "88.7600000"
+      },
+      {
+        "officename": "Rolep BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.27",
+        "longitude": "88.719999999999999"
+      },
+      {
+        "officename": "Lingtam BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2300000",
+        "longitude": "88.7500000"
+      }
+    ]
+  },
+  "737132": {
+    "state": "SIKKIM",
+    "district": "SOUTH DISTRICT",
+    "offices": [
+      {
+        "officename": "Maney Dara BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5300000",
+        "longitude": "88.5100000"
+      },
+      {
+        "officename": "Namthang BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.1600000",
+        "longitude": "88.4700000"
+      },
+      {
+        "officename": "East Pendam BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2000000",
+        "longitude": "88.5600000"
+      },
+      {
+        "officename": "Kateng Bokrang BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.1200000",
+        "longitude": "88.4600000"
+      },
+      {
+        "officename": "Mamring BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.1600000",
+        "longitude": "88.5100000"
+      },
+      {
+        "officename": "Turung BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.1400000",
+        "longitude": "88.4900000"
+      },
+      {
+        "officename": "Upper Pendam BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2100000",
+        "longitude": "88.5100000"
+      },
+      {
+        "officename": "Duga BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.1900000",
+        "longitude": "88.5300000"
+      },
+      {
+        "officename": "Rangpo SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3398330",
+        "longitude": "88.6550490"
+      }
+    ]
+  },
+  "737133": {
+    "state": "SIKKIM",
+    "district": "Pakyong",
+    "offices": [
+      {
+        "officename": "Rorathang BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.1900000",
+        "longitude": "88.6100000"
+      },
+      {
+        "officename": "Taza BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2000000",
+        "longitude": "88.6100000"
+      },
+      {
+        "officename": "Upper Dalapchand BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.1900000",
+        "longitude": "88.6700000"
+      },
+      {
+        "officename": "Aritar BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.1800000",
+        "longitude": "88.6700000"
+      },
+      {
+        "officename": "Shivalaya Mandir Lingsey BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2400000",
+        "longitude": "88.6600000"
+      },
+      {
+        "officename": "Sudunglakha BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.1900000",
+        "longitude": "88.6500000"
+      },
+      {
+        "officename": "Amba BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2100000",
+        "longitude": "88.6300000"
+      },
+      {
+        "officename": "Upper Khamdong BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.1700000",
+        "longitude": "88.6600000"
+      },
+      {
+        "officename": "Rhenock SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3398330",
+        "longitude": "88.6550490"
+      }
+    ]
+  },
+  "737134": {
+    "state": "SIKKIM",
+    "district": "EAST DISTRICT",
+    "offices": [
+      {
+        "officename": "Lingzey BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3010000",
+        "longitude": "88.4750000"
+      },
+      {
+        "officename": "Namphing BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2200000",
+        "longitude": "88.4800000"
+      },
+      {
+        "officename": "Sakhu Busty BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2000000",
+        "longitude": "88.5100000"
+      },
+      {
+        "officename": "Sangkhola BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2400000",
+        "longitude": "88.5200000"
+      },
+      {
+        "officename": "Tumin BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5320000",
+        "longitude": "88.5120000"
+      },
+      {
+        "officename": "West Pendam BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.218",
+        "longitude": "88.510999999999996"
+      },
+      {
+        "officename": "Yangyang BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2920000",
+        "longitude": "88.4180000"
+      },
+      {
+        "officename": "Singtam SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2323950",
+        "longitude": "88.4966840"
+      },
+      {
+        "officename": "Lingmoo BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3350000",
+        "longitude": "88.4770000"
+      },
+      {
+        "officename": "Bardang BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2100000",
+        "longitude": "88.4900000"
+      },
+      {
+        "officename": "Bermiok BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2400000",
+        "longitude": "88.2300000"
+      },
+      {
+        "officename": "Beyong BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5300000",
+        "longitude": "88.5100000"
+      },
+      {
+        "officename": "Kokalay BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5300000",
+        "longitude": "88.5100000"
+      },
+      {
+        "officename": "Sinchuthang BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2600000",
+        "longitude": "88.4300000"
+      },
+      {
+        "officename": "Dipudara Nhpc Complex BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2500000",
+        "longitude": "88.4600000"
+      },
+      {
+        "officename": "Khamdong BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2600000",
+        "longitude": "88.4800000"
+      },
+      {
+        "officename": "Tarku BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2540000",
+        "longitude": "88.4380000"
+      },
+      {
+        "officename": "Gangkha Busty BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.329999999999998",
+        "longitude": "88.599999999999994"
+      },
+      {
+        "officename": "Lingee BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3700000",
+        "longitude": "88.4400000"
+      },
+      {
+        "officename": "Nazitam BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2600000",
+        "longitude": "88.5200000"
+      },
+      {
+        "officename": "Neya BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5300000",
+        "longitude": "88.5100000"
+      },
+      {
+        "officename": "SANG BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2500000",
+        "longitude": "88.5000000"
+      },
+      {
+        "officename": "Sumin BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5300000",
+        "longitude": "88.5100000"
+      },
+      {
+        "officename": "Temi Tarku BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2390000",
+        "longitude": "88.4270000"
+      },
+      {
+        "officename": "Makha BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3150000",
+        "longitude": "88.4570000"
+      }
+    ]
+  },
+  "737135": {
+    "state": "SIKKIM",
+    "district": "EAST DISTRICT",
+    "offices": [
+      {
+        "officename": "Rumtek BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2800000",
+        "longitude": "88.5600000"
+      },
+      {
+        "officename": "Samlickmarchak BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2800000",
+        "longitude": "88.5800000"
+      },
+      {
+        "officename": "Upper Martam BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2600000",
+        "longitude": "88.5500000"
+      },
+      {
+        "officename": "Ranipool SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3398330",
+        "longitude": "88.6550490"
+      },
+      {
+        "officename": "Ahoo Busty BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5300000",
+        "longitude": "88.5100000"
+      },
+      {
+        "officename": "Middle Camp BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2600000",
+        "longitude": "88.5600000"
+      },
+      {
+        "officename": "Rauteyrumtek BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3000000",
+        "longitude": "88.5700000"
+      },
+      {
+        "officename": "Assam Lingzey BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2600000",
+        "longitude": "88.6600000"
+      },
+      {
+        "officename": "Nandok BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2900000",
+        "longitude": "88.6100000"
+      },
+      {
+        "officename": "Raymindu BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5300000",
+        "longitude": "88.5100000"
+      }
+    ]
+  },
+  "737136": {
+    "state": "SIKKIM",
+    "district": "EAST DISTRICT",
+    "offices": [
+      {
+        "officename": "Majitar SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3398330",
+        "longitude": "88.6550490"
+      }
+    ]
+  },
+  "737139": {
+    "state": "SIKKIM",
+    "district": "SOUTH DISTRICT",
+    "offices": [
+      {
+        "officename": "Barfung BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2900000",
+        "longitude": "88.3400000"
+      },
+      {
+        "officename": "Berang BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3200000",
+        "longitude": "88.3400000"
+      },
+      {
+        "officename": "Tinkitam BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.219999999999999",
+        "longitude": "88.5"
+      },
+      {
+        "officename": "Phamtam BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2800000",
+        "longitude": "88.3900000"
+      },
+      {
+        "officename": "Ralang BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3200000",
+        "longitude": "88.3400000"
+      },
+      {
+        "officename": "Sangmoo BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5300000",
+        "longitude": "88.5100000"
+      },
+      {
+        "officename": "Tingmoo BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.3300000",
+        "longitude": "88.4700000"
+      },
+      {
+        "officename": "Lunsing BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.5300000",
+        "longitude": "88.5100000"
+      },
+      {
+        "officename": "Ben BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.25",
+        "longitude": "88.420000000000002"
+      },
+      {
+        "officename": "Kewzing BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.2700000",
+        "longitude": "88.3100000"
+      },
+      {
+        "officename": "Sada",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.124402",
+        "longitude": "88.412175000000005"
+      },
+      {
+        "officename": "Ravangla SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Sikkim Division",
+        "regionname": "DivReportingCircle",
+        "circlename": "West Bengal Circle",
+        "latitude": "27.1244020",
+        "longitude": "88.4121750"
+      }
+    ]
+  }
+}

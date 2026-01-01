@@ -1,0 +1,610 @@
+{
+  "362520": {
+    "state": "THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU",
+    "district": "DIU",
+    "offices": [
+      {
+        "officename": "Diu SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Junagadh Division",
+        "regionname": "Rajkot Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.713943",
+        "longitude": "70.975823"
+      },
+      {
+        "officename": "Diu Bazar ND TSO",
+        "officetype": "PO",
+        "delivery": "Non Delivery",
+        "divisionname": "Junagadh Division",
+        "regionname": "Rajkot Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "NA",
+        "longitude": "NA"
+      }
+    ]
+  },
+  "362540": {
+    "state": "THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU",
+    "district": "DIU",
+    "offices": [
+      {
+        "officename": "Ghoghla SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Junagadh Division",
+        "regionname": "Rajkot Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.729103",
+        "longitude": "70.990904"
+      }
+    ]
+  },
+  "362570": {
+    "state": "THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU",
+    "district": "DIU",
+    "offices": [
+      {
+        "officename": "Wanakbara SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Junagadh Division",
+        "regionname": "Rajkot Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.717441",
+        "longitude": "70.874430"
+      },
+      {
+        "officename": "Bucharvada BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Junagadh Division",
+        "regionname": "Rajkot Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.7291717",
+        "longitude": "70.9177572"
+      }
+    ]
+  },
+  "396210": {
+    "state": "THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU",
+    "district": "DAMAN",
+    "offices": [
+      {
+        "officename": "Bhimpore BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.4473610",
+        "longitude": "72.8574560"
+      },
+      {
+        "officename": "Dunetha BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.4267760",
+        "longitude": "72.8470070"
+      },
+      {
+        "officename": "Kadaiya BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.4640070",
+        "longitude": "72.8548300"
+      },
+      {
+        "officename": "Varkund BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.4026430",
+        "longitude": "72.8617630"
+      },
+      {
+        "officename": "Nani Vankad BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.4426900",
+        "longitude": "72.8825630"
+      },
+      {
+        "officename": "Daman SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.4172220",
+        "longitude": "72.8374530"
+      },
+      {
+        "officename": "Marvad BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.4385330",
+        "longitude": "72.8373830"
+      }
+    ]
+  },
+  "396220": {
+    "state": "THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU",
+    "district": "DAMAN",
+    "offices": [
+      {
+        "officename": "Dholar BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.3937000",
+        "longitude": "72.8313140"
+      },
+      {
+        "officename": "Moti Daman SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.4061990",
+        "longitude": "72.8347210"
+      },
+      {
+        "officename": "Magarwada BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.4038100",
+        "longitude": "72.8460740"
+      }
+    ]
+  },
+  "396230": {
+    "state": "THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU",
+    "district": "DADRA AND NAGAR HAVELI",
+    "offices": [
+      {
+        "officename": "Amboli BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.1414900",
+        "longitude": "73.0296390"
+      },
+      {
+        "officename": "Mota Randha BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.3051880",
+        "longitude": "73.1297850"
+      },
+      {
+        "officename": "Rudana BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.1258660",
+        "longitude": "73.0729930"
+      },
+      {
+        "officename": "Velugam BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.1286330",
+        "longitude": "72.9762420"
+      },
+      {
+        "officename": "Mandoni BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.1071000",
+        "longitude": "73.1285170"
+      },
+      {
+        "officename": "Parzai BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.0899410",
+        "longitude": "73.0321430"
+      },
+      {
+        "officename": "Amli BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.2873470",
+        "longitude": "73.0006770"
+      },
+      {
+        "officename": "Chibhadkutch BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.2999300",
+        "longitude": "73.0257690"
+      },
+      {
+        "officename": "Chisda BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.1366170",
+        "longitude": "73.0886290"
+      },
+      {
+        "officename": "Dudhani BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.1743260",
+        "longitude": "73.1569720"
+      },
+      {
+        "officename": "Karachgam BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.1182590",
+        "longitude": "73.0078280"
+      },
+      {
+        "officename": "Khutli BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.1325200",
+        "longitude": "73.0849680"
+      },
+      {
+        "officename": "Karchond BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.1310940",
+        "longitude": "73.1588520"
+      },
+      {
+        "officename": "Masat BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.2440030",
+        "longitude": "73.0115880"
+      },
+      {
+        "officename": "Samarvarni BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.2584000",
+        "longitude": "73.0139620"
+      },
+      {
+        "officename": "Athola BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.2752610",
+        "longitude": "73.0435900"
+      },
+      {
+        "officename": "Bedpa BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.0859130",
+        "longitude": "73.2005610"
+      },
+      {
+        "officename": "Dahikhed BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.2438270",
+        "longitude": "73.1290600"
+      },
+      {
+        "officename": "Khadoli BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.1655860",
+        "longitude": "73.0295790"
+      },
+      {
+        "officename": "Khanvel BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.1262920",
+        "longitude": "73.0626640"
+      },
+      {
+        "officename": "Kherdi BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.1042900",
+        "longitude": "73.0211640"
+      },
+      {
+        "officename": "Selti BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.1146960",
+        "longitude": "73.0951740"
+      },
+      {
+        "officename": "Sili BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.3136790",
+        "longitude": "73.0676350"
+      },
+      {
+        "officename": "Umarkui BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.2567750",
+        "longitude": "73.0908050"
+      },
+      {
+        "officename": "Silvassa SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.2730470",
+        "longitude": "73.0033780"
+      }
+    ]
+  },
+  "396235": {
+    "state": "THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU",
+    "district": "DADRA AND NAGAR HAVELI",
+    "offices": [
+      {
+        "officename": "Athal BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.2744080",
+        "longitude": "72.9431040"
+      },
+      {
+        "officename": "Kachigam BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.2684140",
+        "longitude": "72.9730500"
+      },
+      {
+        "officename": "Anklas BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.2251340",
+        "longitude": "72.9401420"
+      },
+      {
+        "officename": "Borigam BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.2954650",
+        "longitude": "72.9519620"
+      },
+      {
+        "officename": "Nagvas BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.2489990",
+        "longitude": "72.9194800"
+      },
+      {
+        "officename": "Naroli SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.2744080",
+        "longitude": "72.9431040"
+      },
+      {
+        "officename": "Kharadpada BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.2585940",
+        "longitude": "72.9477170"
+      }
+    ]
+  },
+  "396240": {
+    "state": "THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU",
+    "district": "DADRA AND NAGAR HAVELI",
+    "offices": [
+      {
+        "officename": "Chinchpada BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.2125990",
+        "longitude": "72.9950410"
+      },
+      {
+        "officename": "Rakholi BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.2337520",
+        "longitude": "73.0124860"
+      },
+      {
+        "officename": "Chikhli BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.1813930",
+        "longitude": "72.9991910"
+      },
+      {
+        "officename": "Surangi BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.1514620",
+        "longitude": "73.0110100"
+      },
+      {
+        "officename": "Saily BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.2329660",
+        "longitude": "73.0549840"
+      },
+      {
+        "officename": "Vasona BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.2255270",
+        "longitude": "73.0118710"
+      },
+      {
+        "officename": "Karad Daman Project SO",
+        "officetype": "PO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.5500000",
+        "longitude": "73.0900000"
+      },
+      {
+        "officename": "Meghval BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.2128190",
+        "longitude": "73.0220850"
+      },
+      {
+        "officename": "Dapada BO",
+        "officetype": "BO",
+        "delivery": "Delivery",
+        "divisionname": "Valsad Division",
+        "regionname": "Vadodara Region",
+        "circlename": "Gujarat Circle",
+        "latitude": "20.1862890",
+        "longitude": "73.0196150"
+      }
+    ]
+  }
+}
