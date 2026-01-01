@@ -1,7 +1,7 @@
 const fs = require("fs");
 
 // CHANGE THIS STATE FILE NAME WHEN NEEDED
-const STATE_FILE = "data/tripura.json";
+const STATE_FILE = "data/Tripura.json";
 
 const raw = JSON.parse(fs.readFileSync(STATE_FILE, "utf8"));
 
