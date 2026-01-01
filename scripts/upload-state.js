@@ -2,13 +2,13 @@ const fs = require("fs");
 
 const STATE = process.argv[2]; // example: tripura
 if (!STATE) {
-  console.error("❌ State slug required (example: tripura)");
+  console.error("State slug required (example: tripura)");
   process.exit(1);
 }
 
-const file = `kv-${STATE}.json`;
+const file = `states/${STATE}.json`;
 if (!fs.existsSync(file)) {
-  console.error("❌ File not found:", file);
+  console.error("File not found:", file);
   process.exit(1);
 }
 
@@ -17,11 +17,6 @@ const data = JSON.parse(fs.readFileSync(file, "utf8"));
 const ACCOUNT = process.env.CF_ACCOUNT_ID;
 const NS = process.env.CF_KV_NAMESPACE_ID;
 const TOKEN = process.env.CF_API_TOKEN;
-
-if (!ACCOUNT || !NS || !TOKEN) {
-  console.error("❌ Cloudflare credentials missing");
-  process.exit(1);
-}
 
 async function upload(key, value) {
   const res = await fetch(
@@ -52,7 +47,7 @@ async function upload(key, value) {
 
     if (count % 50 === 0) {
       console.log(`⏳ Uploaded ${count} pincodes`);
-      await new Promise(r => setTimeout(r, 200)); // rate limit
+      await new Promise(r => setTimeout(r, 200)); // rate-limit
     }
   }
 
