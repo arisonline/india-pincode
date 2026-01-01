@@ -1,37 +1,52 @@
 const fs = require("fs");
+const path = require("path");
 
-const STATE = process.argv[2]; // example: west-bengal
-if (!STATE) {
-  console.error("State name required");
-  process.exit(1);
+const dataDir = "data";
+
+const files = fs.readdirSync(dataDir).filter(f => f.endsWith(".json"));
+
+if (files.length === 0) {
+  console.log("No JSON files found in data/");
+  process.exit(0);
 }
 
-const inputFile = `data/${STATE}.json`;
-const outputFile = `kv-${STATE}.json`;
+for (const file of files) {
+  const stateSlug = file
+    .replace(".json", "")
+    .toLowerCase()
+    .replace(/_/g, "-");
 
-const raw = JSON.parse(fs.readFileSync(inputFile, "utf8"));
+  const raw = JSON.parse(
+    fs.readFileSync(path.join(dataDir, file), "utf8")
+  );
 
-const map = {};
+  const map = {};
 
-for (const r of raw) {
-  const pin = r.pincode;
+  for (const r of raw) {
+    const pin = r.pincode;
+    if (!pin) continue;
 
-  if (!map[pin]) {
-    map[pin] = {
-      state: r.state,
-      district: r.district,
-      offices: []
-    };
+    if (!map[pin]) {
+      map[pin] = {
+        state: r.state,
+        district: r.district,
+        offices: []
+      };
+    }
+
+    const officeName = r.office.trim();
+    const typeMatch = officeName.match(/\b(b\.o|s\.o|h\.o|bo|so|ho)\b/i);
+
+    map[pin].offices.push({
+      name: officeName,
+      type: typeMatch ? typeMatch[0].replace(/\./g, "").toUpperCase() : ""
+    });
   }
 
-  const officeName = r.office.trim();
-  const typeMatch = officeName.match(/\b(B\.O|S\.O|H\.O|BO|SO|HO)\b/i);
+  const outFile = `kv-${stateSlug}.json`;
+  fs.writeFileSync(outFile, JSON.stringify(map, null, 2));
 
-  map[pin].offices.push({
-    name: officeName,
-    type: typeMatch ? typeMatch[0].replace(".", "").toUpperCase() : ""
-  });
+  console.log("Created:", outFile);
 }
 
-fs.writeFileSync(outputFile, JSON.stringify(map, null, 2));
-console.log("Created:", outputFile);
+console.log("All states processed");
