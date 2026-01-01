@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       state:
-        description: "State slug (example: tripura, west-bengal)"
+        description: "State slug (example: tripura)"
         required: true
 
 jobs:
