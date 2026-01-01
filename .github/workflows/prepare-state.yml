@@ -1,24 +1,25 @@
-name: Prepare State KV JSON
+name: Prepare KV for All States
 
 on:
   workflow_dispatch:
-    inputs:
-      state:
-        description: "state filename without .json (example: tripura)"
-        required: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - run: node scripts/prepare-state.js ${{ github.event.inputs.state }}
-      - run: |
+
+      - name: Convert all state JSONs
+        run: node scripts/prepare-all-states.js
+
+      - name: Commit KV files
+        run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add kv-*.json
-          git commit -m "Prepare KV for ${{ github.event.inputs.state }}" || true
+          git commit -m "Prepare KV JSON for all states" || true
           git push
