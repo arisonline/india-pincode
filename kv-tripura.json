@@ -1,0 +1,3368 @@
+{
+  "799002": {
+    "state": "TRIPURA",
+    "district": "West Tripura",
+    "offices": [
+      {
+        "name": "AgartalaGuard Post B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Border Rampur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Town Rampur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Barjala B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Ramnagar S.O (West Tripura)",
+        "type": "Tripura)"
+      },
+      {
+        "name": "Krishnanagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Paschim Bhubanban B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799003": {
+    "state": "TRIPURA",
+    "district": "West Tripura",
+    "offices": [
+      {
+        "name": "Ishanchandranagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Madhuban B.O",
+        "type": "BO"
+      },
+      {
+        "name": "S.D.Mission Colony B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Badharghat B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Ranirkhamar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Bhattapukur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Charipara B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Siddhi Ashram B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Arundhutinagar S.O",
+        "type": "SO"
+      }
+    ]
+  },
+  "799004": {
+    "state": "TRIPURA",
+    "district": "West Tripura",
+    "offices": [
+      {
+        "name": "Aralia B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Jogendranagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Nagicherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Gabordi B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Srinagar Kacharipara B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Town pratapgarh B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Jarul Bachai B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Anandanagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Purba Pratapgarh B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Dhupcherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Renters Colony B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Agartala College S.O",
+        "type": "SO"
+      }
+    ]
+  },
+  "799005": {
+    "state": "TRIPURA",
+    "district": "West Tripura",
+    "offices": [
+      {
+        "name": "Abhoynagar S.O",
+        "type": "SO"
+      }
+    ]
+  },
+  "799006": {
+    "state": "TRIPURA",
+    "district": "West Tripura",
+    "offices": [
+      {
+        "name": "Bankumari E/SB B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Nandannagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kunjaban S.O",
+        "type": "SO"
+      },
+      {
+        "name": "Kathalbagan B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kunjabon Road B.O",
+        "type": "BO"
+      },
+      {
+        "name": "G.B.Hospital B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Indranagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Noagaon Krishnagar B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799007": {
+    "state": "TRIPURA",
+    "district": "West Tripura",
+    "offices": [
+      {
+        "name": "Banamalipur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Dhaleswar S.O",
+        "type": "SO"
+      }
+    ]
+  },
+  "799008": {
+    "state": "TRIPURA",
+    "district": "West Tripura",
+    "offices": [
+      {
+        "name": "Khasnoagaon B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Mariamnagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Neepco B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Paschim Noabadi B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Ramachandranagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Old Agartala B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Paschim Champamur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Reshambagan B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Khayerpur S.O",
+        "type": "SO"
+      }
+    ]
+  },
+  "799009": {
+    "state": "TRIPURA",
+    "district": "West Tripura",
+    "offices": [
+      {
+        "name": "Lankamura B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Durjaynagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Narayanpur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Nutannagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Agartala Aerodrome S.O",
+        "type": "SO"
+      }
+    ]
+  },
+  "799010": {
+    "state": "TRIPURA",
+    "district": "West Tripura",
+    "offices": [
+      {
+        "name": "Agartala Secretariat S.O",
+        "type": "SO"
+      }
+    ]
+  },
+  "799011": {
+    "state": "TRIPURA",
+    "district": "Sepahijala",
+    "offices": [
+      {
+        "name": "Jampuijala Colony B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kendraicherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Sankumabari B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Ujan Ghaniamara B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Takarjala B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kanakraipara B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Jampuijala",
+        "type": "SO"
+      }
+    ]
+  },
+  "799012": {
+    "state": "TRIPURA",
+    "district": "West Tripura",
+    "offices": [
+      {
+        "name": "Salbagan S.O",
+        "type": "SO"
+      },
+      {
+        "name": "Gandhigram B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799013": {
+    "state": "TRIPURA",
+    "district": "Gomati",
+    "offices": [
+      {
+        "name": "Dakshin Maharani B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Holakhet B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Maharani B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Matabari S.O",
+        "type": "SO"
+      },
+      {
+        "name": "Fulkumari B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Jamjuri B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Lakshipati B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Abani Reangpara B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Dakshin Chandrapur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Joalikhamar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Murapara B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799014": {
+    "state": "TRIPURA",
+    "district": "West Tripura",
+    "offices": [
+      {
+        "name": "Agartala ONGC S.O",
+        "type": "SO"
+      }
+    ]
+  },
+  "799015": {
+    "state": "TRIPURA",
+    "district": "West Tripura",
+    "offices": [
+      {
+        "name": "Tebaria B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Narayanpur Bazar",
+        "type": "SO"
+      }
+    ]
+  },
+  "799022": {
+    "state": "TRIPURA",
+    "district": "West Tripura",
+    "offices": [
+      {
+        "name": "Tripura University S.O",
+        "type": "SO"
+      }
+    ]
+  },
+  "799035": {
+    "state": "TRIPURA",
+    "district": "West Tripura",
+    "offices": [
+      {
+        "name": "Burakha Landless Colony B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Dinabandhupara B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Meghlipara B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Purba Noagaon B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Wakinagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Ranirbazar S.O",
+        "type": "SO"
+      },
+      {
+        "name": "Durganagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Sonamani sepaipara B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Majlishpur B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799045": {
+    "state": "TRIPURA",
+    "district": "West Tripura",
+    "offices": [
+      {
+        "name": "Champaknagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Noabadi B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Gurudas Colony B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Sanchindranagar Colony B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Belbari B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Mdhabbari B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Bisrambari B.O.",
+        "type": "BO."
+      },
+      {
+        "name": "Birendranagar S.O",
+        "type": "SO"
+      },
+      {
+        "name": "Ashigarh B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Shantinagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Brigudaspara B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Janmejoynagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Mandainagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Radhamohanpur B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799046": {
+    "state": "TRIPURA",
+    "district": "West Tripura",
+    "offices": [
+      {
+        "name": "NIT Agartala S.O",
+        "type": "SO"
+      }
+    ]
+  },
+  "799101": {
+    "state": "TRIPURA",
+    "district": "Gomati",
+    "offices": [
+      {
+        "name": "Gamakubari B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kurma B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Nagrai B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Palku B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Rangamati B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Ampinagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Rangkhang B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Bampur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Chechuajamatiabari B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Debbari B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Dhanlekha B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Malbassa B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Chellagong B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Paharpur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Sarbong B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Dakshin taidu B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Mahuamillan B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Taidubari B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Amarpur S.O (South Tripura)",
+        "type": "Tripura)"
+      }
+    ]
+  },
+  "799102": {
+    "state": "TRIPURA",
+    "district": "Sepahijala",
+    "offices": [
+      {
+        "name": "Kalkalia B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Lalsingmura B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Nabinagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "No.2 Chandranagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Purba Laxmi Bill B.O",
+        "type": "BO"
+      },
+      {
+        "name": "South Nehalchandranagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Veluarchar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "West Laxmibill B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Boxonagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Brajapur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Gazaria B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kaiyadhepa B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Rokhia G.T Project B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Dhajanagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Golaghati B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kalamcherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kalasimura B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kamalasagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Konabon B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Madhupur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Purathalrajnagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Bishalgarh S.O",
+        "type": "SO"
+      },
+      {
+        "name": "Krishnakishorenagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Nabasantiganj Bazar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Purba Gokulnagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Rohimpur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Harishnagar T.E. B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Putia B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Sepahijala B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Sutarmura B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799103": {
+    "state": "TRIPURA",
+    "district": "Sepahijala",
+    "offices": [
+      {
+        "name": "Charilam B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Latiacherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "South Charilam B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Bagmara B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Barjala B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Goliraibari B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Pathaliaghat B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Promodenagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Ramnagar Bazar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Rangamala Bazar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Chechrimile B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Tekshapara B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Amarendranagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Padmanagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Bishramganj S.O",
+        "type": "SO"
+      }
+    ]
+  },
+  "799104": {
+    "state": "TRIPURA",
+    "district": "Gomati",
+    "offices": [
+      {
+        "name": "Karbook B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Purba Manikya Dewan B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Ghorakappa B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Jalaya B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Silacharri B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Boalkhali B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Dumburnagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Lebacherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Uttar Chellagonj B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Barbil B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Jatanbari S.O",
+        "type": "SO"
+      },
+      {
+        "name": "Paticherri B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Raima B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Suknacherri B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Tirthamukh B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Tuichama B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799105": {
+    "state": "TRIPURA",
+    "district": "Gomati",
+    "offices": [
+      {
+        "name": "Dhuptali B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Hadra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kusumara B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Bazar Amtali B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Taibandal B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Upendranagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Chandul B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Ichacherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kamrangatali B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Mogpuskarini B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Silghati B.O",
+        "type": "BO"
+      },
+      {
+        "name": "East Mirza B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kishoreganj B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Palatana B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Rani B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Jitendranagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Mohanbhog B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Paschim Mogpuskarini B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Samukcherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kakraban S.O",
+        "type": "SO"
+      }
+    ]
+  },
+  "799113": {
+    "state": "TRIPURA",
+    "district": "Gomati",
+    "offices": [
+      {
+        "name": "Bagma B.O",
+        "type": "BO"
+      },
+      {
+        "name": "East Bagabassa B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Tepania S.O",
+        "type": "SO"
+      },
+      {
+        "name": "Garjanmura B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kupilong B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799114": {
+    "state": "TRIPURA",
+    "district": "Gomati",
+    "offices": [
+      {
+        "name": "Raiyabari B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Pitra Bazar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Rajarbag B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Uttar Brojendranagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Manikya B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Rajnagar Colony B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Gakulpur S.O",
+        "type": "SO"
+      },
+      {
+        "name": "Killarbazar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Thelakum B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Khilpara B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Salgarah B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799115": {
+    "state": "TRIPURA",
+    "district": "Sepahijala",
+    "offices": [
+      {
+        "name": "Bagabassa B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Jumerdhepa B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kemtali B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Bardwal B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Chandigarh B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Nalchar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "West Nalchar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Melaghar S.O",
+        "type": "SO"
+      },
+      {
+        "name": "Lakshmandhepa B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Urmai B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Battali B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Chowmouhani B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Durlavnarayan B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Khas Chowmouhani B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Rudijala B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Telkajla B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799120": {
+    "state": "TRIPURA",
+    "district": "Gomati",
+    "offices": [
+      {
+        "name": "Radhakishorepur H.O",
+        "type": "HO"
+      }
+    ]
+  },
+  "799125": {
+    "state": "TRIPURA",
+    "district": "Gomati",
+    "offices": [
+      {
+        "name": "Gangacherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Paikhola B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Rajapur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Tainani B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Paschim Paticherri Colony B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Garjee S.O",
+        "type": "SO"
+      },
+      {
+        "name": "Takmacherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kalabon B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799130": {
+    "state": "TRIPURA",
+    "district": "West Tripura",
+    "offices": [
+      {
+        "name": "Kanchanmala B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Pandavpur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Pravapur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Sekerkote S.O",
+        "type": "SO"
+      },
+      {
+        "name": "Paschim Gokulnagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Rayermura B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Viveknagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Amtali B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Champamura Bazar B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799131": {
+    "state": "TRIPURA",
+    "district": "Sepahijala",
+    "offices": [
+      {
+        "name": "Durgapur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Khedabari B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kamalnagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Nidaya",
+        "type": "BO"
+      },
+      {
+        "name": "Rabindranagar Colony B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Dhanirampur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Dhanpur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kulubari B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Matinagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Bejimara B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Induria B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Sonamura S.O",
+        "type": "SO"
+      }
+    ]
+  },
+  "799132": {
+    "state": "TRIPURA",
+    "district": "Sepahijala",
+    "offices": [
+      {
+        "name": "Maheshpur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Bhabanipur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kalikrishnagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Manaipathar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kathalia S.O",
+        "type": "SO"
+      },
+      {
+        "name": "Nirvoypur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Jatrapur B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799141": {
+    "state": "TRIPURA",
+    "district": "South Tripura",
+    "offices": [
+      {
+        "name": "Debdaru Bazar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Thakurcherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Jolaibari S.O",
+        "type": "SO"
+      },
+      {
+        "name": "Madhya Pillak B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Paschim Pillak B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Sakbari B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kalashi Bazar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kwaifung B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Dakshin Hichacherri B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799142": {
+    "state": "TRIPURA",
+    "district": "South Tripura",
+    "offices": [
+      {
+        "name": "Muhuri Ratanpur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Charakbai B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Muhuripur S.O",
+        "type": "SO"
+      }
+    ]
+  },
+  "799143": {
+    "state": "TRIPURA",
+    "district": "South Tripura",
+    "offices": [
+      {
+        "name": "Bhuratali B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Bishnupur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Poangbari B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Amlighat B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Dakshin Manubankul B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Srinagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Guachand B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Sindukpathar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Manubazar S.O",
+        "type": "SO"
+      },
+      {
+        "name": "Dakshin Fulcherri B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Magurcherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Satchand B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799144": {
+    "state": "TRIPURA",
+    "district": "South Tripura",
+    "offices": [
+      {
+        "name": "Bagafa B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Baikhora B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Urrat Takmacherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kathaliacherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Lowgang B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Uttar Debipur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Santirbazar S.O",
+        "type": "SO"
+      },
+      {
+        "name": "Betaga B.O",
+        "type": "BO"
+      },
+      {
+        "name": "East Bagafa B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kanchannagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Manpather B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Purba Manu B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Radhakishoreganj B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Laxmicherra B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799145": {
+    "state": "TRIPURA",
+    "district": "South Tripura",
+    "offices": [
+      {
+        "name": "Chalitacherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Sabroom S.O",
+        "type": "SO"
+      },
+      {
+        "name": "Baishnabpur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Bijoynagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Doulbari B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Harina Bazar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Jalefa Bazar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Ludhua B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Rupaicherri B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Sonaicherri B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Harbatali B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kathalcherri B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Ludhua Tea Estate B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799150": {
+    "state": "TRIPURA",
+    "district": "South Tripura",
+    "offices": [
+      {
+        "name": "Rajnagar S.O (South Tripura)",
+        "type": "Tripura)"
+      },
+      {
+        "name": "Kasari B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799153": {
+    "state": "TRIPURA",
+    "district": "South Tripura",
+    "offices": [
+      {
+        "name": "Radhanagar S.O (West Tripura)",
+        "type": "Tripura)"
+      },
+      {
+        "name": "Rangamura B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799155": {
+    "state": "TRIPURA",
+    "district": "South Tripura",
+    "offices": [
+      {
+        "name": "Abhoyganj Bazar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Paschim Pipariakhola B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Dakshin Sonaicharri B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Beloniya S.O",
+        "type": "SO"
+      },
+      {
+        "name": "Belonia aerodrome B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Chittamara B.O",
+        "type": "BO"
+      },
+      {
+        "name": "South Bharat Ch.Nagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Subashnagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Uttar Sonaicherri B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Baspadua B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Matai B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Barpathari B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Debipur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Sarasima B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Uttar Bharat Ch Nagar B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799156": {
+    "state": "TRIPURA",
+    "district": "South Tripura",
+    "offices": [
+      {
+        "name": "Nalua B.O",
+        "type": "BO"
+      },
+      {
+        "name": "South Krishnagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Hrishyamukh S.O",
+        "type": "SO"
+      },
+      {
+        "name": "Madhabnagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Samarendraganj B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799157": {
+    "state": "TRIPURA",
+    "district": "South Tripura",
+    "offices": [
+      {
+        "name": "Puran Rajbari B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Siddhinagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Gouranga Bazar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "South srirampur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Anandapur S.O (South Tripura)",
+        "type": "Tripura)"
+      },
+      {
+        "name": "Dimatali B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Chottakhola B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Gabtali B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799201": {
+    "state": "TRIPURA",
+    "district": "Khowai",
+    "offices": [
+      {
+        "name": "Behalabari B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Ganki B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Samatal Padmabil B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Khowai S.O",
+        "type": "SO"
+      },
+      {
+        "name": "Banbazar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "East Bachaibari B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Paharmora B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Paschim Belcherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Agagartilla B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Asharambari B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Bachaibari B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Champahaor B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Gakulbari B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Karingicherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Paschim Laxmicherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Ratanpurbazar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Singicherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Khowai T. E B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Belcherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Subashpark B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799202": {
+    "state": "TRIPURA",
+    "district": "Khowai",
+    "offices": [
+      {
+        "name": "Khowai Court S.O",
+        "type": "SO"
+      }
+    ]
+  },
+  "799203": {
+    "state": "TRIPURA",
+    "district": "Khowai",
+    "offices": [
+      {
+        "name": "Durgapur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Paschim Santinagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Ramdayal Lendless Colony B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Ratia B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Tablabari B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kalyanpur S.O (West Tripura)",
+        "type": "Tripura)"
+      },
+      {
+        "name": "Kalyanpur T. E B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Paschim Kalyanpur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Uttat Pulinpur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Dakshin Promode L. L.Colony B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Moharcherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Barmaidan Bazar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Dwarikapur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Ghilatali B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Paschim Kunjaban B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799204": {
+    "state": "TRIPURA",
+    "district": "Dhalai",
+    "offices": [
+      {
+        "name": "Balarambazar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Nalicherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kulaibazar S.O",
+        "type": "SO"
+      }
+    ]
+  },
+  "799205": {
+    "state": "TRIPURA",
+    "district": "Khowai",
+    "offices": [
+      {
+        "name": "Ataromura B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Barmura Project B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Hadrai B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kalitilla B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Karailong B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Netajinagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Maigonga B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Rupacherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Brahmacherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Chakmaghat B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Nunacherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Khasiamangal B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Mongtukupara B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Nabakumar Rankhal Para B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Uttar Gakulnagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Golabari B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Howaibari B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Maharanipur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Teliamura S.O",
+        "type": "SO"
+      }
+    ]
+  },
+  "799207": {
+    "state": "TRIPURA",
+    "district": "Khowai",
+    "offices": [
+      {
+        "name": "Rajnagar Khowai B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Chebri S.O",
+        "type": "SO"
+      },
+      {
+        "name": "Chankhala B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Gouranga Tilla B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Baijalbari B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Ramchandraghat B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Sonatala B.O",
+        "type": "BO"
+      },
+      {
+        "name": "RAMKRISHNABARI B.O",
+        "type": "BO"
+      },
+      {
+        "name": "JAGNA KOBRABARI (PART) B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Bharatsardarbari B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Paglabari B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Uttarchebri B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799210": {
+    "state": "TRIPURA",
+    "district": "West Tripura",
+    "offices": [
+      {
+        "name": "Chechuria B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Bodhjungnagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Laifunga B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Lembucherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Fatikchhera B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kamalghat S.O",
+        "type": "SO"
+      },
+      {
+        "name": "Kalibazar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Harendranagar T. B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799211": {
+    "state": "TRIPURA",
+    "district": "West Tripura",
+    "offices": [
+      {
+        "name": "Baikunthapur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Chachubazar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kalacherra T.E. B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kalkalia T.E. B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Taranagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Tarapur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Madhuchoudhurypara B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Patnipara B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Uttar debendranagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Bamutia B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Barkathalia B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Subalsing B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Thamakari B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Bijoynagar Bazar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Dighalia Bazar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Mohanpur S.O (West Tripura)",
+        "type": "Tripura)"
+      }
+    ]
+  },
+  "799212": {
+    "state": "TRIPURA",
+    "district": "West Tripura",
+    "offices": [
+      {
+        "name": "Darogamura B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Ishanpur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Uttar Dasgharia B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Sidhai S.O",
+        "type": "SO"
+      },
+      {
+        "name": "Balubon B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Simna Colony B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Sundartilla B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Simna B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Sonaram Bazar B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799250": {
+    "state": "TRIPURA",
+    "district": "North Tripura",
+    "offices": [
+      {
+        "name": "Dharmanagar H.O",
+        "type": "HO"
+      }
+    ]
+  },
+  "799251": {
+    "state": "TRIPURA",
+    "district": "North Tripura",
+    "offices": [
+      {
+        "name": "Bakbaki B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Baruakandi B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Bhagyapur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Ichaisonapur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Nayapara N.D B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Paschimchandrapur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Chandrapur S.O (North Tripura)",
+        "type": "Tripura)"
+      },
+      {
+        "name": "Sakaibari B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Dighalbak B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Ichailalcherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Pratyekroy B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Sonarurbassa B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Gobindapur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kalacherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Huruah B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Raghna B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Thana Road B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799253": {
+    "state": "TRIPURA",
+    "district": "North Tripura",
+    "offices": [
+      {
+        "name": "Dharmanagar Bazar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "East Huruah B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kameswargaon B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Krishnapur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Lalcherra Colony B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Dharmanagar College B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Dhupirbond B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Padmapur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "South Ganganagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Tripura Ganganagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Zaithang B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Algapur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Bagbassa B.O",
+        "type": "BO"
+      },
+      {
+        "name": "East Kamesawar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Radhapur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Rajbari S.O",
+        "type": "SO"
+      },
+      {
+        "name": "Kakrirpar B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799254": {
+    "state": "TRIPURA",
+    "district": "North Tripura",
+    "offices": [
+      {
+        "name": "Baithangbari B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Jubarajnagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Paschim Radhapur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Rajnagar Laxmipur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Halflongcherra S.O",
+        "type": "SO"
+      },
+      {
+        "name": "Balidhum B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Dewanpassa B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799256": {
+    "state": "TRIPURA",
+    "district": "North Tripura",
+    "offices": [
+      {
+        "name": "Kacharicherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Khedacherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Narendranagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Piplacherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Tripura Damcherra S.O",
+        "type": "SO"
+      }
+    ]
+  },
+  "799260": {
+    "state": "TRIPURA",
+    "district": "North Tripura",
+    "offices": [
+      {
+        "name": "Agnipassa B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Indurail B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Padmabil B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Pekucherr B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Tilthai Nutanbazar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Jalebassa B.O",
+        "type": "BO"
+      },
+      {
+        "name": "North Padmabil B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Uptakhali B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Panisagar S.O",
+        "type": "SO"
+      },
+      {
+        "name": "Deocherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Juri R.F B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Tilthai B.O",
+        "type": "BO"
+      },
+      {
+        "name": "West Panisagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Janata College B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Rowabazar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Bilthai B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Jalabazar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Rahumcherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Ujan Sailenbari B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Noagang B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799261": {
+    "state": "TRIPURA",
+    "district": "North Tripura",
+    "offices": [
+      {
+        "name": "Pearacherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kadamtala S.O (North Tripura)",
+        "type": "Tripura)"
+      },
+      {
+        "name": "Kurit B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Ranibari B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Amtilla B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Premtala B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Rakhalgang B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Tarakpur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Brajendranagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kalagangar Par B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Sarala B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799262": {
+    "state": "TRIPURA",
+    "district": "North Tripura",
+    "offices": [
+      {
+        "name": "Kheranjuri B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Sanicherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Churaibari S.O",
+        "type": "SO"
+      },
+      {
+        "name": "Balicherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Fulbari B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799263": {
+    "state": "TRIPURA",
+    "district": "Unakoti",
+    "offices": [
+      {
+        "name": "Ugalcherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Dhanicherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Govidabari B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Karaicherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Machmara B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Nabincherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Andharcherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Krishnatilla B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Ramgunapara B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Nalkata B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Pecharthal S.O",
+        "type": "SO"
+      }
+    ]
+  },
+  "799264": {
+    "state": "TRIPURA",
+    "district": "Unakoti",
+    "offices": [
+      {
+        "name": "East Kanchanbari B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Pabiacherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "South Unokoti B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Bhatisonaimuri B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kumarghat S.O",
+        "type": "SO"
+      },
+      {
+        "name": "Notting Chedrra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Sayedabari B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Darchai B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799266": {
+    "state": "TRIPURA",
+    "district": "Dhalai",
+    "offices": [
+      {
+        "name": "West Nalkata B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Purba Betcherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kanchancherra",
+        "type": "Kanchancherra"
+      },
+      {
+        "name": "Karamcherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Betcherra B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799269": {
+    "state": "TRIPURA",
+    "district": "North Tripura",
+    "offices": [
+      {
+        "name": "Hmungchuan B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Sabual B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Phuldengsai B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Belianchief B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kangrai B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Sailo B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kalagong B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Tlangsang B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Konpui B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Chhimluang B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Hmunpui B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Jampui S.O",
+        "type": "SO"
+      }
+    ]
+  },
+  "799270": {
+    "state": "TRIPURA",
+    "district": "North Tripura",
+    "offices": [
+      {
+        "name": "Kanchanpur S.O (North Tripura)",
+        "type": "Tripura)"
+      },
+      {
+        "name": "Sibnagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Satnala B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Joyasree B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Laljuri B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Suknacherra B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799271": {
+    "state": "TRIPURA",
+    "district": "North Tripura",
+    "offices": [
+      {
+        "name": "Dasdabazar S.O",
+        "type": "SO"
+      },
+      {
+        "name": "Barhaldi B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kalapania B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Garchirampara B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Sakhan Serhmun B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Tuichama B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Anandabazar B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799273": {
+    "state": "TRIPURA",
+    "district": "Dhalai",
+    "offices": [
+      {
+        "name": "Bindulal Karbaripara B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Durgacherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Manikpur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "LALCHHARA B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Chailengta S.O",
+        "type": "SO"
+      },
+      {
+        "name": "Natinmanu B.O",
+        "type": "BO"
+      },
+      {
+        "name": "DEBCHHARA B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Chawmanu B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Laldingabari B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799275": {
+    "state": "TRIPURA",
+    "district": "Dhalai",
+    "offices": [
+      {
+        "name": "East Masli B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Jamircherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Longtharai B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Karatichesdrra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Dhumacherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Sindhukumarpara B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Demchedrra Colony B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Mainerma B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Maslicherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Manughat S.O",
+        "type": "SO"
+      }
+    ]
+  },
+  "799277": {
+    "state": "TRIPURA",
+    "district": "Unakoti",
+    "offices": [
+      {
+        "name": "Manuvelly B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Noorpur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Sadhanasram B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Bhadrapally B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Gulakpur T.E B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Rangrung B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Ichabpur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kalishahan B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Samrurpar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Sreerampur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Tapaspalli B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Chandipur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Jamtolibari B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kailashahar S.O",
+        "type": "SO"
+      },
+      {
+        "name": "Panichowkibazar S.O",
+        "type": "SO"
+      }
+    ]
+  },
+  "799278": {
+    "state": "TRIPURA",
+    "district": "Dhalai",
+    "offices": [
+      {
+        "name": "Salema S.O",
+        "type": "SO"
+      },
+      {
+        "name": "Paschim Dalucherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kachucherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Maharani Bus Stop B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Mechuria B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Mendihaor B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799279": {
+    "state": "TRIPURA",
+    "district": "Unakoti",
+    "offices": [
+      {
+        "name": "Zarultali B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Chantail B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Deora Cherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Goldharpur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kirtantali B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Paiturbazar S.O",
+        "type": "SO"
+      }
+    ]
+  },
+  "799280": {
+    "state": "TRIPURA",
+    "district": "Unakoti",
+    "offices": [
+      {
+        "name": "Birchandranagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Dalugaon B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Dhanbilash B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Fultali B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Jagannathpur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Balehar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Pechardahar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Sonamukhi S.O (North Tripura)",
+        "type": "Tripura)"
+      }
+    ]
+  },
+  "799281": {
+    "state": "TRIPURA",
+    "district": "Unakoti",
+    "offices": [
+      {
+        "name": "Irani B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Rangauti B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Tripura Tillabazar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Hiracherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Latiapur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Baburbazar S.O",
+        "type": "SO"
+      }
+    ]
+  },
+  "799282": {
+    "state": "TRIPURA",
+    "district": "Unakoti",
+    "offices": [
+      {
+        "name": "Gournagar",
+        "type": "SO"
+      },
+      {
+        "name": "Chinibagan B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Bhagabannagar B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799284": {
+    "state": "TRIPURA",
+    "district": "Dhalai",
+    "offices": [
+      {
+        "name": "Jagabandhu Para B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Laxmipur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "PURBA KALYANSINGPARA B.O",
+        "type": "BO"
+      },
+      {
+        "name": "KHEDERKOT B.O",
+        "type": "BO"
+      },
+      {
+        "name": "DANGAMAPARA B.O",
+        "type": "BO"
+      },
+      {
+        "name": "RATANNAGAR B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Sarma S.O",
+        "type": "SO"
+      },
+      {
+        "name": "Bhagirathpara B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Bullongbassa B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Dalapatipara B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Ranipukur B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799285": {
+    "state": "TRIPURA",
+    "district": "Dhalai",
+    "offices": [
+      {
+        "name": "Garodtilla B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Maracherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Noagoan B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Ramdurlavpur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Chotosarma B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Singibill B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Bagaicherri B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Baligaon B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Fulcherri B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kamalpur S.O (Dhalai)",
+        "type": "(Dhalai)"
+      }
+    ]
+  },
+  "799286": {
+    "state": "TRIPURA",
+    "district": "Dhalai",
+    "offices": [
+      {
+        "name": "Durga Chowmuhani",
+        "type": "BO"
+      },
+      {
+        "name": "Halahali S.O",
+        "type": "SO"
+      },
+      {
+        "name": "Abhanga B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Mahavir T.E. B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Baralutma B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Chengkap B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Jamthing B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Apareshkar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Katalutma B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799287": {
+    "state": "TRIPURA",
+    "district": "Dhalai",
+    "offices": [
+      {
+        "name": "Nagbangshi B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Srirampur Lambucherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kamalpur Aerodrome B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Manikbhander S.O",
+        "type": "SO"
+      },
+      {
+        "name": "Kuchainala B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799288": {
+    "state": "TRIPURA",
+    "district": "Unakoti",
+    "offices": [
+      {
+        "name": "Kanchanbari S.O",
+        "type": "SO"
+      },
+      {
+        "name": "Ujan Dodhpur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Dengdung B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Dudhpur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Laljuri East B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Masauli B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Nepaltilla B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Taraninagar B.O",
+        "type": "BO"
+      }
+    ]
+  },
+  "799289": {
+    "state": "TRIPURA",
+    "district": "Dhalai",
+    "offices": [
+      {
+        "name": "Harincherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kanchanpur Colony B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Lakraichowdhuripara B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Chandraipara B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Ganganagar Tribalcolony B.O",
+        "type": "BO"
+      },
+      {
+        "name": "HARIMANGALPARA B.O",
+        "type": "BO"
+      },
+      {
+        "name": "PUSTARAIPARA B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Kamalacherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Sikaribari B.O",
+        "type": "BO"
+      },
+      {
+        "name": "BALUCHHARA B.O",
+        "type": "BO"
+      },
+      {
+        "name": "CHAKMAPARA B.O",
+        "type": "BO"
+      },
+      {
+        "name": "BATABARI B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Karnamunipara B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Ambassa S.O",
+        "type": "SO"
+      }
+    ]
+  },
+  "799290": {
+    "state": "TRIPURA",
+    "district": "Unakoti",
+    "offices": [
+      {
+        "name": "Emrapassa B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Gakulnagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Rajkandi B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Ratacherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Tarapur B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Noagaon Bazar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Fatikroy S.O",
+        "type": "SO"
+      },
+      {
+        "name": "Paschimratacherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Saidarpar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Uttar Radhanagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Fatikcherra B.O",
+        "type": "BO"
+      },
+      {
+        "name": "SAMARUHALA RF B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Ganganagar B.O",
+        "type": "BO"
+      },
+      {
+        "name": "Teghari B.O",
+        "type": "BO"
+      }
+    ]
+  }
+}
