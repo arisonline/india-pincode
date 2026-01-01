@@ -1,0 +1,26 @@
+name: Upload State to Cloudflare KV
+
+on:
+  workflow_dispatch:
+    inputs:
+      state:
+        description: "State slug (example: tripura, west-bengal)"
+        required: true
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Upload selected state
+        run: node scripts/upload-state.js ${{ github.event.inputs.state }}
+        env:
+          CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+          CF_KV_NAMESPACE_ID: ${{ secrets.CF_KV_NAMESPACE_ID }}
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
