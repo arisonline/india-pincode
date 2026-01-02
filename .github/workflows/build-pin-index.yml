@@ -21,7 +21,7 @@ jobs:
           node-version: 18
 
       - name: Build PIN_INDEX
-        run: node scripts/build-pin-index.js
+        run: node scripts/build_pin_index.js
 
       - name: Commit generated index
         run: |
