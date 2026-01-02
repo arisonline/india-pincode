@@ -4,7 +4,7 @@ on:
   push:
     paths:
       - "states/tripura.json"
-      - "scripts/build-pin-index.js"
+      - "scripts/build_pin_index.js"
   workflow_dispatch:
 
 jobs:
