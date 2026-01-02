@@ -1,13 +1,13 @@
 import fs from "fs";
 import path from "path";
 
-const dataDir = "data";
-const outFile = "output/pin_index.json";
+const STATE = "tripura";
+const INPUT = `states/${STATE}.json`;
+const OUTPUT_DIR = "pin-index";
+const OUTPUT = `${OUTPUT_DIR}/${STATE}.json`;
 
-const index = {};
-
-function slug(t) {
-  return t
+function slug(text) {
+  return text
     .toLowerCase()
     .replace(/\(.*?\)/g, "")
     .replace(/\b(b\.o|s\.o|h\.o|p\.o|bo|so|ho|po)\b/gi, "")
@@ -16,34 +16,26 @@ function slug(t) {
     .replace(/^-|-$/g, "");
 }
 
-fs.mkdirSync("output", { recursive: true });
+const raw = JSON.parse(fs.readFileSync(INPUT, "utf8"));
 
-const files = fs.readdirSync(dataDir).filter(f => f.endsWith(".json"));
+const index = {};
 
-for (const file of files) {
-  const stateData = JSON.parse(
-    fs.readFileSync(path.join(dataDir, file), "utf8")
-  );
+for (const pincode of Object.keys(raw)) {
+  const entry = raw[pincode];
+  const district = entry.district;
 
-  for (const pin in stateData) {
-    const entry = stateData[pin];
-    const stateSlug = slug(entry.state);
-    const district = entry.district;
+  if (!index[district]) index[district] = {};
 
-    if (!index[stateSlug]) index[stateSlug] = {};
-    if (!index[stateSlug][district]) index[stateSlug][district] = {};
-
-    entry.offices.forEach(o => {
-      const officeSlug = slug(o.officename);
-      if (!index[stateSlug][district][officeSlug]) {
-        index[stateSlug][district][officeSlug] = [];
-      }
-      if (!index[stateSlug][district][officeSlug].includes(pin)) {
-        index[stateSlug][district][officeSlug].push(pin);
-      }
-    });
-  }
+  entry.offices.forEach(o => {
+    const officeSlug = slug(o.officename);
+    if (!index[district][officeSlug]) {
+      index[district][officeSlug] = [];
+    }
+    index[district][officeSlug].push(pincode);
+  });
 }
 
-fs.writeFileSync(outFile, JSON.stringify(index, null, 2));
-console.log("PIN_INDEX generated successfully");
+fs.mkdirSync(OUTPUT_DIR, { recursive: true });
+fs.writeFileSync(OUTPUT, JSON.stringify(index, null, 2));
+
+console.log(`PIN_INDEX generated: ${OUTPUT}`);
