@@ -1,5 +1,5 @@
-import fs from "fs";
-import path from "path";
+const fs = require("fs");
+const path = require("path");
 
 const STATE = "tripura";
 const INPUT = `states/${STATE}.json`;
@@ -38,4 +38,4 @@ for (const pincode of Object.keys(raw)) {
 fs.mkdirSync(OUTPUT_DIR, { recursive: true });
 fs.writeFileSync(OUTPUT, JSON.stringify(index, null, 2));
 
-console.log(`PIN_INDEX generated: ${OUTPUT}`);
+console.log("PIN_INDEX generated:", OUTPUT);
