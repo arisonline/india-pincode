@@ -1,0 +1,82 @@
+name: Build PIN_INDEX for Tripura
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate pin-index/tripura.json
+        run: |
+          node <<'EOF'
+          const fs = require("fs");
+
+          const rawPath = "states/tripura.json";
+          const outDir = "pin-index";
+          const outPath = "pin-index/tripura.json";
+
+          if (!fs.existsSync(rawPath)) {
+            console.error("❌ states/tripura.json not found");
+            process.exit(1);
+          }
+
+          const raw = JSON.parse(fs.readFileSync(rawPath, "utf8"));
+
+          const index = {
+            state: "TRIPURA",
+            districts: {}
+          };
+
+          const cleanOffice = name =>
+            name.replace(/\b(B\.O|S\.O|H\.O|P\.O)\b/gi, "").trim();
+
+          const slug = s =>
+            s.toLowerCase()
+              .replace(/[^a-z0-9]+/g, "-")
+              .replace(/-+/g, "-")
+              .replace(/^-|-$/g, "");
+
+          for (const pin in raw) {
+            const d = raw[pin];
+            const district = d.district;
+
+            if (!index.districts[district]) {
+              index.districts[district] = {};
+            }
+
+            d.offices.forEach(o => {
+              const name = cleanOffice(o.officename);
+              if (!name) return;
+
+              const letter = name[0].toUpperCase();
+
+              if (!index.districts[district][letter]) {
+                index.districts[district][letter] = [];
+              }
+
+              index.districts[district][letter].push({
+                name,
+                slug: slug(name),
+                pin
+              });
+            });
+          }
+
+          fs.mkdirSync(outDir, { recursive: true });
+          fs.writeFileSync(outPath, JSON.stringify(index, null, 2));
+
+          console.log("✅ pin-index/tripura.json generated");
+          EOF
+
+      - name: Commit pin-index
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add pin-index/tripura.json
+          git commit -m "Generate PIN_INDEX for Tripura" || echo "No changes"
+          git push
