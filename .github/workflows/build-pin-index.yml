@@ -1,0 +1,32 @@
+name: Build PIN_INDEX (Tripura)
+
+on:
+  push:
+    paths:
+      - "states/tripura.json"
+      - "scripts/build-pin-index.js"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Build PIN_INDEX
+        run: node scripts/build-pin-index.js
+
+      - name: Commit generated index
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add pin-index/tripura.json
+          git commit -m "Auto-generate PIN_INDEX for Tripura" || echo "No changes"
+          git push
