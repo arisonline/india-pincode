@@ -1,10 +1,9 @@
-name: Build PIN_INDEX (Tripura)
+name: Build PIN Index
 
 on:
   push:
     paths:
       - "states/tripura.json"
-      - "scripts/build_pin_index.js"
   workflow_dispatch:
 
 jobs:
@@ -20,13 +19,13 @@ jobs:
         with:
           node-version: 18
 
-      - name: Build PIN_INDEX
-        run: node scripts/build_pin_index.js
+      - name: Build PIN index
+        run: node scripts/build-pin-index.js
 
       - name: Commit generated index
         run: |
           git config user.name "github-actions"
-          git config user.email "actions@github.com"
+          git config user.email "github-actions@github.com"
           git add pin-index/tripura.json
           git commit -m "Auto-generate PIN_INDEX for Tripura" || echo "No changes"
           git push
