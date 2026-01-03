@@ -29,11 +29,11 @@ for (const pin in raw) {
   }
 
   record.offices.forEach(o => {
-    if (!o.latitude || o.latitude === "NA") return;
-    if (!o.longitude || o.longitude === "NA") return;
+    const name = o.officename
+      .replace(/\b(B\.O|S\.O|H\.O|P\.O)\b/gi, "")
+      .trim();
 
-    const name = o.officename.replace(/\b(B\.O|S\.O|H\.O|P\.O)\b/gi, "").trim();
-    const alpha = name[0].toUpperCase();
+    const alpha = name[0]?.toUpperCase() || "#";
 
     if (!index.districts[district][alpha]) {
       index.districts[district][alpha] = [];
@@ -43,8 +43,8 @@ for (const pin in raw) {
       name,
       slug: slug(name),
       pin,
-      lat: o.latitude,
-      lng: o.longitude
+      lat: o.latitude && o.latitude !== "NA" ? o.latitude : null,
+      lng: o.longitude && o.longitude !== "NA" ? o.longitude : null
     });
   });
 }
@@ -52,4 +52,4 @@ for (const pin in raw) {
 fs.mkdirSync("pin-index", { recursive: true });
 fs.writeFileSync(OUT_FILE, JSON.stringify(index, null, 2));
 
-console.log("✅ PIN_INDEX generated:", OUT_FILE);
+console.log("✅ FULL PIN_INDEX generated:", OUT_FILE);
