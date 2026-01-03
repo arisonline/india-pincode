@@ -1,0 +1,5373 @@
+{
+  "state": "Tripura",
+  "districts": {
+    "West Tripura": {
+      "A": [
+        {
+          "name": "AgartalaGuard Post",
+          "slug": "agartalaguard-post",
+          "pin": "799002",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Arundhutinagar",
+          "slug": "arundhutinagar",
+          "pin": "799003",
+          "lat": "23.81177778",
+          "lng": "91.26766667"
+        },
+        {
+          "name": "Aralia",
+          "slug": "aralia",
+          "pin": "799004",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Anandanagar",
+          "slug": "anandanagar",
+          "pin": "799004",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Agartala College",
+          "slug": "agartala-college",
+          "pin": "799004",
+          "lat": "23.82447222",
+          "lng": "91.29216667"
+        },
+        {
+          "name": "Abhoynagar",
+          "slug": "abhoynagar",
+          "pin": "799005",
+          "lat": "23.845491",
+          "lng": "91.288864"
+        },
+        {
+          "name": "Agartala Aerodrome",
+          "slug": "agartala-aerodrome",
+          "pin": "799009",
+          "lat": "23.884989",
+          "lng": "91.250156"
+        },
+        {
+          "name": "Agartala Secretariat",
+          "slug": "agartala-secretariat",
+          "pin": "799010",
+          "lat": "23.8297500",
+          "lng": "91.2788333"
+        },
+        {
+          "name": "Agartala ONGC",
+          "slug": "agartala-ongc",
+          "pin": "799014",
+          "lat": "23.79069444",
+          "lng": "91.27063889"
+        },
+        {
+          "name": "Ashigarh",
+          "slug": "ashigarh",
+          "pin": "799045",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Amtali",
+          "slug": "amtali",
+          "pin": "799130",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "B": [
+        {
+          "name": "Border Rampur",
+          "slug": "border-rampur",
+          "pin": "799002",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Barjala",
+          "slug": "barjala",
+          "pin": "799002",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Badharghat",
+          "slug": "badharghat",
+          "pin": "799003",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Bhattapukur",
+          "slug": "bhattapukur",
+          "pin": "799003",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Bankumari E/SB",
+          "slug": "bankumari-e-sb",
+          "pin": "799006",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Banamalipur",
+          "slug": "banamalipur",
+          "pin": "799007",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Burakha Landless Colony",
+          "slug": "burakha-landless-colony",
+          "pin": "799035",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Belbari",
+          "slug": "belbari",
+          "pin": "799045",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Bisrambari .",
+          "slug": "bisrambari",
+          "pin": "799045",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Birendranagar",
+          "slug": "birendranagar",
+          "pin": "799045",
+          "lat": "23.821607",
+          "lng": "91.448761"
+        },
+        {
+          "name": "Brigudaspara",
+          "slug": "brigudaspara",
+          "pin": "799045",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Bodhjungnagar",
+          "slug": "bodhjungnagar",
+          "pin": "799210",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Baikunthapur",
+          "slug": "baikunthapur",
+          "pin": "799211",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Bamutia",
+          "slug": "bamutia",
+          "pin": "799211",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Barkathalia",
+          "slug": "barkathalia",
+          "pin": "799211",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Bijoynagar Bazar",
+          "slug": "bijoynagar-bazar",
+          "pin": "799211",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Balubon",
+          "slug": "balubon",
+          "pin": "799212",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "T": [
+        {
+          "name": "Town Rampur",
+          "slug": "town-rampur",
+          "pin": "799002",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Town pratapgarh",
+          "slug": "town-pratapgarh",
+          "pin": "799004",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Tebaria",
+          "slug": "tebaria",
+          "pin": "799015",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Tripura University",
+          "slug": "tripura-university",
+          "pin": "799022",
+          "lat": "23.8297500",
+          "lng": "91.2788333"
+        },
+        {
+          "name": "Taranagar",
+          "slug": "taranagar",
+          "pin": "799211",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Tarapur",
+          "slug": "tarapur",
+          "pin": "799211",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Thamakari",
+          "slug": "thamakari",
+          "pin": "799211",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "R": [
+        {
+          "name": "Ramnagar  (West Tripura)",
+          "slug": "ramnagar",
+          "pin": "799002",
+          "lat": "23.8297500",
+          "lng": "91.2788333"
+        },
+        {
+          "name": "Ranirkhamar",
+          "slug": "ranirkhamar",
+          "pin": "799003",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Renters Colony",
+          "slug": "renters-colony",
+          "pin": "799004",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Ramachandranagar",
+          "slug": "ramachandranagar",
+          "pin": "799008",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Reshambagan",
+          "slug": "reshambagan",
+          "pin": "799008",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Ranirbazar",
+          "slug": "ranirbazar",
+          "pin": "799035",
+          "lat": "23.832823",
+          "lng": "91.368358"
+        },
+        {
+          "name": "Radhamohanpur",
+          "slug": "radhamohanpur",
+          "pin": "799045",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Rayermura",
+          "slug": "rayermura",
+          "pin": "799130",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "K": [
+        {
+          "name": "Krishnanagar",
+          "slug": "krishnanagar",
+          "pin": "799002",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kunjaban",
+          "slug": "kunjaban",
+          "pin": "799006",
+          "lat": "23.85744444",
+          "lng": "91.28725"
+        },
+        {
+          "name": "Kathalbagan",
+          "slug": "kathalbagan",
+          "pin": "799006",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kunjabon Road",
+          "slug": "kunjabon-road",
+          "pin": "799006",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Khasnoagaon",
+          "slug": "khasnoagaon",
+          "pin": "799008",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Khayerpur",
+          "slug": "khayerpur",
+          "pin": "799008",
+          "lat": "23.8475",
+          "lng": "91.34185"
+        },
+        {
+          "name": "Kanchanmala",
+          "slug": "kanchanmala",
+          "pin": "799130",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kamalghat",
+          "slug": "kamalghat",
+          "pin": "799210",
+          "lat": "23.929796",
+          "lng": "91.336714"
+        },
+        {
+          "name": "Kalibazar",
+          "slug": "kalibazar",
+          "pin": "799210",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kalacherra T.E.",
+          "slug": "kalacherra-t-e",
+          "pin": "799211",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kalkalia T.E.",
+          "slug": "kalkalia-t-e",
+          "pin": "799211",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "P": [
+        {
+          "name": "Paschim Bhubanban",
+          "slug": "paschim-bhubanban",
+          "pin": "799002",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Purba Pratapgarh",
+          "slug": "purba-pratapgarh",
+          "pin": "799004",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Paschim Noabadi",
+          "slug": "paschim-noabadi",
+          "pin": "799008",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Paschim Champamur",
+          "slug": "paschim-champamur",
+          "pin": "799008",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Purba Noagaon",
+          "slug": "purba-noagaon",
+          "pin": "799035",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Pandavpur",
+          "slug": "pandavpur",
+          "pin": "799130",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Pravapur",
+          "slug": "pravapur",
+          "pin": "799130",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Paschim Gokulnagar",
+          "slug": "paschim-gokulnagar",
+          "pin": "799130",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Patnipara",
+          "slug": "patnipara",
+          "pin": "799211",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "I": [
+        {
+          "name": "Ishanchandranagar",
+          "slug": "ishanchandranagar",
+          "pin": "799003",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Indranagar",
+          "slug": "indranagar",
+          "pin": "799006",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Ishanpur",
+          "slug": "ishanpur",
+          "pin": "799212",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "M": [
+        {
+          "name": "Madhuban",
+          "slug": "madhuban",
+          "pin": "799003",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Mariamnagar",
+          "slug": "mariamnagar",
+          "pin": "799008",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Meghlipara",
+          "slug": "meghlipara",
+          "pin": "799035",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Majlishpur",
+          "slug": "majlishpur",
+          "pin": "799035",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Mdhabbari",
+          "slug": "mdhabbari",
+          "pin": "799045",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Mandainagar",
+          "slug": "mandainagar",
+          "pin": "799045",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Madhuchoudhurypara",
+          "slug": "madhuchoudhurypara",
+          "pin": "799211",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Mohanpur  (West Tripura)",
+          "slug": "mohanpur",
+          "pin": "799211",
+          "lat": "23.8297500",
+          "lng": "91.2788333"
+        }
+      ],
+      "S": [
+        {
+          "name": "S.D.Mission Colony",
+          "slug": "s-d-mission-colony",
+          "pin": "799003",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Siddhi Ashram",
+          "slug": "siddhi-ashram",
+          "pin": "799003",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Srinagar Kacharipara",
+          "slug": "srinagar-kacharipara",
+          "pin": "799004",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Sonamani sepaipara",
+          "slug": "sonamani-sepaipara",
+          "pin": "799035",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Sanchindranagar Colony",
+          "slug": "sanchindranagar-colony",
+          "pin": "799045",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Shantinagar",
+          "slug": "shantinagar",
+          "pin": "799045",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Sekerkote",
+          "slug": "sekerkote",
+          "pin": "799130",
+          "lat": "23.8297500",
+          "lng": "91.2788333"
+        },
+        {
+          "name": "Subalsing",
+          "slug": "subalsing",
+          "pin": "799211",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Sidhai",
+          "slug": "sidhai",
+          "pin": "799212",
+          "lat": "23.8297500",
+          "lng": "91.2788333"
+        },
+        {
+          "name": "Simna Colony",
+          "slug": "simna-colony",
+          "pin": "799212",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Sundartilla",
+          "slug": "sundartilla",
+          "pin": "799212",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Simna",
+          "slug": "simna",
+          "pin": "799212",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Sonaram Bazar",
+          "slug": "sonaram-bazar",
+          "pin": "799212",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "C": [
+        {
+          "name": "Charipara",
+          "slug": "charipara",
+          "pin": "799003",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Champaknagar",
+          "slug": "champaknagar",
+          "pin": "799045",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Champamura Bazar",
+          "slug": "champamura-bazar",
+          "pin": "799130",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Chechuria",
+          "slug": "chechuria",
+          "pin": "799210",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Chachubazar",
+          "slug": "chachubazar",
+          "pin": "799211",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "J": [
+        {
+          "name": "Jogendranagar",
+          "slug": "jogendranagar",
+          "pin": "799004",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Jarul Bachai",
+          "slug": "jarul-bachai",
+          "pin": "799004",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Janmejoynagar",
+          "slug": "janmejoynagar",
+          "pin": "799045",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "N": [
+        {
+          "name": "Nagicherra",
+          "slug": "nagicherra",
+          "pin": "799004",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Nandannagar",
+          "slug": "nandannagar",
+          "pin": "799006",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Noagaon Krishnagar",
+          "slug": "noagaon-krishnagar",
+          "pin": "799006",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Neepco",
+          "slug": "neepco",
+          "pin": "799008",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Narayanpur",
+          "slug": "narayanpur",
+          "pin": "799009",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Nutannagar",
+          "slug": "nutannagar",
+          "pin": "799009",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Narayanpur Bazar SO",
+          "slug": "narayanpur-bazar",
+          "pin": "799015",
+          "lat": "23.909314",
+          "lng": "91.251929"
+        },
+        {
+          "name": "Noabadi",
+          "slug": "noabadi",
+          "pin": "799045",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "NIT Agartala",
+          "slug": "nit-agartala",
+          "pin": "799046",
+          "lat": "23.8469704",
+          "lng": "91.4145956"
+        }
+      ],
+      "G": [
+        {
+          "name": "Gabordi",
+          "slug": "gabordi",
+          "pin": "799004",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "G.B.Hospital",
+          "slug": "g-b-hospital",
+          "pin": "799006",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Gurudas Colony",
+          "slug": "gurudas-colony",
+          "pin": "799045",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "D": [
+        {
+          "name": "Dhupcherra",
+          "slug": "dhupcherra",
+          "pin": "799004",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Dhaleswar",
+          "slug": "dhaleswar",
+          "pin": "799007",
+          "lat": "23.83555556",
+          "lng": "91.29502778"
+        },
+        {
+          "name": "Durjaynagar",
+          "slug": "durjaynagar",
+          "pin": "799009",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Dinabandhupara",
+          "slug": "dinabandhupara",
+          "pin": "799035",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Durganagar",
+          "slug": "durganagar",
+          "pin": "799035",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Dighalia Bazar",
+          "slug": "dighalia-bazar",
+          "pin": "799211",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Darogamura",
+          "slug": "darogamura",
+          "pin": "799212",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "O": [
+        {
+          "name": "Old Agartala",
+          "slug": "old-agartala",
+          "pin": "799008",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "L": [
+        {
+          "name": "Lankamura",
+          "slug": "lankamura",
+          "pin": "799009",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Laifunga",
+          "slug": "laifunga",
+          "pin": "799210",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Lembucherra",
+          "slug": "lembucherra",
+          "pin": "799210",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "W": [
+        {
+          "name": "Wakinagar",
+          "slug": "wakinagar",
+          "pin": "799035",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "V": [
+        {
+          "name": "Viveknagar",
+          "slug": "viveknagar",
+          "pin": "799130",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "F": [
+        {
+          "name": "Fatikchhera",
+          "slug": "fatikchhera",
+          "pin": "799210",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "H": [
+        {
+          "name": "Harendranagar T.",
+          "slug": "harendranagar-t",
+          "pin": "799210",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "U": [
+        {
+          "name": "Uttar debendranagar",
+          "slug": "uttar-debendranagar",
+          "pin": "799211",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Uttar Dasgharia",
+          "slug": "uttar-dasgharia",
+          "pin": "799212",
+          "lat": null,
+          "lng": null
+        }
+      ]
+    },
+    "Sepahijala": {
+      "J": [
+        {
+          "name": "Jampuijala Colony",
+          "slug": "jampuijala-colony",
+          "pin": "799011",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Jampuijala SO",
+          "slug": "jampuijala",
+          "pin": "799011",
+          "lat": "23.82975",
+          "lng": "91.2788333"
+        },
+        {
+          "name": "Jumerdhepa",
+          "slug": "jumerdhepa",
+          "pin": "799115",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Jatrapur",
+          "slug": "jatrapur",
+          "pin": "799132",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "K": [
+        {
+          "name": "Kendraicherra",
+          "slug": "kendraicherra",
+          "pin": "799011",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kanakraipara",
+          "slug": "kanakraipara",
+          "pin": "799011",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kalkalia",
+          "slug": "kalkalia",
+          "pin": "799102",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kaiyadhepa",
+          "slug": "kaiyadhepa",
+          "pin": "799102",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kalamcherra",
+          "slug": "kalamcherra",
+          "pin": "799102",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kalasimura",
+          "slug": "kalasimura",
+          "pin": "799102",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kamalasagar",
+          "slug": "kamalasagar",
+          "pin": "799102",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Konabon",
+          "slug": "konabon",
+          "pin": "799102",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Krishnakishorenagar",
+          "slug": "krishnakishorenagar",
+          "pin": "799102",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kemtali",
+          "slug": "kemtali",
+          "pin": "799115",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Khas Chowmouhani",
+          "slug": "khas-chowmouhani",
+          "pin": "799115",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Khedabari",
+          "slug": "khedabari",
+          "pin": "799131",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kamalnagar",
+          "slug": "kamalnagar",
+          "pin": "799131",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kulubari",
+          "slug": "kulubari",
+          "pin": "799131",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kalikrishnagar",
+          "slug": "kalikrishnagar",
+          "pin": "799132",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kathalia",
+          "slug": "kathalia",
+          "pin": "799132",
+          "lat": "23.3825",
+          "lng": "91.3517"
+        }
+      ],
+      "S": [
+        {
+          "name": "Sankumabari",
+          "slug": "sankumabari",
+          "pin": "799011",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "South Nehalchandranagar",
+          "slug": "south-nehalchandranagar",
+          "pin": "799102",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Sepahijala",
+          "slug": "sepahijala",
+          "pin": "799102",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Sutarmura",
+          "slug": "sutarmura",
+          "pin": "799102",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "South Charilam",
+          "slug": "south-charilam",
+          "pin": "799103",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Sonamura",
+          "slug": "sonamura",
+          "pin": "799131",
+          "lat": "23.47791667",
+          "lng": "91.26613889"
+        }
+      ],
+      "U": [
+        {
+          "name": "Ujan Ghaniamara",
+          "slug": "ujan-ghaniamara",
+          "pin": "799011",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Urmai",
+          "slug": "urmai",
+          "pin": "799115",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "T": [
+        {
+          "name": "Takarjala",
+          "slug": "takarjala",
+          "pin": "799011",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Tekshapara",
+          "slug": "tekshapara",
+          "pin": "799103",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Telkajla",
+          "slug": "telkajla",
+          "pin": "799115",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "L": [
+        {
+          "name": "Lalsingmura",
+          "slug": "lalsingmura",
+          "pin": "799102",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Latiacherra",
+          "slug": "latiacherra",
+          "pin": "799103",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Lakshmandhepa",
+          "slug": "lakshmandhepa",
+          "pin": "799115",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "N": [
+        {
+          "name": "Nabinagar",
+          "slug": "nabinagar",
+          "pin": "799102",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "No.2 Chandranagar",
+          "slug": "no-2-chandranagar",
+          "pin": "799102",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Nabasantiganj Bazar",
+          "slug": "nabasantiganj-bazar",
+          "pin": "799102",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Nalchar",
+          "slug": "nalchar",
+          "pin": "799115",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Nidaya BO",
+          "slug": "nidaya",
+          "pin": "799131",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Nirvoypur",
+          "slug": "nirvoypur",
+          "pin": "799132",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "P": [
+        {
+          "name": "Purba Laxmi Bill",
+          "slug": "purba-laxmi-bill",
+          "pin": "799102",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Purathalrajnagar",
+          "slug": "purathalrajnagar",
+          "pin": "799102",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Purba Gokulnagar",
+          "slug": "purba-gokulnagar",
+          "pin": "799102",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Putia",
+          "slug": "putia",
+          "pin": "799102",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Pathaliaghat",
+          "slug": "pathaliaghat",
+          "pin": "799103",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Promodenagar",
+          "slug": "promodenagar",
+          "pin": "799103",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Padmanagar",
+          "slug": "padmanagar",
+          "pin": "799103",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "V": [
+        {
+          "name": "Veluarchar",
+          "slug": "veluarchar",
+          "pin": "799102",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "W": [
+        {
+          "name": "West Laxmibill",
+          "slug": "west-laxmibill",
+          "pin": "799102",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "West Nalchar",
+          "slug": "west-nalchar",
+          "pin": "799115",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "B": [
+        {
+          "name": "Boxonagar",
+          "slug": "boxonagar",
+          "pin": "799102",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Brajapur",
+          "slug": "brajapur",
+          "pin": "799102",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Bishalgarh",
+          "slug": "bishalgarh",
+          "pin": "799102",
+          "lat": "23.67402778",
+          "lng": "91.28225"
+        },
+        {
+          "name": "Bagmara",
+          "slug": "bagmara",
+          "pin": "799103",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Barjala",
+          "slug": "barjala",
+          "pin": "799103",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Bishramganj",
+          "slug": "bishramganj",
+          "pin": "799103",
+          "lat": "24.1314",
+          "lng": "91.1651"
+        },
+        {
+          "name": "Bagabassa",
+          "slug": "bagabassa",
+          "pin": "799115",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Bardwal",
+          "slug": "bardwal",
+          "pin": "799115",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Battali",
+          "slug": "battali",
+          "pin": "799115",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Bejimara",
+          "slug": "bejimara",
+          "pin": "799131",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Bhabanipur",
+          "slug": "bhabanipur",
+          "pin": "799132",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "G": [
+        {
+          "name": "Gazaria",
+          "slug": "gazaria",
+          "pin": "799102",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Golaghati",
+          "slug": "golaghati",
+          "pin": "799102",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Goliraibari",
+          "slug": "goliraibari",
+          "pin": "799103",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "R": [
+        {
+          "name": "Rokhia G.T Project",
+          "slug": "rokhia-g-t-project",
+          "pin": "799102",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Rohimpur",
+          "slug": "rohimpur",
+          "pin": "799102",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Ramnagar Bazar",
+          "slug": "ramnagar-bazar",
+          "pin": "799103",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Rangamala Bazar",
+          "slug": "rangamala-bazar",
+          "pin": "799103",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Rudijala",
+          "slug": "rudijala",
+          "pin": "799115",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Rabindranagar Colony",
+          "slug": "rabindranagar-colony",
+          "pin": "799131",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "D": [
+        {
+          "name": "Dhajanagar",
+          "slug": "dhajanagar",
+          "pin": "799102",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Durlavnarayan",
+          "slug": "durlavnarayan",
+          "pin": "799115",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Durgapur",
+          "slug": "durgapur",
+          "pin": "799131",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Dhanirampur",
+          "slug": "dhanirampur",
+          "pin": "799131",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Dhanpur",
+          "slug": "dhanpur",
+          "pin": "799131",
+          "lat": "22.633858",
+          "lng": "74.097568"
+        }
+      ],
+      "M": [
+        {
+          "name": "Madhupur",
+          "slug": "madhupur",
+          "pin": "799102",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Melaghar",
+          "slug": "melaghar",
+          "pin": "799115",
+          "lat": "23.49172222",
+          "lng": "91.32958333"
+        },
+        {
+          "name": "Matinagar",
+          "slug": "matinagar",
+          "pin": "799131",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Maheshpur",
+          "slug": "maheshpur",
+          "pin": "799132",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Manaipathar",
+          "slug": "manaipathar",
+          "pin": "799132",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "H": [
+        {
+          "name": "Harishnagar T.E.",
+          "slug": "harishnagar-t-e",
+          "pin": "799102",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "C": [
+        {
+          "name": "Charilam",
+          "slug": "charilam",
+          "pin": "799103",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Chechrimile",
+          "slug": "chechrimile",
+          "pin": "799103",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Chandigarh",
+          "slug": "chandigarh",
+          "pin": "799115",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Chowmouhani",
+          "slug": "chowmouhani",
+          "pin": "799115",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "A": [
+        {
+          "name": "Amarendranagar",
+          "slug": "amarendranagar",
+          "pin": "799103",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "I": [
+        {
+          "name": "Induria",
+          "slug": "induria",
+          "pin": "799131",
+          "lat": null,
+          "lng": null
+        }
+      ]
+    },
+    "Gomati": {
+      "D": [
+        {
+          "name": "Dakshin Maharani",
+          "slug": "dakshin-maharani",
+          "pin": "799013",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Dakshin Chandrapur",
+          "slug": "dakshin-chandrapur",
+          "pin": "799013",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Debbari",
+          "slug": "debbari",
+          "pin": "799101",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Dhanlekha",
+          "slug": "dhanlekha",
+          "pin": "799101",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Dakshin taidu",
+          "slug": "dakshin-taidu",
+          "pin": "799101",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Dumburnagar",
+          "slug": "dumburnagar",
+          "pin": "799104",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Dhuptali",
+          "slug": "dhuptali",
+          "pin": "799105",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "H": [
+        {
+          "name": "Holakhet",
+          "slug": "holakhet",
+          "pin": "799013",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Hadra",
+          "slug": "hadra",
+          "pin": "799105",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "M": [
+        {
+          "name": "Maharani",
+          "slug": "maharani",
+          "pin": "799013",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Matabari",
+          "slug": "matabari",
+          "pin": "799013",
+          "lat": "23.487446",
+          "lng": "91.490975"
+        },
+        {
+          "name": "Murapara",
+          "slug": "murapara",
+          "pin": "799013",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Malbassa",
+          "slug": "malbassa",
+          "pin": "799101",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Mahuamillan",
+          "slug": "mahuamillan",
+          "pin": "799101",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Mogpuskarini",
+          "slug": "mogpuskarini",
+          "pin": "799105",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Mohanbhog",
+          "slug": "mohanbhog",
+          "pin": "799105",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Manikya",
+          "slug": "manikya",
+          "pin": "799114",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "F": [
+        {
+          "name": "Fulkumari",
+          "slug": "fulkumari",
+          "pin": "799013",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "J": [
+        {
+          "name": "Jamjuri",
+          "slug": "jamjuri",
+          "pin": "799013",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Joalikhamar",
+          "slug": "joalikhamar",
+          "pin": "799013",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Jalaya",
+          "slug": "jalaya",
+          "pin": "799104",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Jatanbari",
+          "slug": "jatanbari",
+          "pin": "799104",
+          "lat": "23.9408",
+          "lng": "91.9881"
+        },
+        {
+          "name": "Jitendranagar",
+          "slug": "jitendranagar",
+          "pin": "799105",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "L": [
+        {
+          "name": "Lakshipati",
+          "slug": "lakshipati",
+          "pin": "799013",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Lebacherra",
+          "slug": "lebacherra",
+          "pin": "799104",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "A": [
+        {
+          "name": "Abani Reangpara",
+          "slug": "abani-reangpara",
+          "pin": "799013",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Ampinagar",
+          "slug": "ampinagar",
+          "pin": "799101",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Amarpur  (South Tripura)",
+          "slug": "amarpur",
+          "pin": "799101",
+          "lat": "23.5408333",
+          "lng": "91.4917500"
+        }
+      ],
+      "G": [
+        {
+          "name": "Gamakubari",
+          "slug": "gamakubari",
+          "pin": "799101",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Ghorakappa",
+          "slug": "ghorakappa",
+          "pin": "799104",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Garjanmura",
+          "slug": "garjanmura",
+          "pin": "799113",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Gakulpur",
+          "slug": "gakulpur",
+          "pin": "799114",
+          "lat": "23.546582",
+          "lng": "91.47523"
+        },
+        {
+          "name": "Gangacherra",
+          "slug": "gangacherra",
+          "pin": "799125",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Garjee",
+          "slug": "garjee",
+          "pin": "799125",
+          "lat": "23.5408333",
+          "lng": "91.4917500"
+        }
+      ],
+      "K": [
+        {
+          "name": "Kurma",
+          "slug": "kurma",
+          "pin": "799101",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Karbook",
+          "slug": "karbook",
+          "pin": "799104",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kusumara",
+          "slug": "kusumara",
+          "pin": "799105",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kamrangatali",
+          "slug": "kamrangatali",
+          "pin": "799105",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kishoreganj",
+          "slug": "kishoreganj",
+          "pin": "799105",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kakraban",
+          "slug": "kakraban",
+          "pin": "799105",
+          "lat": "23.292",
+          "lng": "91.2548"
+        },
+        {
+          "name": "Kupilong",
+          "slug": "kupilong",
+          "pin": "799113",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Killarbazar",
+          "slug": "killarbazar",
+          "pin": "799114",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Khilpara",
+          "slug": "khilpara",
+          "pin": "799114",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kalabon",
+          "slug": "kalabon",
+          "pin": "799125",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "N": [
+        {
+          "name": "Nagrai",
+          "slug": "nagrai",
+          "pin": "799101",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "P": [
+        {
+          "name": "Palku",
+          "slug": "palku",
+          "pin": "799101",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Paharpur",
+          "slug": "paharpur",
+          "pin": "799101",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Purba Manikya Dewan",
+          "slug": "purba-manikya-dewan",
+          "pin": "799104",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Paticherri",
+          "slug": "paticherri",
+          "pin": "799104",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Palatana",
+          "slug": "palatana",
+          "pin": "799105",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Paschim Mogpuskarini",
+          "slug": "paschim-mogpuskarini",
+          "pin": "799105",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Pitra Bazar",
+          "slug": "pitra-bazar",
+          "pin": "799114",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Paikhola",
+          "slug": "paikhola",
+          "pin": "799125",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Paschim Paticherri Colony",
+          "slug": "paschim-paticherri-colony",
+          "pin": "799125",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "R": [
+        {
+          "name": "Rangamati",
+          "slug": "rangamati",
+          "pin": "799101",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Rangkhang",
+          "slug": "rangkhang",
+          "pin": "799101",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Raima",
+          "slug": "raima",
+          "pin": "799104",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Rani",
+          "slug": "rani",
+          "pin": "799105",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Raiyabari",
+          "slug": "raiyabari",
+          "pin": "799114",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Rajarbag",
+          "slug": "rajarbag",
+          "pin": "799114",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Rajnagar Colony",
+          "slug": "rajnagar-colony",
+          "pin": "799114",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Radhakishorepur",
+          "slug": "radhakishorepur",
+          "pin": "799120",
+          "lat": "23.54083333",
+          "lng": "91.49175"
+        },
+        {
+          "name": "Rajapur",
+          "slug": "rajapur",
+          "pin": "799125",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "B": [
+        {
+          "name": "Bampur",
+          "slug": "bampur",
+          "pin": "799101",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Boalkhali",
+          "slug": "boalkhali",
+          "pin": "799104",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Barbil",
+          "slug": "barbil",
+          "pin": "799104",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Bazar Amtali",
+          "slug": "bazar-amtali",
+          "pin": "799105",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Bagma",
+          "slug": "bagma",
+          "pin": "799113",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "C": [
+        {
+          "name": "Chechuajamatiabari",
+          "slug": "chechuajamatiabari",
+          "pin": "799101",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Chellagong",
+          "slug": "chellagong",
+          "pin": "799101",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Chandul",
+          "slug": "chandul",
+          "pin": "799105",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "S": [
+        {
+          "name": "Sarbong",
+          "slug": "sarbong",
+          "pin": "799101",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Silacharri",
+          "slug": "silacharri",
+          "pin": "799104",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Suknacherri",
+          "slug": "suknacherri",
+          "pin": "799104",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Silghati",
+          "slug": "silghati",
+          "pin": "799105",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Samukcherra",
+          "slug": "samukcherra",
+          "pin": "799105",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Salgarah",
+          "slug": "salgarah",
+          "pin": "799114",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "T": [
+        {
+          "name": "Taidubari",
+          "slug": "taidubari",
+          "pin": "799101",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Tirthamukh",
+          "slug": "tirthamukh",
+          "pin": "799104",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Tuichama",
+          "slug": "tuichama",
+          "pin": "799104",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Taibandal",
+          "slug": "taibandal",
+          "pin": "799105",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Tepania",
+          "slug": "tepania",
+          "pin": "799113",
+          "lat": "23.555724",
+          "lng": "91.451206"
+        },
+        {
+          "name": "Thelakum",
+          "slug": "thelakum",
+          "pin": "799114",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Tainani",
+          "slug": "tainani",
+          "pin": "799125",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Takmacherra",
+          "slug": "takmacherra",
+          "pin": "799125",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "U": [
+        {
+          "name": "Uttar Chellagonj",
+          "slug": "uttar-chellagonj",
+          "pin": "799104",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Upendranagar",
+          "slug": "upendranagar",
+          "pin": "799105",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Uttar Brojendranagar",
+          "slug": "uttar-brojendranagar",
+          "pin": "799114",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "I": [
+        {
+          "name": "Ichacherra",
+          "slug": "ichacherra",
+          "pin": "799105",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "IDC Radhakishorepur HO",
+          "slug": "idc-radhakishorepur",
+          "pin": "799120",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "E": [
+        {
+          "name": "East Mirza",
+          "slug": "east-mirza",
+          "pin": "799105",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "East Bagabassa",
+          "slug": "east-bagabassa",
+          "pin": "799113",
+          "lat": null,
+          "lng": null
+        }
+      ]
+    },
+    "South Tripura": {
+      "D": [
+        {
+          "name": "Debdaru Bazar",
+          "slug": "debdaru-bazar",
+          "pin": "799141",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Dakshin Hichacherri",
+          "slug": "dakshin-hichacherri",
+          "pin": "799141",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Dakshin Manubankul",
+          "slug": "dakshin-manubankul",
+          "pin": "799143",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Dakshin Fulcherri",
+          "slug": "dakshin-fulcherri",
+          "pin": "799143",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Doulbari",
+          "slug": "doulbari",
+          "pin": "799145",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Dakshin Sonaicharri",
+          "slug": "dakshin-sonaicharri",
+          "pin": "799155",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Debipur",
+          "slug": "debipur",
+          "pin": "799155",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Dimatali",
+          "slug": "dimatali",
+          "pin": "799157",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "T": [
+        {
+          "name": "Thakurcherra",
+          "slug": "thakurcherra",
+          "pin": "799141",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "J": [
+        {
+          "name": "Jolaibari",
+          "slug": "jolaibari",
+          "pin": "799141",
+          "lat": "21.2319",
+          "lng": "92.1141"
+        },
+        {
+          "name": "Jalefa Bazar",
+          "slug": "jalefa-bazar",
+          "pin": "799145",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "M": [
+        {
+          "name": "Madhya Pillak",
+          "slug": "madhya-pillak",
+          "pin": "799141",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Muhuri Ratanpur",
+          "slug": "muhuri-ratanpur",
+          "pin": "799142",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Muhuripur",
+          "slug": "muhuripur",
+          "pin": "799142",
+          "lat": "23.5408333",
+          "lng": "91.4917500"
+        },
+        {
+          "name": "Manubazar",
+          "slug": "manubazar",
+          "pin": "799143",
+          "lat": "23.0423",
+          "lng": "91.3854"
+        },
+        {
+          "name": "Magurcherra",
+          "slug": "magurcherra",
+          "pin": "799143",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Manpather",
+          "slug": "manpather",
+          "pin": "799144",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Matai",
+          "slug": "matai",
+          "pin": "799155",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Madhabnagar",
+          "slug": "madhabnagar",
+          "pin": "799156",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "P": [
+        {
+          "name": "Paschim Pillak",
+          "slug": "paschim-pillak",
+          "pin": "799141",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Poangbari",
+          "slug": "poangbari",
+          "pin": "799143",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Purba Manu",
+          "slug": "purba-manu",
+          "pin": "799144",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Paschim Pipariakhola",
+          "slug": "paschim-pipariakhola",
+          "pin": "799155",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Puran Rajbari",
+          "slug": "puran-rajbari",
+          "pin": "799157",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "S": [
+        {
+          "name": "Sakbari",
+          "slug": "sakbari",
+          "pin": "799141",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Srinagar",
+          "slug": "srinagar",
+          "pin": "799143",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Sindukpathar",
+          "slug": "sindukpathar",
+          "pin": "799143",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Satchand",
+          "slug": "satchand",
+          "pin": "799143",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Santirbazar",
+          "slug": "santirbazar",
+          "pin": "799144",
+          "lat": "23.31075",
+          "lng": "91.56244444"
+        },
+        {
+          "name": "Sabroom",
+          "slug": "sabroom",
+          "pin": "799145",
+          "lat": "23.00369444",
+          "lng": "91.73263889"
+        },
+        {
+          "name": "Sonaicherri",
+          "slug": "sonaicherri",
+          "pin": "799145",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "South Bharat Ch.Nagar",
+          "slug": "south-bharat-ch-nagar",
+          "pin": "799155",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Subashnagar",
+          "slug": "subashnagar",
+          "pin": "799155",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Sarasima",
+          "slug": "sarasima",
+          "pin": "799155",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "South Krishnagar",
+          "slug": "south-krishnagar",
+          "pin": "799156",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Samarendraganj",
+          "slug": "samarendraganj",
+          "pin": "799156",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Siddhinagar",
+          "slug": "siddhinagar",
+          "pin": "799157",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "South srirampur",
+          "slug": "south-srirampur",
+          "pin": "799157",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "K": [
+        {
+          "name": "Kalashi Bazar",
+          "slug": "kalashi-bazar",
+          "pin": "799141",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kwaifung",
+          "slug": "kwaifung",
+          "pin": "799141",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kathaliacherra",
+          "slug": "kathaliacherra",
+          "pin": "799144",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kanchannagar",
+          "slug": "kanchannagar",
+          "pin": "799144",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kathalcherri",
+          "slug": "kathalcherri",
+          "pin": "799145",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kasari",
+          "slug": "kasari",
+          "pin": "799150",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "C": [
+        {
+          "name": "Charakbai",
+          "slug": "charakbai",
+          "pin": "799142",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Chalitacherra",
+          "slug": "chalitacherra",
+          "pin": "799145",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Chittamara",
+          "slug": "chittamara",
+          "pin": "799155",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Chottakhola",
+          "slug": "chottakhola",
+          "pin": "799157",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "B": [
+        {
+          "name": "Bhuratali",
+          "slug": "bhuratali",
+          "pin": "799143",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Bishnupur",
+          "slug": "bishnupur",
+          "pin": "799143",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Bagafa",
+          "slug": "bagafa",
+          "pin": "799144",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Baikhora",
+          "slug": "baikhora",
+          "pin": "799144",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Betaga",
+          "slug": "betaga",
+          "pin": "799144",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Baishnabpur",
+          "slug": "baishnabpur",
+          "pin": "799145",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Bijoynagar",
+          "slug": "bijoynagar",
+          "pin": "799145",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Beloniya",
+          "slug": "beloniya",
+          "pin": "799155",
+          "lat": "23.25177778",
+          "lng": "91.45577778"
+        },
+        {
+          "name": "Belonia aerodrome",
+          "slug": "belonia-aerodrome",
+          "pin": "799155",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Baspadua",
+          "slug": "baspadua",
+          "pin": "799155",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Barpathari",
+          "slug": "barpathari",
+          "pin": "799155",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "A": [
+        {
+          "name": "Amlighat",
+          "slug": "amlighat",
+          "pin": "799143",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Abhoyganj Bazar",
+          "slug": "abhoyganj-bazar",
+          "pin": "799155",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Anandapur  (South Tripura)",
+          "slug": "anandapur",
+          "pin": "799157",
+          "lat": "23.5408333",
+          "lng": "91.4917500"
+        }
+      ],
+      "G": [
+        {
+          "name": "Guachand",
+          "slug": "guachand",
+          "pin": "799143",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Gouranga Bazar",
+          "slug": "gouranga-bazar",
+          "pin": "799157",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Gabtali",
+          "slug": "gabtali",
+          "pin": "799157",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "U": [
+        {
+          "name": "Urrat Takmacherra",
+          "slug": "urrat-takmacherra",
+          "pin": "799144",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Uttar Debipur",
+          "slug": "uttar-debipur",
+          "pin": "799144",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Uttar Sonaicherri",
+          "slug": "uttar-sonaicherri",
+          "pin": "799155",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Uttar Bharat Ch Nagar",
+          "slug": "uttar-bharat-ch-nagar",
+          "pin": "799155",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "L": [
+        {
+          "name": "Lowgang",
+          "slug": "lowgang",
+          "pin": "799144",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Laxmicherra",
+          "slug": "laxmicherra",
+          "pin": "799144",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Ludhua",
+          "slug": "ludhua",
+          "pin": "799145",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Ludhua Tea Estate",
+          "slug": "ludhua-tea-estate",
+          "pin": "799145",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "E": [
+        {
+          "name": "East Bagafa",
+          "slug": "east-bagafa",
+          "pin": "799144",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "R": [
+        {
+          "name": "Radhakishoreganj",
+          "slug": "radhakishoreganj",
+          "pin": "799144",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Rupaicherri",
+          "slug": "rupaicherri",
+          "pin": "799145",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Rajnagar  (South Tripura)",
+          "slug": "rajnagar",
+          "pin": "799150",
+          "lat": "23.5408333",
+          "lng": "91.4917500"
+        },
+        {
+          "name": "Radhanagar  (West Tripura)",
+          "slug": "radhanagar",
+          "pin": "799153",
+          "lat": "23.8297500",
+          "lng": "91.2788333"
+        },
+        {
+          "name": "Rangamura",
+          "slug": "rangamura",
+          "pin": "799153",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "H": [
+        {
+          "name": "Harina Bazar",
+          "slug": "harina-bazar",
+          "pin": "799145",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Harbatali",
+          "slug": "harbatali",
+          "pin": "799145",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Hrishyamukh",
+          "slug": "hrishyamukh",
+          "pin": "799156",
+          "lat": "23.5408333",
+          "lng": "91.4917500"
+        }
+      ],
+      "N": [
+        {
+          "name": "Nalua",
+          "slug": "nalua",
+          "pin": "799156",
+          "lat": null,
+          "lng": null
+        }
+      ]
+    },
+    "Khowai": {
+      "B": [
+        {
+          "name": "Behalabari",
+          "slug": "behalabari",
+          "pin": "799201",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Banbazar",
+          "slug": "banbazar",
+          "pin": "799201",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Bachaibari",
+          "slug": "bachaibari",
+          "pin": "799201",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Belcherra",
+          "slug": "belcherra",
+          "pin": "799201",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Barmaidan Bazar",
+          "slug": "barmaidan-bazar",
+          "pin": "799203",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Barmura Project",
+          "slug": "barmura-project",
+          "pin": "799205",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Brahmacherra",
+          "slug": "brahmacherra",
+          "pin": "799205",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Baijalbari",
+          "slug": "baijalbari",
+          "pin": "799207",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Bharatsardarbari",
+          "slug": "bharatsardarbari",
+          "pin": "799207",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "G": [
+        {
+          "name": "Ganki",
+          "slug": "ganki",
+          "pin": "799201",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Gakulbari",
+          "slug": "gakulbari",
+          "pin": "799201",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Ghilatali",
+          "slug": "ghilatali",
+          "pin": "799203",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Golabari",
+          "slug": "golabari",
+          "pin": "799205",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Gouranga Tilla",
+          "slug": "gouranga-tilla",
+          "pin": "799207",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "S": [
+        {
+          "name": "Samatal Padmabil",
+          "slug": "samatal-padmabil",
+          "pin": "799201",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Singicherra",
+          "slug": "singicherra",
+          "pin": "799201",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Subashpark",
+          "slug": "subashpark",
+          "pin": "799201",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Sonatala",
+          "slug": "sonatala",
+          "pin": "799207",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "K": [
+        {
+          "name": "Khowai",
+          "slug": "khowai",
+          "pin": "799201",
+          "lat": "24.08130556",
+          "lng": "91.59627778"
+        },
+        {
+          "name": "Karingicherra",
+          "slug": "karingicherra",
+          "pin": "799201",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Khowai T. E",
+          "slug": "khowai-t-e",
+          "pin": "799201",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Khowai Court",
+          "slug": "khowai-court",
+          "pin": "799202",
+          "lat": "23.8297500",
+          "lng": "91.2788333"
+        },
+        {
+          "name": "Kalyanpur  (West Tripura)",
+          "slug": "kalyanpur",
+          "pin": "799203",
+          "lat": "23.8297500",
+          "lng": "91.2788333"
+        },
+        {
+          "name": "Kalyanpur T. E",
+          "slug": "kalyanpur-t-e",
+          "pin": "799203",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kalitilla",
+          "slug": "kalitilla",
+          "pin": "799205",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Karailong",
+          "slug": "karailong",
+          "pin": "799205",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Khasiamangal",
+          "slug": "khasiamangal",
+          "pin": "799205",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "E": [
+        {
+          "name": "East Bachaibari",
+          "slug": "east-bachaibari",
+          "pin": "799201",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "P": [
+        {
+          "name": "Paharmora",
+          "slug": "paharmora",
+          "pin": "799201",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Paschim Belcherra",
+          "slug": "paschim-belcherra",
+          "pin": "799201",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Paschim Laxmicherra",
+          "slug": "paschim-laxmicherra",
+          "pin": "799201",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Paschim Santinagar",
+          "slug": "paschim-santinagar",
+          "pin": "799203",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Paschim Kalyanpur",
+          "slug": "paschim-kalyanpur",
+          "pin": "799203",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Paschim Kunjaban",
+          "slug": "paschim-kunjaban",
+          "pin": "799203",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Paglabari",
+          "slug": "paglabari",
+          "pin": "799207",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "A": [
+        {
+          "name": "Agagartilla",
+          "slug": "agagartilla",
+          "pin": "799201",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Asharambari",
+          "slug": "asharambari",
+          "pin": "799201",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Ataromura",
+          "slug": "ataromura",
+          "pin": "799205",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "C": [
+        {
+          "name": "Champahaor",
+          "slug": "champahaor",
+          "pin": "799201",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Chakmaghat",
+          "slug": "chakmaghat",
+          "pin": "799205",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Chebri",
+          "slug": "chebri",
+          "pin": "799207",
+          "lat": "24.0441",
+          "lng": "91.3622"
+        },
+        {
+          "name": "Chankhala",
+          "slug": "chankhala",
+          "pin": "799207",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "R": [
+        {
+          "name": "Ratanpurbazar",
+          "slug": "ratanpurbazar",
+          "pin": "799201",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Ramdayal Lendless Colony",
+          "slug": "ramdayal-lendless-colony",
+          "pin": "799203",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Ratia",
+          "slug": "ratia",
+          "pin": "799203",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Rupacherra",
+          "slug": "rupacherra",
+          "pin": "799205",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Rajnagar Khowai",
+          "slug": "rajnagar-khowai",
+          "pin": "799207",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Ramchandraghat",
+          "slug": "ramchandraghat",
+          "pin": "799207",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "RAMKRISHNABARI",
+          "slug": "ramkrishnabari",
+          "pin": "799207",
+          "lat": "24.020841999999998",
+          "lng": "91.750093000000007"
+        }
+      ],
+      "D": [
+        {
+          "name": "Durgapur",
+          "slug": "durgapur",
+          "pin": "799203",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Dakshin Promode L. L.Colony",
+          "slug": "dakshin-promode-l-l-colony",
+          "pin": "799203",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Dwarikapur",
+          "slug": "dwarikapur",
+          "pin": "799203",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "T": [
+        {
+          "name": "Tablabari",
+          "slug": "tablabari",
+          "pin": "799203",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Teliamura",
+          "slug": "teliamura",
+          "pin": "799205",
+          "lat": "23.84013889",
+          "lng": "91.63461111"
+        }
+      ],
+      "U": [
+        {
+          "name": "Uttat Pulinpur",
+          "slug": "uttat-pulinpur",
+          "pin": "799203",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Uttar Gakulnagar",
+          "slug": "uttar-gakulnagar",
+          "pin": "799205",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Uttarchebri",
+          "slug": "uttarchebri",
+          "pin": "799207",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "M": [
+        {
+          "name": "Moharcherra",
+          "slug": "moharcherra",
+          "pin": "799203",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Maigonga",
+          "slug": "maigonga",
+          "pin": "799205",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Mongtukupara",
+          "slug": "mongtukupara",
+          "pin": "799205",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Maharanipur",
+          "slug": "maharanipur",
+          "pin": "799205",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "H": [
+        {
+          "name": "Hadrai",
+          "slug": "hadrai",
+          "pin": "799205",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Howaibari",
+          "slug": "howaibari",
+          "pin": "799205",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "N": [
+        {
+          "name": "Netajinagar",
+          "slug": "netajinagar",
+          "pin": "799205",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Nunacherra",
+          "slug": "nunacherra",
+          "pin": "799205",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Nabakumar Rankhal Para",
+          "slug": "nabakumar-rankhal-para",
+          "pin": "799205",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "J": [
+        {
+          "name": "JAGNA KOBRABARI (PART)",
+          "slug": "jagna-kobrabari",
+          "pin": "799207",
+          "lat": "23.978663000000001",
+          "lng": "91.744489000000002"
+        }
+      ]
+    },
+    "Dhalai": {
+      "B": [
+        {
+          "name": "Balarambazar",
+          "slug": "balarambazar",
+          "pin": "799204",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Betcherra",
+          "slug": "betcherra",
+          "pin": "799266",
+          "lat": "24.06562",
+          "lng": "91.993047"
+        },
+        {
+          "name": "Bindulal Karbaripara",
+          "slug": "bindulal-karbaripara",
+          "pin": "799273",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Bhagirathpara",
+          "slug": "bhagirathpara",
+          "pin": "799284",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Bullongbassa",
+          "slug": "bullongbassa",
+          "pin": "799284",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Bagaicherri",
+          "slug": "bagaicherri",
+          "pin": "799285",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Baligaon",
+          "slug": "baligaon",
+          "pin": "799285",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Baralutma",
+          "slug": "baralutma",
+          "pin": "799286",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "BALUCHHARA",
+          "slug": "baluchhara",
+          "pin": "799289",
+          "lat": "23.829304",
+          "lng": "91.923501999999999"
+        },
+        {
+          "name": "BATABARI",
+          "slug": "batabari",
+          "pin": "799289",
+          "lat": "23.771933000000001",
+          "lng": "91.788826999999998"
+        }
+      ],
+      "N": [
+        {
+          "name": "Nalicherra",
+          "slug": "nalicherra",
+          "pin": "799204",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Natinmanu",
+          "slug": "natinmanu",
+          "pin": "799273",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Noagoan",
+          "slug": "noagoan",
+          "pin": "799285",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Nagbangshi",
+          "slug": "nagbangshi",
+          "pin": "799287",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "K": [
+        {
+          "name": "Kulaibazar",
+          "slug": "kulaibazar",
+          "pin": "799204",
+          "lat": "23.9060300",
+          "lng": "91.9907970"
+        },
+        {
+          "name": "Kanchancherra",
+          "slug": "kanchancherra",
+          "pin": "799266",
+          "lat": "24.3788333",
+          "lng": "92.1598056"
+        },
+        {
+          "name": "Karamcherra",
+          "slug": "karamcherra",
+          "pin": "799266",
+          "lat": "24.06562",
+          "lng": "91.993047"
+        },
+        {
+          "name": "Karatichesdrra",
+          "slug": "karatichesdrra",
+          "pin": "799275",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kachucherra",
+          "slug": "kachucherra",
+          "pin": "799278",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "KHEDERKOT",
+          "slug": "khederkot",
+          "pin": "799284",
+          "lat": "23.548121999999999",
+          "lng": "91.825682"
+        },
+        {
+          "name": "Kamalpur  (Dhalai)",
+          "slug": "kamalpur",
+          "pin": "799285",
+          "lat": "23.9060300",
+          "lng": "91.9907970"
+        },
+        {
+          "name": "Katalutma",
+          "slug": "katalutma",
+          "pin": "799286",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kamalpur Aerodrome",
+          "slug": "kamalpur-aerodrome",
+          "pin": "799287",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kuchainala",
+          "slug": "kuchainala",
+          "pin": "799287",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kanchanpur Colony",
+          "slug": "kanchanpur-colony",
+          "pin": "799289",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kamalacherra",
+          "slug": "kamalacherra",
+          "pin": "799289",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Karnamunipara",
+          "slug": "karnamunipara",
+          "pin": "799289",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "W": [
+        {
+          "name": "West Nalkata",
+          "slug": "west-nalkata",
+          "pin": "799266",
+          "lat": "24.06562",
+          "lng": "91.993047"
+        }
+      ],
+      "P": [
+        {
+          "name": "Purba Betcherra",
+          "slug": "purba-betcherra",
+          "pin": "799266",
+          "lat": "24.06562",
+          "lng": "91.993047"
+        },
+        {
+          "name": "Paschim Dalucherra",
+          "slug": "paschim-dalucherra",
+          "pin": "799278",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "PURBA KALYANSINGPARA",
+          "slug": "purba-kalyansingpara",
+          "pin": "799284",
+          "lat": "23.626144",
+          "lng": "91.914974000000001"
+        },
+        {
+          "name": "PUSTARAIPARA",
+          "slug": "pustaraipara",
+          "pin": "799289",
+          "lat": "23.734314999999999",
+          "lng": "91.787987000000001"
+        }
+      ],
+      "D": [
+        {
+          "name": "Durgacherra",
+          "slug": "durgacherra",
+          "pin": "799273",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "DEBCHHARA",
+          "slug": "debchhara",
+          "pin": "799273",
+          "lat": "23.769309",
+          "lng": "92.021299999999997"
+        },
+        {
+          "name": "Dhumacherra",
+          "slug": "dhumacherra",
+          "pin": "799275",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Demchedrra Colony",
+          "slug": "demchedrra-colony",
+          "pin": "799275",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "DANGAMAPARA",
+          "slug": "dangamapara",
+          "pin": "799284",
+          "lat": "23.699722999999999",
+          "lng": "91.846806999999998"
+        },
+        {
+          "name": "Dalapatipara",
+          "slug": "dalapatipara",
+          "pin": "799284",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Durga Chowmuhani BO",
+          "slug": "durga-chowmuhani",
+          "pin": "799286",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "M": [
+        {
+          "name": "Manikpur",
+          "slug": "manikpur",
+          "pin": "799273",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Mainerma",
+          "slug": "mainerma",
+          "pin": "799275",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Maslicherra",
+          "slug": "maslicherra",
+          "pin": "799275",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Manughat",
+          "slug": "manughat",
+          "pin": "799275",
+          "lat": "23.9060300",
+          "lng": "91.9907970"
+        },
+        {
+          "name": "Maharani Bus Stop",
+          "slug": "maharani-bus-stop",
+          "pin": "799278",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Mechuria",
+          "slug": "mechuria",
+          "pin": "799278",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Mendihaor",
+          "slug": "mendihaor",
+          "pin": "799278",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Maracherra",
+          "slug": "maracherra",
+          "pin": "799285",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Mahavir T.E.",
+          "slug": "mahavir-t-e",
+          "pin": "799286",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Manikbhander",
+          "slug": "manikbhander",
+          "pin": "799287",
+          "lat": "23.9060300",
+          "lng": "91.9907970"
+        }
+      ],
+      "L": [
+        {
+          "name": "LALCHHARA",
+          "slug": "lalchhara",
+          "pin": "799273",
+          "lat": "23.946315999999999",
+          "lng": "92.024339999999995"
+        },
+        {
+          "name": "Laldingabari",
+          "slug": "laldingabari",
+          "pin": "799273",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Longtharai",
+          "slug": "longtharai",
+          "pin": "799275",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Laxmipur",
+          "slug": "laxmipur",
+          "pin": "799284",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Lakraichowdhuripara",
+          "slug": "lakraichowdhuripara",
+          "pin": "799289",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "C": [
+        {
+          "name": "Chailengta",
+          "slug": "chailengta",
+          "pin": "799273",
+          "lat": "23.9060300",
+          "lng": "91.9907970"
+        },
+        {
+          "name": "Chawmanu",
+          "slug": "chawmanu",
+          "pin": "799273",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Chotosarma",
+          "slug": "chotosarma",
+          "pin": "799285",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Chengkap",
+          "slug": "chengkap",
+          "pin": "799286",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Chandraipara",
+          "slug": "chandraipara",
+          "pin": "799289",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "CHAKMAPARA",
+          "slug": "chakmapara",
+          "pin": "799289",
+          "lat": "23.759246999999998",
+          "lng": "91.944837000000007"
+        }
+      ],
+      "E": [
+        {
+          "name": "East Masli",
+          "slug": "east-masli",
+          "pin": "799275",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "J": [
+        {
+          "name": "Jamircherra",
+          "slug": "jamircherra",
+          "pin": "799275",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Jagabandhu Para",
+          "slug": "jagabandhu-para",
+          "pin": "799284",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Jamthing",
+          "slug": "jamthing",
+          "pin": "799286",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "S": [
+        {
+          "name": "Sindhukumarpara",
+          "slug": "sindhukumarpara",
+          "pin": "799275",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Salema",
+          "slug": "salema",
+          "pin": "799278",
+          "lat": "23.9060300",
+          "lng": "91.9907970"
+        },
+        {
+          "name": "Sarma",
+          "slug": "sarma",
+          "pin": "799284",
+          "lat": "23.9060300",
+          "lng": "91.9907970"
+        },
+        {
+          "name": "Singibill",
+          "slug": "singibill",
+          "pin": "799285",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Srirampur Lambucherra",
+          "slug": "srirampur-lambucherra",
+          "pin": "799287",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Sikaribari",
+          "slug": "sikaribari",
+          "pin": "799289",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "R": [
+        {
+          "name": "RATANNAGAR",
+          "slug": "ratannagar",
+          "pin": "799284",
+          "lat": "23.568363000000002",
+          "lng": "91.914019999999994"
+        },
+        {
+          "name": "Ranipukur",
+          "slug": "ranipukur",
+          "pin": "799284",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Ramdurlavpur",
+          "slug": "ramdurlavpur",
+          "pin": "799285",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "G": [
+        {
+          "name": "Garodtilla",
+          "slug": "garodtilla",
+          "pin": "799285",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Ganganagar Tribalcolony",
+          "slug": "ganganagar-tribalcolony",
+          "pin": "799289",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "F": [
+        {
+          "name": "Fulcherri",
+          "slug": "fulcherri",
+          "pin": "799285",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "H": [
+        {
+          "name": "Halahali",
+          "slug": "halahali",
+          "pin": "799286",
+          "lat": "24.1469",
+          "lng": "91.82295"
+        },
+        {
+          "name": "Harincherra",
+          "slug": "harincherra",
+          "pin": "799289",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "HARIMANGALPARA",
+          "slug": "harimangalpara",
+          "pin": "799289",
+          "lat": "23.876144",
+          "lng": "91.904718000000003"
+        }
+      ],
+      "A": [
+        {
+          "name": "Abhanga",
+          "slug": "abhanga",
+          "pin": "799286",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Apareshkar",
+          "slug": "apareshkar",
+          "pin": "799286",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Ambassa",
+          "slug": "ambassa",
+          "pin": "799289",
+          "lat": "23.92172222",
+          "lng": "91.85061111"
+        }
+      ]
+    },
+    "North Tripura": {
+      "D": [
+        {
+          "name": "Dharmanagar",
+          "slug": "dharmanagar",
+          "pin": "799250",
+          "lat": "24.37883333",
+          "lng": "92.15980556"
+        },
+        {
+          "name": "Dighalbak",
+          "slug": "dighalbak",
+          "pin": "799251",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Dharmanagar Bazar",
+          "slug": "dharmanagar-bazar",
+          "pin": "799253",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Dharmanagar College",
+          "slug": "dharmanagar-college",
+          "pin": "799253",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Dhupirbond",
+          "slug": "dhupirbond",
+          "pin": "799253",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Dewanpassa",
+          "slug": "dewanpassa",
+          "pin": "799254",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Deocherra",
+          "slug": "deocherra",
+          "pin": "799260",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Dasdabazar",
+          "slug": "dasdabazar",
+          "pin": "799271",
+          "lat": "24.3788333",
+          "lng": "92.1598056"
+        }
+      ],
+      "B": [
+        {
+          "name": "Bakbaki",
+          "slug": "bakbaki",
+          "pin": "799251",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Baruakandi",
+          "slug": "baruakandi",
+          "pin": "799251",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Bhagyapur",
+          "slug": "bhagyapur",
+          "pin": "799251",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Bagbassa",
+          "slug": "bagbassa",
+          "pin": "799253",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Baithangbari",
+          "slug": "baithangbari",
+          "pin": "799254",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Balidhum",
+          "slug": "balidhum",
+          "pin": "799254",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Bilthai",
+          "slug": "bilthai",
+          "pin": "799260",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Brajendranagar",
+          "slug": "brajendranagar",
+          "pin": "799261",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Balicherra",
+          "slug": "balicherra",
+          "pin": "799262",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Belianchief",
+          "slug": "belianchief",
+          "pin": "799269",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Barhaldi",
+          "slug": "barhaldi",
+          "pin": "799271",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "I": [
+        {
+          "name": "Ichaisonapur",
+          "slug": "ichaisonapur",
+          "pin": "799251",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Ichailalcherra",
+          "slug": "ichailalcherra",
+          "pin": "799251",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Indurail",
+          "slug": "indurail",
+          "pin": "799260",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "N": [
+        {
+          "name": "Nayapara N.D",
+          "slug": "nayapara-n-d",
+          "pin": "799251",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Narendranagar",
+          "slug": "narendranagar",
+          "pin": "799256",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "North Padmabil",
+          "slug": "north-padmabil",
+          "pin": "799260",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Noagang",
+          "slug": "noagang",
+          "pin": "799260",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "P": [
+        {
+          "name": "Paschimchandrapur",
+          "slug": "paschimchandrapur",
+          "pin": "799251",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Pratyekroy",
+          "slug": "pratyekroy",
+          "pin": "799251",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Padmapur",
+          "slug": "padmapur",
+          "pin": "799253",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Paschim Radhapur",
+          "slug": "paschim-radhapur",
+          "pin": "799254",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Piplacherra",
+          "slug": "piplacherra",
+          "pin": "799256",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Padmabil",
+          "slug": "padmabil",
+          "pin": "799260",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Pekucherr",
+          "slug": "pekucherr",
+          "pin": "799260",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Panisagar",
+          "slug": "panisagar",
+          "pin": "799260",
+          "lat": "24.151",
+          "lng": "92.857"
+        },
+        {
+          "name": "Pearacherra",
+          "slug": "pearacherra",
+          "pin": "799261",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Premtala",
+          "slug": "premtala",
+          "pin": "799261",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Phuldengsai",
+          "slug": "phuldengsai",
+          "pin": "799269",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "C": [
+        {
+          "name": "Chandrapur  (North Tripura)",
+          "slug": "chandrapur",
+          "pin": "799251",
+          "lat": "24.3788333",
+          "lng": "92.1598056"
+        },
+        {
+          "name": "Churaibari",
+          "slug": "churaibari",
+          "pin": "799262",
+          "lat": "24.437103",
+          "lng": "92.242231"
+        },
+        {
+          "name": "Chhimluang",
+          "slug": "chhimluang",
+          "pin": "799269",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "S": [
+        {
+          "name": "Sakaibari",
+          "slug": "sakaibari",
+          "pin": "799251",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Sonarurbassa",
+          "slug": "sonarurbassa",
+          "pin": "799251",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "South Ganganagar",
+          "slug": "south-ganganagar",
+          "pin": "799253",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Sarala",
+          "slug": "sarala",
+          "pin": "799261",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Sanicherra",
+          "slug": "sanicherra",
+          "pin": "799262",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Sabual",
+          "slug": "sabual",
+          "pin": "799269",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Sailo",
+          "slug": "sailo",
+          "pin": "799269",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Sibnagar",
+          "slug": "sibnagar",
+          "pin": "799270",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Satnala",
+          "slug": "satnala",
+          "pin": "799270",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Suknacherra",
+          "slug": "suknacherra",
+          "pin": "799270",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Sakhan Serhmun",
+          "slug": "sakhan-serhmun",
+          "pin": "799271",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "G": [
+        {
+          "name": "Gobindapur",
+          "slug": "gobindapur",
+          "pin": "799251",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Garchirampara",
+          "slug": "garchirampara",
+          "pin": "799271",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "K": [
+        {
+          "name": "Kalacherra",
+          "slug": "kalacherra",
+          "pin": "799251",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kameswargaon",
+          "slug": "kameswargaon",
+          "pin": "799253",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Krishnapur",
+          "slug": "krishnapur",
+          "pin": "799253",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kakrirpar",
+          "slug": "kakrirpar",
+          "pin": "799253",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kacharicherra",
+          "slug": "kacharicherra",
+          "pin": "799256",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Khedacherra",
+          "slug": "khedacherra",
+          "pin": "799256",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kadamtala  (North Tripura)",
+          "slug": "kadamtala",
+          "pin": "799261",
+          "lat": "24.3788333",
+          "lng": "92.1598056"
+        },
+        {
+          "name": "Kurit",
+          "slug": "kurit",
+          "pin": "799261",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kalagangar Par",
+          "slug": "kalagangar-par",
+          "pin": "799261",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kheranjuri",
+          "slug": "kheranjuri",
+          "pin": "799262",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kangrai",
+          "slug": "kangrai",
+          "pin": "799269",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kalagong",
+          "slug": "kalagong",
+          "pin": "799269",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Konpui",
+          "slug": "konpui",
+          "pin": "799269",
+          "lat": "23.81794",
+          "lng": "92.259590000000003"
+        },
+        {
+          "name": "Kanchanpur  (North Tripura)",
+          "slug": "kanchanpur",
+          "pin": "799270",
+          "lat": "24.3788333",
+          "lng": "92.1598056"
+        },
+        {
+          "name": "Kalapania",
+          "slug": "kalapania",
+          "pin": "799271",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "H": [
+        {
+          "name": "Huruah",
+          "slug": "huruah",
+          "pin": "799251",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Halflongcherra",
+          "slug": "halflongcherra",
+          "pin": "799254",
+          "lat": "23.72124",
+          "lng": "91.74458"
+        },
+        {
+          "name": "Hmungchuan",
+          "slug": "hmungchuan",
+          "pin": "799269",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Hmunpui",
+          "slug": "hmunpui",
+          "pin": "799269",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "R": [
+        {
+          "name": "Raghna",
+          "slug": "raghna",
+          "pin": "799251",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Radhapur",
+          "slug": "radhapur",
+          "pin": "799253",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Rajbari",
+          "slug": "rajbari",
+          "pin": "799253",
+          "lat": "24.37444444",
+          "lng": "92.16497222"
+        },
+        {
+          "name": "Rajnagar Laxmipur",
+          "slug": "rajnagar-laxmipur",
+          "pin": "799254",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Rowabazar",
+          "slug": "rowabazar",
+          "pin": "799260",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Rahumcherra",
+          "slug": "rahumcherra",
+          "pin": "799260",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Ranibari",
+          "slug": "ranibari",
+          "pin": "799261",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Rakhalgang",
+          "slug": "rakhalgang",
+          "pin": "799261",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "T": [
+        {
+          "name": "Thana Road",
+          "slug": "thana-road",
+          "pin": "799251",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Tripura Ganganagar",
+          "slug": "tripura-ganganagar",
+          "pin": "799253",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Tripura Damcherra",
+          "slug": "tripura-damcherra",
+          "pin": "799256",
+          "lat": "24.1417",
+          "lng": "92.1732"
+        },
+        {
+          "name": "Tilthai Nutanbazar",
+          "slug": "tilthai-nutanbazar",
+          "pin": "799260",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Tilthai",
+          "slug": "tilthai",
+          "pin": "799260",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Tarakpur",
+          "slug": "tarakpur",
+          "pin": "799261",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Tlangsang",
+          "slug": "tlangsang",
+          "pin": "799269",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Tuichama",
+          "slug": "tuichama",
+          "pin": "799271",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "E": [
+        {
+          "name": "East Huruah",
+          "slug": "east-huruah",
+          "pin": "799253",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "East Kamesawar",
+          "slug": "east-kamesawar",
+          "pin": "799253",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "L": [
+        {
+          "name": "Lalcherra Colony",
+          "slug": "lalcherra-colony",
+          "pin": "799253",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Laljuri",
+          "slug": "laljuri",
+          "pin": "799270",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "Z": [
+        {
+          "name": "Zaithang",
+          "slug": "zaithang",
+          "pin": "799253",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "A": [
+        {
+          "name": "Algapur",
+          "slug": "algapur",
+          "pin": "799253",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Agnipassa",
+          "slug": "agnipassa",
+          "pin": "799260",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Amtilla",
+          "slug": "amtilla",
+          "pin": "799261",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Anandabazar",
+          "slug": "anandabazar",
+          "pin": "799271",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "J": [
+        {
+          "name": "Jubarajnagar",
+          "slug": "jubarajnagar",
+          "pin": "799254",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Jalebassa",
+          "slug": "jalebassa",
+          "pin": "799260",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Juri R.F",
+          "slug": "juri-r-f",
+          "pin": "799260",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Janata College",
+          "slug": "janata-college",
+          "pin": "799260",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Jalabazar",
+          "slug": "jalabazar",
+          "pin": "799260",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Jampui",
+          "slug": "jampui",
+          "pin": "799269",
+          "lat": "23.562",
+          "lng": "92.1651"
+        },
+        {
+          "name": "Joyasree",
+          "slug": "joyasree",
+          "pin": "799270",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "U": [
+        {
+          "name": "Uptakhali",
+          "slug": "uptakhali",
+          "pin": "799260",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Ujan Sailenbari",
+          "slug": "ujan-sailenbari",
+          "pin": "799260",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "W": [
+        {
+          "name": "West Panisagar",
+          "slug": "west-panisagar",
+          "pin": "799260",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "F": [
+        {
+          "name": "Fulbari",
+          "slug": "fulbari",
+          "pin": "799262",
+          "lat": null,
+          "lng": null
+        }
+      ]
+    },
+    "Unakoti": {
+      "U": [
+        {
+          "name": "Ugalcherra",
+          "slug": "ugalcherra",
+          "pin": "799263",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Ujan Dodhpur",
+          "slug": "ujan-dodhpur",
+          "pin": "799288",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Uttar Radhanagar",
+          "slug": "uttar-radhanagar",
+          "pin": "799290",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "D": [
+        {
+          "name": "Dhanicherra",
+          "slug": "dhanicherra",
+          "pin": "799263",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Darchai",
+          "slug": "darchai",
+          "pin": "799264",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Deora Cherra",
+          "slug": "deora-cherra",
+          "pin": "799279",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Dalugaon",
+          "slug": "dalugaon",
+          "pin": "799280",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Dhanbilash",
+          "slug": "dhanbilash",
+          "pin": "799280",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Dengdung",
+          "slug": "dengdung",
+          "pin": "799288",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Dudhpur",
+          "slug": "dudhpur",
+          "pin": "799288",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "G": [
+        {
+          "name": "Govidabari",
+          "slug": "govidabari",
+          "pin": "799263",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Gulakpur T.E",
+          "slug": "gulakpur-t-e",
+          "pin": "799277",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Goldharpur",
+          "slug": "goldharpur",
+          "pin": "799279",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Gournagar SO",
+          "slug": "gournagar",
+          "pin": "799282",
+          "lat": "24.3788333",
+          "lng": "92.1598056"
+        },
+        {
+          "name": "Gakulnagar",
+          "slug": "gakulnagar",
+          "pin": "799290",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Ganganagar",
+          "slug": "ganganagar",
+          "pin": "799290",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "K": [
+        {
+          "name": "Karaicherra",
+          "slug": "karaicherra",
+          "pin": "799263",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Krishnatilla",
+          "slug": "krishnatilla",
+          "pin": "799263",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kumarghat",
+          "slug": "kumarghat",
+          "pin": "799264",
+          "lat": "24.16238889",
+          "lng": "92.03797222"
+        },
+        {
+          "name": "Kalishahan",
+          "slug": "kalishahan",
+          "pin": "799277",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kailashahar",
+          "slug": "kailashahar",
+          "pin": "799277",
+          "lat": "24.32977778",
+          "lng": "91.99872222"
+        },
+        {
+          "name": "Kirtantali",
+          "slug": "kirtantali",
+          "pin": "799279",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Kanchanbari",
+          "slug": "kanchanbari",
+          "pin": "799288",
+          "lat": "24.3788333",
+          "lng": "92.1598056"
+        }
+      ],
+      "M": [
+        {
+          "name": "Machmara",
+          "slug": "machmara",
+          "pin": "799263",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Manuvelly",
+          "slug": "manuvelly",
+          "pin": "799277",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Masauli",
+          "slug": "masauli",
+          "pin": "799288",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "N": [
+        {
+          "name": "Nabincherra",
+          "slug": "nabincherra",
+          "pin": "799263",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Nalkata",
+          "slug": "nalkata",
+          "pin": "799263",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Notting Chedrra",
+          "slug": "notting-chedrra",
+          "pin": "799264",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Noorpur",
+          "slug": "noorpur",
+          "pin": "799277",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Nepaltilla",
+          "slug": "nepaltilla",
+          "pin": "799288",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Noagaon Bazar",
+          "slug": "noagaon-bazar",
+          "pin": "799290",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "A": [
+        {
+          "name": "Andharcherra",
+          "slug": "andharcherra",
+          "pin": "799263",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "R": [
+        {
+          "name": "Ramgunapara",
+          "slug": "ramgunapara",
+          "pin": "799263",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Rangrung",
+          "slug": "rangrung",
+          "pin": "799277",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Rangauti",
+          "slug": "rangauti",
+          "pin": "799281",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Rajkandi",
+          "slug": "rajkandi",
+          "pin": "799290",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Ratacherra",
+          "slug": "ratacherra",
+          "pin": "799290",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "P": [
+        {
+          "name": "Pecharthal",
+          "slug": "pecharthal",
+          "pin": "799263",
+          "lat": "24.3788333",
+          "lng": "92.1598056"
+        },
+        {
+          "name": "Pabiacherra",
+          "slug": "pabiacherra",
+          "pin": "799264",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Panichowkibazar",
+          "slug": "panichowkibazar",
+          "pin": "799277",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Paiturbazar",
+          "slug": "paiturbazar",
+          "pin": "799279",
+          "lat": "24.3788333",
+          "lng": "92.1598056"
+        },
+        {
+          "name": "Pechardahar",
+          "slug": "pechardahar",
+          "pin": "799280",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Paschimratacherra",
+          "slug": "paschimratacherra",
+          "pin": "799290",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "E": [
+        {
+          "name": "East Kanchanbari",
+          "slug": "east-kanchanbari",
+          "pin": "799264",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Emrapassa",
+          "slug": "emrapassa",
+          "pin": "799290",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "S": [
+        {
+          "name": "South Unokoti",
+          "slug": "south-unokoti",
+          "pin": "799264",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Sayedabari",
+          "slug": "sayedabari",
+          "pin": "799264",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Sadhanasram",
+          "slug": "sadhanasram",
+          "pin": "799277",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Samrurpar",
+          "slug": "samrurpar",
+          "pin": "799277",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Sreerampur",
+          "slug": "sreerampur",
+          "pin": "799277",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Sonamukhi  (North Tripura)",
+          "slug": "sonamukhi",
+          "pin": "799280",
+          "lat": "24.3788333",
+          "lng": "92.1598056"
+        },
+        {
+          "name": "Saidarpar",
+          "slug": "saidarpar",
+          "pin": "799290",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "SAMARUHALA RF",
+          "slug": "samaruhala-rf",
+          "pin": "799290",
+          "lat": "24.206427000000001",
+          "lng": "91.937087000000005"
+        }
+      ],
+      "B": [
+        {
+          "name": "Bhatisonaimuri",
+          "slug": "bhatisonaimuri",
+          "pin": "799264",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Bhadrapally",
+          "slug": "bhadrapally",
+          "pin": "799277",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Birchandranagar",
+          "slug": "birchandranagar",
+          "pin": "799280",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Balehar",
+          "slug": "balehar",
+          "pin": "799280",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Baburbazar",
+          "slug": "baburbazar",
+          "pin": "799281",
+          "lat": "24.3788333",
+          "lng": "92.1598056"
+        },
+        {
+          "name": "Bhagabannagar",
+          "slug": "bhagabannagar",
+          "pin": "799282",
+          "lat": "24.3788333",
+          "lng": "92.159805599999999"
+        }
+      ],
+      "I": [
+        {
+          "name": "Ichabpur",
+          "slug": "ichabpur",
+          "pin": "799277",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Irani",
+          "slug": "irani",
+          "pin": "799281",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "T": [
+        {
+          "name": "Tapaspalli",
+          "slug": "tapaspalli",
+          "pin": "799277",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Tripura Tillabazar",
+          "slug": "tripura-tillabazar",
+          "pin": "799281",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Taraninagar",
+          "slug": "taraninagar",
+          "pin": "799288",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Tarapur",
+          "slug": "tarapur",
+          "pin": "799290",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Teghari",
+          "slug": "teghari",
+          "pin": "799290",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "C": [
+        {
+          "name": "Chandipur",
+          "slug": "chandipur",
+          "pin": "799277",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Chantail",
+          "slug": "chantail",
+          "pin": "799279",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Chinibagan",
+          "slug": "chinibagan",
+          "pin": "799282",
+          "lat": "24.3788333",
+          "lng": "92.159805599999999"
+        }
+      ],
+      "J": [
+        {
+          "name": "Jamtolibari",
+          "slug": "jamtolibari",
+          "pin": "799277",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Jagannathpur",
+          "slug": "jagannathpur",
+          "pin": "799280",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "Z": [
+        {
+          "name": "Zarultali",
+          "slug": "zarultali",
+          "pin": "799279",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "F": [
+        {
+          "name": "Fultali",
+          "slug": "fultali",
+          "pin": "799280",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Fatikroy",
+          "slug": "fatikroy",
+          "pin": "799290",
+          "lat": "24.1036",
+          "lng": "92.0107"
+        },
+        {
+          "name": "Fatikcherra",
+          "slug": "fatikcherra",
+          "pin": "799290",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "H": [
+        {
+          "name": "Hiracherra",
+          "slug": "hiracherra",
+          "pin": "799281",
+          "lat": null,
+          "lng": null
+        }
+      ],
+      "L": [
+        {
+          "name": "Latiapur",
+          "slug": "latiapur",
+          "pin": "799281",
+          "lat": null,
+          "lng": null
+        },
+        {
+          "name": "Laljuri East",
+          "slug": "laljuri-east",
+          "pin": "799288",
+          "lat": null,
+          "lng": null
+        }
+      ]
+    }
+  }
+}
